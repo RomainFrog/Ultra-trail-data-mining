@@ -1,0 +1,1208 @@
+,race_year_id,event,race,city,country,date,start_time,participation,distance,elevation_gain,elevation_loss,aid_stations,participants,frequency_in_ranking,year
+0,68140,Peak District Ultras,Millstone 100,Castleton,United Kingdom,2021-09-03,19:00:00,solo,166.9,4520.0,-4520.0,10,150,25,2021
+1,72496,UTMB®,UTMB®,Chamonix,France,2021-08-27,17:00:00,solo,170.7,9930.0,-9930.0,11,2300,1526,2021
+2,69855,Grand Raid des Pyrénées,Ultra Tour 160,vielle-Aure,France,2021-08-20,05:00:00,solo,167.0,9980.0,-9980.0,13,600,455,2021
+3,67856,Persenk Ultra,PERSENK ULTRA,Asenovgrad,Bulgaria,2021-08-20,18:00:00,solo,164.0,7490.0,-7500.0,13,150,55,2021
+4,70469,Runfire Salt Lake Ultra,100 Mile,ulukisla,Turkey,2021-08-20,18:00:00,solo,159.9,100.0,-100.0,12,13,13,2021
+5,66887,Swiss Alps 100,160KM,Münster,Switzerland,2021-08-15,17:00:00,solo,159.9,9850.0,-9850.0,15,300,50,2021
+6,67851,Salomon Rondane 100,Salomon Rondane 100,Folldal,Norway,2021-08-14,07:00:00,solo,163.8,5460.0,-5460.0,5,23,23,2021
+7,68241,Ultra Trail des Sources,160KM,Spa,Belgium,2021-08-14,07:00:00,solo,163.9,4630.0,-4660.0,8,200,68,2021
+8,70241,Québec Mega Trail (QMT),QMT-100-MILE,Beaupre,Canada,2021-08-13,22:00:00,solo,158.9,6410.0,-6240.0,13,120,80,2021
+9,69945,Bunketorp Backyard Ultra Trail,BBUT - 24 loops,LINDOME,Sweden,2021-08-07,10:00:00,solo,163.7,3100.0,-3100.0,23,100,3,2021
+10,67218,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,2021-08-07,06:00:00,solo,165.2,3130.0,-3170.0,13,300,111,2021
+11,65713,Beacons 50 & Beacons 100,Beacons 100,Brecon,United Kingdom,2021-08-06,20:00:00,solo,164.8,7050.0,-7050.0,5,50,22,2021
+12,66425,Iznik Ultra,160 K,Iznik,Turkey,2021-08-06,18:00:00,solo,149.4,2930.0,-3040.0,12,100,21,2021
+13,66003,KAT100,KAT100miles,Fieberbrunn,Austria,2021-08-05,18:00:00,solo,173.9,9980.0,-9980.0,15,170,31,2021
+14,71873,Alpindustria Elbrus Race,ElbrusWorldRace,Terskol,Russia,2021-07-30,00:00:00,solo,169.9,9010.0,-9010.0,0,120,54,2021
+15,69219,Burning River Endurance Run,Burning River 100 Mile,Hudson,United States,2021-07-24,04:00:00,solo,163.7,2700.0,-2700.0,14,250,170,2021
+16,68455,The Gax 100 miles,The Gax 100 miles,Ystad,Sweden,2021-07-24,00:00:00,solo,162.3,1510.0,-1510.0,3,75,32,2021
+17,68575,Terres Monviso,100 Miglia Monviso,Saluzzo,Italy,2021-07-23,21:00:00,solo,168.8,8380.0,-8380.0,17,300,157,2021
+18,69019,The Gax 100 miles,The Gax 100 miles Tuesday,Ystad,Sweden,2021-07-20,00:00:00,solo,162.3,1500.0,-1500.0,3,50,27,2021
+19,67244,Tahoe Rim Trail Endurance Runs 100M/50M/55K,100 Mile,Carsoncity,United States,2021-07-17,05:00:00,solo,161.1,6170.0,-6160.0,7,300,100,2021
+20,68776,Ultra Tour des 4 Massifs,Ut4M 160 Xtrem,Grenoble,France,2021-07-16,18:00:00,solo,179.1,11290.0,-11350.0,17,473,473,2021
+21,68778,Ultra Tour des 4 Massifs,Ut4M 160 Challenge,Grenoble,France,2021-07-15,08:00:00,solo,173.1,11810.0,-11710.0,12,545,545,2021
+22,67515,Brisbane Trail Ultra,Brisbane Trail Ultra 100 mile,Brisbane,Australia,2021-07-10,02:00:00,solo,160.5,7580.0,-7610.0,7,50,42,2021
+23,70168,Centurion Wendover Woods 100,Wendover Woods 100,Wendover,United Kingdom,2021-07-09,08:00:00,solo,168.0,6610.0,-6600.0,19,120,18,2021
+24,67118,Elephant Trail Race,160 Km (100 Mile),PortMacquarie,Australia,2021-07-09,20:00:00,solo,163.2,8650.0,-8630.0,13,100,8,2021
+25,67402,NUTS Ylläs Pallas,160K,Äkäslompolo,Finland,2021-07-09,12:00:00,solo,164.3,4020.0,-4100.0,8,250,127,2021
+26,71066,ULTRA 01,Ultra 01 170 KM,Oyonnax,France,2021-07-09,18:00:00,solo,174.9,7590.0,-7590.0,15,500,127,2021
+27,64191,Val d’Aran by UTMB®,VDA,Vielha,Spain,2021-07-09,18:00:00,solo,162.9,10690.0,-10690.0,14,1500,944,2021
+28,69065,Austria Backyard Ultra,24 LOOPS,Frankenmarkt,Austria,2021-07-03,09:00:00,solo,160.7,2570.0,-2570.0,24,200,7,2021
+29,68416,Western States Endurance Run,Western States Endurance Run,Auburn,United States,2021-06-26,05:00:00,solo,161.0,5850.0,-7360.0,20,369,315,2021
+30,69919,Jurassic Coast 100,Jurassic Coast 100M,Swanage,United Kingdom,2021-06-19,08:00:00,solo,168.2,4740.0,-4680.0,9,100,50,2021
+31,68874,Mohican 100 Trail Run,Mohican 100 Mile Trail Run,Loudonville,United States,2021-06-19,05:00:00,solo,158.9,3700.0,-3700.0,19,199,199,2021
+32,68354,Ultra Trail Gaspesia 100,100 miles,Percé,Canada,2021-06-19,05:00:00,solo,159.0,4130.0,-4130.0,21,40,17,2021
+33,70181,MARATON VIA TRANSILVANICA,VIA TRANSILVANICA ULTRAMARATON,PiatraFântânele,Romania,2021-06-18,18:00:00,solo,161.8,5410.0,-4950.0,8,50,41,2021
+34,71777,Oh Meu Deus,100 Milhas OMD,Seia,Portugal,2021-06-11,16:00:00,solo,159.2,7330.0,-7330.0,9,85,37,2021
+35,71778,Oh Meu Deus,OH MEU DEUS 160 TEAM,Seia,Portugal,2021-06-11,16:00:00,team,159.2,7330.0,-7330.0,9,5,2,2021
+36,69315,Salomon Hengill Ultra-Trail ©,100miles,Hveragerdi,Iceland,2021-06-04,14:00:00,solo,161.7,5530.0,-5550.0,10,200,16,2021
+37,64849,The Arctic Triple Lofoten Ultra-Trail®,100 Miles,SVOLVÆR,Norway,2021-06-04,12:00:00,solo,165.0,7046.0,-7047.0,10,150,36,2021
+38,69395,TransPenedaGerês,TPG 168k Race of the 4 Castles,Melgaço,Portugal,2021-06-03,16:00:00,solo,166.2,9360.0,-8540.0,6,127,127,2021
+39,63925,Chester Ultra 50,Chester Ultra 100,chester,United Kingdom,2021-05-29,06:00:00,solo,167.0,1540.0,-1550.0,10,150,45,2021
+40,67033,Grand Trail Des Lacs Et Chateaux (GTLC),GT160,Waimes,Belgium,2021-05-29,04:00:00,solo,165.3,6200.0,-6200.0,0,200,184,2021
+41,71209,WHW & Ben Nevis Race,WHW & Ben Nevis Race,FortWilliam,United Kingdom,2021-05-29,11:00:00,solo,165.4,5110.0,-5080.0,9,30,11,2021
+42,66105,Bryce Canyon,Bryce Canyon 100 Mile,Hatch,United States,2021-05-28,05:00:00,solo,157.1,4310.0,-4310.0,15,300,223,2021
+43,66840,Festiwal Biegowy ULTRA WAY,PORANEK NA PLAZY 160 km+,Rumia,Poland,2021-05-28,12:00:00,solo,163.3,3020.0,-3030.0,7,200,43,2021
+44,67410,NUTS Karhunkierros,166K,Kuusamo,Finland,2021-05-28,14:00:00,solo,169.6,3910.0,-3940.0,7,250,133,2021
+45,68605,Soria Moria til Verdens Ende,Soria Moria til Verdens Ende,VerdensEnde,Norway,2021-05-22,10:00:00,solo,163.0,4230.0,-4310.0,6,150,71,2021
+46,71293,Mac Mac Ultra,100m,Pretoria,South Africa,2021-05-21,12:00:00,solo,156.8,6300.0,-6540.0,14,24,24,2021
+47,65183,Ultra-Trail® Malopolska,UTM 170,KasinkaMala,Poland,2021-05-21,17:00:00,solo,171.8,8640.0,-8640.0,8,50,14,2021
+48,64771,The Old Forest Hanmer 100,100mile,HanmerSprings,New Zealand,2021-05-14,10:00:00,solo,,,,16,23,23,2021
+49,66949,Aktivitus Trailrace,Ultra-Trail®,Jonsered,Sweden,2021-05-13,20:00:00,solo,169.2,4060.0,-4060.0,9,50,18,2021
+50,67422,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,2021-05-08,09:00:00,solo,161.3,3210.0,-3160.0,13,300,188,2021
+51,70708,Hubert 100,Hubert 100M,Hawker,Australia,2021-05-08,10:00:00,solo,157.7,2430.0,-2430.0,8,150,39,2021
+52,67736,The Dales High Way,Dales High Way + High Cup Nick,Saltaire,United Kingdom,2021-05-08,08:30:00,solo,166.2,4430.0,-4380.0,8,200,4,2021
+53,68042,Gulag-100,Gulag-100,Litochoro,Greece,2021-05-07,12:00:00,solo,167.1,14260.0,-14260.0,4,40,10,2021
+54,70440,100 miles of Beskid Wyspowy,100 miles of Beskid Wyspowy,Zalesie,Poland,2021-05-01,06:00:00,solo,164.5,6610.0,-6620.0,8,100,35,2021
+55,70255,Bó Trail,Bó Trail 170K,yibin,China,2021-05-01,09:00:00,solo,161.7,8440.0,-8440.0,13,100,2,2021
+56,69334,Yarikan100,Yarikan100,Ishikawa,Japan,2021-05-01,06:00:00,solo,164.7,8700.0,-8700.0,22,63,63,2021
+57,71184,Sengenyama 100,4th Sengenyama 100 (mile),Hayama,Japan,2021-04-24,05:00:00,solo,166.4,6110.0,-6110.0,8,50,29,2021
+58,70681,Mt. Fuji 100 Mile Challenge,100 mile,Fuji,Japan,2021-04-23,11:00:00,solo,161.9,7340.0,-7380.0,4,80,60,2021
+59,71704,Tamba 100 Adventure Trail,Tamba 100 Adventure Trail,Tamba,Japan,2021-04-23,06:00:00,solo,162.7,9200.0,-9200.0,13,100,8,2021
+60,69319,Ultra-Trail® Drakensberg,UTD 160,Underberg,South Africa,2021-04-23,10:00:00,solo,171.6,5160.0,-6500.0,12,52,52,2021
+61,69523,Jiangnan 100 Mile,100Mile,Ningbo,China,2021-04-16,14:00:00,solo,161.0,7060.0,-7060.0,13,594,594,2021
+62,65403,Zion,Zion 100,Virgin,United States,2021-04-10,05:00:00,solo,160.8,2830.0,-2880.0,15,250,160,2021
+63,68615,Patagonia Run,100 Miles,SanMartinDeLosAndes,Argentina,2021-04-09,10:00:00,solo,163.7,8140.0,-8140.0,15,280,238,2021
+64,69758,Ultra Trail Jinan,168km,jinan,China,2021-04-09,16:00:00,solo,161.5,10810.0,-10790.0,16,100,21,2021
+65,70118,QLG168,QLG168,QUZHOU,China,2021-04-02,16:30:00,solo,168.0,10740.0,-10740.0,10,10,7,2021
+66,66689,Volcano UltraMarathon Extreme,Volcano 100 Millas,,Costa Rica,2021-03-30,06:30:00,solo,160.5,6440.0,-6560.0,13,50,19,2021
+67,71992,Antelope Island Buffalo Run,100 mile,Syracuse,United States,2021-03-26,10:00:00,solo,162.0,2200.0,-2200.0,16,400,55,2021
+68,68098,Kullamannen 2021 Covid-19,Kullamannen 100 miles,Kullaberg,Sweden,2021-03-26,09:00:00,solo,163.6,1910.0,-1930.0,4,600,10,2021
+69,71140,Northburn 100 Miler,100 Mile,Cromwell,New Zealand,2021-03-20,06:00:00,solo,161.4,9460.0,-9470.0,12,50,46,2021
+70,68348,UTTGN Sport HG | TARRAGONA,Gran Trail Catalunya,Tarragona,Spain,2021-03-05,22:00:00,solo,169.8,5160.0,-5160.0,13,50,20,2021
+71,64671,Victoria 162,V162 Virtual,HongKong,"Hong Kong, China",2021-02-27,00:00:00,solo,166.7,7700.0,-7700.0,0,200,22,2021
+72,71220,Run Lovit,100M,,United States,2021-02-26,00:00:00,solo,,,,0,30,30,2021
+73,64661,Victoria 162,3-day Race Virtual,HongKong,"Hong Kong, China",2021-02-26,08:00:00,solo,165.9,8320.0,-8340.0,0,100,18,2021
+74,68501,Storstenshöjden 100 miles,Storstenshöjden 100 miles,Örebro,Sweden,2021-02-19,06:00:00,solo,168.4,11550.0,-11530.0,0,50,3,2021
+75,64219,Tarawera Ultramarathon,100 Miler,Rotorua,New Zealand,2021-02-13,04:00:00,solo,165.4,5510.0,-5520.0,14,300,194,2021
+76,65413,HOKA ONE ONE Rocky Raccoon,100 Mile,Huntsville,United States,2021-02-06,06:00:00,solo,160.9,2200.0,-2200.0,19,500,369,2021
+77,69001,Coldwater Rumble,100 Miles,Goodyear,United States,2021-01-16,07:00:00,solo,161.8,2660.0,-2670.0,16,600,85,2021
+78,64103,The Great Southern Alps Miler,The Great Southern Alps Miler,HanmerSprings,New Zealand,2021-01-15,07:00:00,solo,160.3,3180.0,-3300.0,8,2,2,2021
+79,68010,UTCL100,UTCL 100 Miles,Bogor,Indonesia,2021-01-09,06:00:00,solo,161.0,6420.0,-6410.0,18,30,6,2021
+80,67526,UTSZ 2020 Trail Races,UTSZ 100 miles,Shenzhen,China,2020-12-26,04:30:00,solo,162.6,6610.0,-6630.0,8,50,8,2020
+81,68562,Run Guizhou League Finals,Luodian168KM,Luodian,China,2020-12-25,14:00:00,solo,167.7,9770.0,-9770.0,15,50,23,2020
+82,64575,Mad Fox Ultra Rise,Valhalla Race,PereslavlZalesskiy,Russia,2020-12-19,16:00:00,solo,167.5,1200.0,-1200.0,10,168,168,2020
+83,64037,Around The Valley - Sovev Emek,sovev emek 166km,ainhasofet,Israel,2020-12-10,06:00:00,solo,172.9,3840.0,-3840.0,18,300,7,2020
+84,68007,Falls 100 Ultra Trail Race,Falls 100 - 100 Mile,FallsofRough,United States,2020-12-05,07:00:00,solo,164.5,4310.0,-4310.0,24,250,42,2020
+85,58877,Blood Rock 100 Mile Endurance Trail Race,100 Mile,Pelham,United States,2020-12-04,12:00:00,solo,161.9,7610.0,-7610.0,16,200,48,2020
+86,67289,Sky Ultra Pico Mx,SKY ULTRA PICO MX 100M,ORIZABA,Mexico,2020-12-04,00:01:00,solo,160.2,8660.0,-8660.0,15,75,49,2020
+87,67634,Ultra Trail Three Gorges,UTTG,Yichang,China,2020-11-26,18:00:00,solo,170.8,10470.0,-10320.0,13,200,71,2020
+88,56323,Best of San Diego 100 Miler,100 Miler,SanDiego,United States,2020-11-21,05:00:00,solo,160.9,2590.0,-2590.0,5,5,5,2020
+89,64481,Panda Trail by UTMB®,DPT,Dujiangyan,China,2020-11-20,18:00:00,solo,157.8,9280.0,-9280.0,12,152,152,2020
+90,68472,Sengenyama 100,Sengenyama 100,Hayama,Japan,2020-11-14,05:00:00,solo,166.4,6100.0,-6100.0,4,50,27,2020
+91,68239,Jiangnan 100 Mile,100Mile - November,Ningbo,China,2020-11-13,14:00:00,solo,160.5,7060.0,-7060.0,13,335,335,2020
+92,59437,Pinhoti 100,Pinhoti 100,Sylacauga,United States,2020-11-07,07:00:00,solo,155.0,4060.0,-4180.0,17,250,207,2020
+93,62737,Rim to River Endurance Company,Rim to River 100,OakHill,United States,2020-11-07,06:30:00,solo,160.9,3760.0,-3750.0,8,250,139,2020
+94,69754,Tunnel Hill  100 & 50 mile runs,100mi,Vienna,United States,2020-11-07,07:00:00,solo,161.4,1690.0,-1690.0,21,36,36,2020
+95,67282,Pong Yaeng Trail,Pong Yaeng Trail 166,ChiangMai,Thailand,2020-11-06,10:00:00,solo,167.5,8280.0,-8060.0,14,200,138,2020
+96,59805,Javelina Jundred,100 Miles,FortMcDowell,United States,2020-10-31,06:00:00,solo,160.5,1720.0,-1720.0,26,800,160,2020
+97,68633,Mohican 100 Trail Run,Mohican 100 Mile Trail Run,Loudonville,United States,2020-10-31,05:00:00,solo,156.0,3630.0,-3620.0,19,82,82,2020
+98,67406,Halloween hike,160 km,Kannonkoski,Finland,2020-10-30,19:00:00,solo,160.3,2110.0,-2110.0,5,2,2,2020
+99,62531,THAILAND BY UTMB,Inthanon 6,ChomThong,Thailand,2020-10-30,10:00:00,solo,159.6,7340.0,-7340.0,15,500,80,2020
+100,62021,Cactus Rose,100 Mile,Bandera,United States,2020-10-24,05:00:00,solo,162.4,3500.0,-3500.0,20,550,61,2020
+101,67723,EstrelAçor Ultra Endurance,EA Penhas Manteiga 2020,PenhasdaSaúde,Portugal,2020-10-23,11:00:00,solo,157.8,6910.0,-7600.0,0,80,7,2020
+102,62193,Cloudsplitter 100,100 Mile,Norton,United States,2020-10-17,08:00:00,solo,157.5,5610.0,-5610.0,16,100,26,2020
+103,67914,Shanhaiguan Trail Race,168K,qinhuangdao,China,2020-10-17,04:00:00,solo,162.0,9320.0,-9070.0,14,100,25,2020
+104,56017,Mines of Spain,100 Mile,Davenport,United States,2020-10-16,08:00:00,solo,167.5,4310.0,-4320.0,19,98,98,2020
+105,51397,Bèrghem Ultra,Åkersætra 666 m.o.h.,Hamar,Norway,2020-10-10,08:00:00,solo,163.2,2970.0,-3360.0,0,50,7,2020
+106,56693,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,2020-10-10,09:00:00,solo,161.5,2060.0,-2060.0,16,250,151,2020
+107,58579,Midstate Massive Ultra Trail,Midstate Massive Ultra Trail,NewIpswitch,United States,2020-10-10,00:00:00,solo,163.6,3720.0,-3980.0,16,125,91,2020
+108,49589,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,2020-10-08,10:00:00,solo,160.7,1610.0,-1610.0,13,180,52,2020
+109,52607,Brisbane Trail Ultra,Brisbane Trail Ultra 100 mile,Brisbane,Australia,2020-10-03,05:00:00,solo,160.4,7550.0,-7590.0,7,50,10,2020
+110,54013,SPARNATRAIL,P'tiot Sparnatrail,EPERNAY,France,2019-11-10,07:45:00,solo,33.3,750.0,-750.0,1,1800,693,2019
+111,66483,Mt. Wumeng Ultra Trail,KINETIK 165K,Zhaotong,China,2020-10-02,19:00:00,solo,164.1,7440.0,-7090.0,13,80,11,2020
+112,62347,North Coast 100,North Coast 110M,Barnstaple,United Kingdom,2020-10-02,07:00:00,solo,174.5,5570.0,-5540.0,8,50,19,2020
+113,60243,Schinder-Trail Backyard Ultra,23 Loops,Rettert,Germany,2020-10-02,20:00:00,solo,157.2,3060.0,-3060.0,23,200,7,2020
+114,66580,TransPenedaGerês,TPG 160k Race of the 4 Castles,Melgaço,Portugal,2020-10-02,07:00:00,solo,167.4,8010.0,-7200.0,5,87,87,2020
+115,61189,Spain Backyard Ultra,Spain Backyard Ultra  24 Loops,CastroCaldelas,Spain,2020-09-26,10:00:00,solo,161.1,6890.0,-6890.0,23,150,7,2020
+116,59557,BEAR 100,Bear 100 Endurance Trail Race,Smithfield,United States,2020-09-25,06:00:00,solo,162.7,6460.0,-6130.0,13,300,207,2020
+117,66321,Cold Hawaii Ultra,Cold Hawaii Ultra 100 miles,Thisted,Denmark,2020-09-25,18:00:00,solo,162.6,2000.0,-2010.0,6,50,18,2020
+118,65591,Mossarun,"Mossarun 2020, 24h/100 miles",Älmhult,Sweden,2020-09-19,12:00:00,solo,171.8,3940.0,-3950.0,0,50,20,2020
+119,59995,Sangre de Cristo Ultras,100-Mile,Westcliffe,United States,2020-09-19,04:00:00,solo,168.2,5910.0,-5910.0,13,300,23,2020
+120,50041,Dragon 100,Dragon 100,Cardiff,United Kingdom,2020-09-12,18:00:00,solo,165.0,3560.0,-3550.0,11,200,38,2020
+121,53559,GUUT100+,GUUT100MILES+,Gentofte,Denmark,2020-09-12,09:00:00,solo,167.4,1610.0,-1620.0,1,20,16,2020
+122,67160,IDAHO MOUNTAIN TRAIL ULTRA FESTIVAL,100 Mile,,United States,2020-09-12,00:00:00,solo,,,,0,189,189,2020
+123,67713,Pine creek challenge,100Miles,Wellsboro,"PA, United States",2020-09-12,00:00:00,solo,,,,0,73,73,2020
+124,62121,Garmin Ultra Race Radków,Challange 158,RADKÓW,Poland,2020-09-11,05:00:00,solo,163.9,5700.0,-5700.0,11,50,43,2020
+125,49901,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,2020-09-05,09:00:00,solo,161.3,3160.0,-3110.0,13,300,183,2020
+126,53999,SwissPeaks Trail,170,LeBouveret,Switzerland,2020-09-03,10:00:00,solo,167.0,11140.0,-12910.0,15,400,268,2020
+127,59481,Runfire Salt Lake Ultra,100 Mile,ulukisla,Turkey,2020-08-29,18:00:00,solo,160.1,2770.0,-2770.0,15,32,32,2020
+128,58623,Burning River Endurance Run,100 Mile,Hudson,United States,2020-08-22,04:00:00,solo,163.6,2700.0,-2700.0,14,250,83,2020
+129,59271,Hardmoors,110 Mi,,United Kingdom,2020-08-22,00:00:00,solo,169.9,3760.0,-3720.0,12,150,108,2020
+130,57055,100 miles of Beskid Wyspowy,100 miles of Beskid Wyspowy,Zalesie,Poland,2020-08-21,07:00:00,solo,161.6,6510.0,-6510.0,8,100,19,2020
+131,54829,Persenk Ultra,PERSENK ULTRA,Asenovgrad,Bulgaria,2020-08-21,18:00:00,solo,164.0,7490.0,-7500.0,13,150,50,2020
+132,61035,ULTRA 01,Ultra 165km,Oyonnax,France,2020-08-21,18:00:00,solo,167.2,7230.0,-7230.0,8,300,231,2020
+133,57587,Salomon Rondane 100,Salomon Rondane 100,Folldal,Norway,2020-08-15,05:00:00,solo,163.6,5450.0,-5440.0,5,93,93,2020
+134,54869,Ultra Trail des Sources,Ultra Trail des Sources,Spa,Belgium,2020-08-15,07:00:00,solo,158.8,4500.0,-4500.0,8,200,73,2020
+135,65665,Columbia Sanfo Ultra 168-Chongli,UTC,Chongli,China,2020-08-14,17:00:00,solo,161.1,7370.0,-7370.0,15,600,299,2020
+136,55265,Sport-Marafon Trail,165 km,Nikola-Lenivets,Russia,2020-08-09,21:00:00,solo,162.5,1450.0,-1450.0,13,25,25,2020
+137,62503,Bunketorp Backyard Ultra Trail,BBUT - 24 loops,LINDOME,Sweden,2020-08-08,10:00:00,solo,163.7,3100.0,-3100.0,23,120,3,2020
+138,51393,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,2020-08-08,06:00:00,solo,168.2,3440.0,-3480.0,14,300,107,2020
+139,53939,Halland Ultra-Beach,100 miles,Göteborg,Sweden,2020-08-08,12:00:00,solo,161.7,1740.0,-1750.0,2,50,30,2020
+140,66836,INNER MONGOLIA ULTRA MARATHON,Laoniuwan 168km,Hohhot,China,2020-08-08,07:40:00,solo,165.2,4600.0,-4600.0,15,100,61,2020
+141,51777,Chiemgauer 100,100 Mile,Bergen,Germany,2020-07-31,13:00:00,solo,,,,9,150,11,2020
+142,50051,Infinity Trail Backyard - Normandie,Infinity Trail - 23 boucles,PAVILLY,France,2020-07-31,14:00:00,solo,155.3,5160.0,-5160.0,1,80,2,2020
+143,56831,The Gax 100 miles,The Gax 100 miles,Ystad,Sweden,2020-07-25,00:00:00,solo,160.6,1510.0,-1510.0,3,72,41,2020
+144,50845,Elephant Trail Race,160 Km (100 Mile),PortMacquarie,Australia,2020-07-17,20:00:00,solo,163.2,8650.0,-8630.0,13,100,12,2020
+145,66413,Palisades Ultra Trail Series,Moose 100 Mile,Irwin,United States,2020-07-17,05:00:00,solo,,,,14,24,24,2020
+146,60049,Silverheels 100-Mile Endurance Run,100 Mile,Fairplay,United States,2020-07-11,04:00:00,solo,166.7,4650.0,-4650.0,24,200,25,2020
+147,50803,Nuts Ylläs Pallas,160K,Äkäslompolo,Finland,2020-07-10,12:00:00,solo,165.7,4400.0,-4480.0,10,250,77,2020
+148,62705,Huanglong Extreme Endunrance Race,QZG+UTHL100,Huanglong,China,2020-07-03,06:00:00,relay,159.8,7700.0,-8200.0,10,14,14,2020
+149,55429,Soria Moria til Verdens Ende,Soria Moria til Verdens Ende,VerdensEnde,Norway,2020-06-20,10:00:00,solo,168.6,4670.0,-5140.0,6,150,92,2020
+150,50523,Bryce Canyon,100 Mile,Hatch,United States,2020-05-15,00:00:00,solo,157.1,4320.0,-4320.0,13,300,44,2020
+151,48383,Jiangnan 100 Mile,100Mile,Ningbo,China,2020-04-10,14:00:00,solo,160.5,7060.0,-7060.0,13,150,1,2020
+152,49345,Antelope Canyon,100 Mile,Page,United States,2020-03-14,06:00:00,solo,159.4,1850.0,-1850.0,10,300,36,2020
+153,53633,Borneo Ultra-Trail® Marathon,100 Miles,KotaKinabalu,Malaysia,2020-03-14,06:00:00,solo,161.0,7620.0,-7620.0,16,300,159,2020
+154,61149,Addo Elephant Trail Run,100 Mile,Addo,South Africa,2020-03-13,14:00:00,solo,161.2,5640.0,-5130.0,16,100,80,2020
+155,52827,100 MILLAS® SIERRAS DEL BANDOLERO,100 Millas,PradodelRey,Spain,2020-03-06,18:00:00,solo,161.1,6170.0,-6170.0,14,500,201,2020
+156,63235,Chattanooga 100 Mile Trail Race,Chattanooga 100 Mile Trail Race,RisingFawn,United States,2020-03-06,00:00:00,solo,158.1,3770.0,-3770.0,14,250,67,2020
+157,57473,Les Traces du Nord Basse-Terre,L'Ultra-Trail®,Petit-Bourg,France,2020-02-28,18:30:00,solo,161.4,6240.0,-6240.0,14,400,10,2020
+158,62593,Run Lovit,100M,,United States,2020-02-28,00:00:00,solo,,,,0,28,28,2020
+159,51649,Ultra-Trail® Of Taiwan 100 miles,100 miles,Keelung,Taiwan,2020-02-28,02:00:00,solo,158.6,7830.0,-7830.0,10,10,3,2020
+160,55551,Ultra Trail Thailand,Inthanon 6,ChomThong,Thailand,2020-02-14,10:00:00,solo,175.0,7850.0,-7850.0,16,100,55,2020
+161,59053,Lone Star 100,100M,ElPaso,United States,2020-02-08,05:00:00,solo,158.6,5930.0,-5850.0,9,36,36,2020
+162,49059,Tarawera Ultramarathon,100 Miler,Rotorua,New Zealand,2020-02-08,04:00:00,solo,162.4,5200.0,-5220.0,14,300,259,2020
+163,51945,Tjörnarparen - Trail Ultra,100 miles,TJÖRNARP,Sweden,2020-02-08,09:00:00,solo,162.1,2300.0,-2330.0,9,50,11,2020
+164,57191,Grandmaster Ultras,100 miler,Littlefield,United States,2020-02-07,08:00:00,solo,158.6,1730.0,-1730.0,14,26,26,2020
+165,61175,Orcas Island 100 Mile,Orcas Island 100 Mile,Olga,United States,2020-02-07,08:00:00,solo,163.5,7570.0,-7570.0,19,90,52,2020
+166,49849,HOKA ONE ONE Rocky Raccoon,100 Mile,Huntsville,United States,2020-02-01,06:00:00,solo,163.1,2260.0,-2260.0,19,500,378,2020
+167,53283,LE DERNIER HOMME DEBOUT MORVAN,24 Boucles,Chateau-Chinon,France,2020-01-25,11:50:00,solo,169.9,5740.0,-5740.0,1,350,6,2020
+168,57131,Coldwater Rumble,100 Miles,Goodyear,United States,2020-01-18,07:00:00,solo,161.8,2660.0,-2670.0,16,400,61,2020
+169,60007,HURT 100,HURT 100 MILE ENDURANCE RUN,,United States,2020-01-18,00:00:00,solo,161.0,8200.0,-8200.0,0,125,125,2020
+170,50097,The Great Southern Alps Miler,The Great Southern Alps Miler,HanmerSprings,New Zealand,2020-01-17,07:00:00,solo,,,,8,4,4,2020
+171,60495,MONTANE® Spine® Races,MONTANE® Spine® Challenger,Edale,United Kingdom,2020-01-11,08:00:00,solo,174.2,4770.0,-4770.0,4,125,110,2020
+172,60491,MONTANE® Spine® Races,MRT Challenge,Edale,United Kingdom,2020-01-11,11:00:00,solo,174.2,4770.0,-4770.0,4,30,25,2020
+173,44291,S1 Trail La Corsa Della Bora,Ultra,TRIESTE,Italy,2020-01-04,06:00:00,solo,166.3,6750.0,-7110.0,9,150,105,2020
+174,49431,GOLDEN 100 HONG KONG,100Miles,HongKong,"Hong Kong, China",2019-12-27,20:00:00,solo,163.0,9180.0,-9130.0,16,55,55,2019
+175,45417,UTSZ Trail Races,100Miles,shenzhen,China,2019-12-21,04:30:00,solo,166.6,8110.0,-8120.0,16,100,17,2019
+176,65861,Loup Garou 100 Mile Trail Run,100M,VillePlatte,"LA, United States",2019-12-14,00:00:00,solo,,,,0,48,48,2019
+177,48861,Mad Fox Ultra Revenge,Valhalla Race,PereslavlZalesskiy,Russia,2019-12-14,16:00:00,solo,156.2,1650.0,-1650.0,10,200,100,2019
+178,58259,La Misión  - VLA - Argentina,La Misión 160 VLA -,VillalaAngostura,Argentina,2019-12-12,09:00:00,solo,163.3,7240.0,-7240.0,1,100,48,2019
+179,43585,Brazos Bend 100,100M,Needville,United States,2019-12-07,06:00:00,solo,162.3,2730.0,-2720.0,6,205,205,2019
+180,55417,Falls 100 Ultra Trail Race,100 Mile,FallsofRough,United States,2019-12-07,07:00:00,solo,162.5,4230.0,-4230.0,41,140,8,2019
+181,43795,Exodus Ultra Marathon,Exodus,Llanfechain,United Kingdom,2019-12-06,19:00:00,solo,170.0,6550.0,-6540.0,3,50,47,2019
+182,51033,Sky Ultra Pico Mx,Sky Ultra Pico Mx 100M,ORIZABA,Mexico,2019-12-06,12:00:00,solo,159.6,8270.0,-8240.0,16,50,43,2019
+183,42239,Ultra-Trail® Panoramic,100Miles,AmphurMuang,Thailand,2019-12-06,16:00:00,solo,157.0,6040.0,-6050.0,15,300,94,2019
+184,48423,HK168,Full168,TaiMeiTuk,"Hong Kong, China",2019-11-29,15:00:00,solo,168.8,10400.0,-10400.0,14,400,61,2019
+185,47165,Oman by UTMB,170km,Muscat,Oman,2019-11-28,19:30:00,solo,170.9,10570.0,-10490.0,25,100,56,2019
+186,50187,Ultra Trail Three Gorges,UTTG,Yichang,China,2019-11-28,20:00:00,solo,172.8,10410.0,-10230.0,13,450,54,2019
+187,30267,Alpine Challenge,100 Mile Individual,BerrysCreek,Australia,2019-11-23,04:30:00,solo,155.3,6450.0,-6450.0,4,100,48,2019
+188,42867,Best of San Diego 100 Miler,100 Miler,SanDiego,United States,2019-11-23,05:00:00,solo,161.6,2560.0,-2520.0,5,10,10,2019
+189,46539,Oman Desert Marathon,Oman Desert Marathon,Bidiyah,Oman,2019-11-16,06:30:00,solo,163.0,3120.0,-3590.0,13,99,50,2019
+190,47381,Pong Yaeng Trail,Pong Yaeng Trail 166,ChiangMai,Thailand,2019-11-15,10:00:00,solo,172.2,8000.0,-8000.0,14,200,189,2019
+191,50241,Tunnel Hill  100 & 50 mile runs,100mi,Vienna,United States,2019-11-09,07:00:00,solo,161.4,1540.0,-1540.0,21,225,225,2019
+192,46657,Bhatti Lakes Ultra,160 Km,Faridabad,India,2019-11-08,14:00:00,solo,160.7,960.0,-960.0,0,20,8,2019
+193,59415,RIO DEL LAGO 100,100 MILES,,United States,2019-11-07,00:00:00,solo,,,,19,341,341,2019
+194,58289,Ozark Trail 100 Mile Endurance Run,100 Mi,Shawnee,United States,2019-11-02,06:00:00,solo,,,,13,56,47,2019
+195,41009,Pinhoti 100,Pinhoti 100,Sylacauga,United States,2019-11-02,07:00:00,solo,155.0,4060.0,-4180.0,17,250,232,2019
+196,46671,Bromo Tengger Semeru 100 Ultra,BTS 170K,Bogor,Indonesia,2019-11-01,19:00:00,solo,169.5,7540.0,-7540.0,15,50,9,2019
+197,50463,Kullamannen,Kullamannen Ultra 100 Miles,Kullaberg,Sweden,2019-11-01,09:00:00,solo,174.4,4260.0,-4240.0,11,500,343,2019
+198,54821,Cactus Rose,100 Mile,Bandera,United States,2019-10-27,05:00:00,solo,162.4,3500.0,-3500.0,20,27,27,2019
+199,54119,Halloween hike,160 km,Kannonkoski,Finland,2019-10-26,08:00:00,solo,159.0,2130.0,-2130.0,4,1,1,2019
+200,43385,Javelina Jundred,100 Miles,FortMcDowell,United States,2019-10-26,06:00:00,solo,160.5,1720.0,-1720.0,26,799,425,2019
+201,52353,GRAN VUELTA VALLE DEL GENAL,100 millas Valle del Genal,BENARRABA,Spain,2019-10-25,21:00:00,solo,162.0,7400.0,-7400.0,20,220,197,2019
+202,47279,Around The Valley - Sovev Emek,166km,ainhasofet,Israel,2019-10-24,06:00:00,solo,164.2,3380.0,-3390.0,18,100,16,2019
+203,46241,Jordan Running Adventure Race,165 km non stop,WadiRum,Jordan,2019-10-24,06:30:00,solo,165.2,2790.0,-2560.0,0,20,5,2019
+204,56591,GHOST TRAIN RAIL TRAIL RACE 100,100 Mi,,United States,2019-10-19,00:00:00,solo,,,,0,59,59,2019
+205,54493,Shanhaiguan Trail Race,168K,qinhuangdao,China,2019-10-19,04:00:00,solo,160.2,9470.0,-9230.0,14,100,11,2019
+206,40621,Mines of Spain,100 Mile,Davenport,United States,2019-10-18,08:00:00,solo,169.0,4330.0,-4330.0,19,76,76,2019
+207,56729,Rodopi Ultra Trail,Rodopi Advendurun,Haidou,Greece,2019-10-18,06:00:00,solo,162.9,6910.0,-6910.0,6,200,99,2019
+208,48019,Le Grand Raid De La Réunion,La Diagonale Des Fous,SaintDenis,France,2019-10-17,22:00:00,solo,168.1,9610.0,-9560.0,15,2900,2716,2019
+209,50683,Crimea X Run,Stage Race,Yalta,Ukraine,2019-10-16,10:00:00,solo,169.1,8310.0,-8140.0,11,209,209,2019
+210,52399,Ultra Trails Lake Tahoe,100 Mile,Truckee,United States,2019-10-13,05:30:00,solo,159.2,6590.0,-6590.0,20,100,6,2019
+211,46617,Bromont Ultra,160km,Bromont,Canada,2019-10-12,07:00:00,solo,155.6,6220.0,-6220.0,17,45,45,2019
+212,40741,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,2019-10-12,09:00:00,solo,161.5,2060.0,-2060.0,14,250,154,2019
+213,42123,Cloudsplitter 100,100 Mile,Norton,United States,2019-10-12,08:00:00,solo,160.7,5660.0,-5660.0,16,100,32,2019
+214,39531,Hume And Hovell Ultra,100 Mile,Tumbarumba,Australia,2019-10-12,06:00:00,solo,163.1,4610.0,-4600.0,10,100,33,2019
+215,41175,INDIANA TRAIL 100,100 mi,Albion,United States,2019-10-12,06:00:00,solo,162.4,3480.0,-3460.0,5,250,210,2019
+216,45287,Markotkh - R,100 miles - Solo,Novorossiysk,Russia,2019-10-12,12:00:00,solo,162.7,6910.0,-6910.0,34,100,4,2019
+217,47701,Midstate Massive Ultra Trail,Midstate Massive Ultra Trail,NewIpswitch,United States,2019-10-12,00:00:00,solo,162.4,3720.0,-3970.0,16,500,30,2019
+218,47571,Snowdon Ultra,Snowdon Ultra 100,BetwsyCoed,United Kingdom,2019-10-12,06:00:00,solo,163.5,7600.0,-7600.0,13,100,17,2019
+219,54421,The Cederberg Traverse,100 Mile,Cederberg,South Africa,2019-10-11,06:00:00,solo,163.0,6500.0,-6500.0,5,50,12,2019
+220,52435,The North Face Endurance Challenge Chile,160 Km,Huechuraba,Chile,2019-10-11,17:00:00,solo,163.9,8220.0,-9860.0,16,100,83,2019
+221,50011,ULTRA DE ULTRAS,170 Km ULTRA DE ULTRAS,CUNDINAMARCA,Colombia,2019-10-11,20:00:00,solo,170.0,9910.0,-9910.0,14,50,13,2019
+222,52499,Virgin Forest Trail,Ultra-Trail®,PARANESTI,Greece,2019-10-11,00:00:00,solo,163.9,7260.0,-7260.0,15,150,52,2019
+223,42707,100 Miles Sud De France,100 Miles,bolquere,France,2019-10-04,10:00:00,solo,172.5,8420.0,-10160.0,15,500,235,2019
+224,58551,Grindstone 100,Grindstone 100,Swoope,United States,2019-10-04,00:00:00,solo,159.6,6980.0,-6980.0,15,300,198,2019
+225,46687,MesaStila 100,170 Km,Magelang,Indonesia,2019-10-04,17:00:00,solo,167.9,9590.0,-9590.0,11,4,4,2019
+226,45167,SLO100,SLO100 KRPAN 171 km,Cerknica,Slovenia,2019-10-04,15:00:00,solo,173.5,7790.0,-7790.0,11,150,7,2019
+227,45319,Szlak Orlich Gniazd - Ultra,Szlak Orlich Gniazd - Ultra,KwasniówDolny,Poland,2019-10-04,20:00:00,solo,161.3,2710.0,-2690.0,7,100,49,2019
+228,46701,Ultra-Trail el Rincon,UTR 170K,Castielfabib,Spain,2019-10-04,19:00:00,solo,172.1,6730.0,-6720.0,15,100,25,2019
+229,46901,Waterous Trail On Foot,WTF 100,Dwellingup,Australia,2019-09-28,06:00:00,solo,163.0,3960.0,-3960.0,7,30,16,2019
+230,38949,BEAR 100,Bear 100 Endurance Trail Race,Smithfield,United States,2019-09-27,06:00:00,solo,163.0,6680.0,-6350.0,13,334,334,2019
+231,39019,The Georgia Jewel,100 Miler,Dalton,United States,2019-09-22,05:00:00,solo,162.8,4000.0,-4000.0,18,80,80,2019
+232,45885,Black River Run,100 Miles,Västerås,Sweden,2019-09-21,10:00:00,solo,161.5,1030.0,-1030.0,9,200,97,2019
+233,36169,Cotswold Way Century,102 Miles,ChippingCampden,United Kingdom,2019-09-21,12:00:00,solo,165.6,4130.0,-4240.0,10,130,99,2019
+234,47035,Pirin Ultra,160km,Bansko,Bulgaria,2019-09-21,00:00:00,solo,161.2,10980.0,-10980.0,9,88,88,2019
+235,40097,Sangre de Cristo Ultras,100-Mile,Westcliffe,United States,2019-09-21,04:00:00,solo,168.2,5910.0,-5910.0,13,300,26,2019
+236,42289,Whistler Alpine Meadows,100M,Whistler,Canada,2019-09-21,10:00:00,solo,174.8,10310.0,-10300.0,10,300,108,2019
+237,38525,Adamello Ultra-Trail®,Ultra-Trail®,Vezzad'Oglio,Italy,2019-09-20,09:00:00,solo,165.0,11380.0,-11380.0,19,111,111,2019
+238,52425,Karkloof100,Karkloof100,Howick,South Africa,2019-09-20,20:00:00,solo,157.0,3330.0,-3410.0,18,140,137,2019
+239,47641,Midnight Moose Ultra,160K,Chelsea,Canada,2019-09-20,08:00:00,solo,160.8,4870.0,-4870.0,11,100,16,2019
+240,58553,IDAHO MOUNTAIN TRAIL ULTRA FESTIVAL,100 Mile,,United States,2019-09-14,00:00:00,solo,,,,0,119,119,2019
+241,40445,Mogollon Monster 100,100 Mi,Pine,United States,2019-09-14,06:00:00,solo,164.7,5540.0,-5530.0,12,150,108,2019
+242,58291,PLAIN 100 MILE ENDURANCE RUN,100 MILE,,United States,2019-09-14,00:00:00,solo,,,,0,21,21,2019
+243,51495,Shinetsu Five Mountains Trail,100 miles,Ohzatagiri,"Myoko, Japan",2019-09-14,18:30:00,solo,160.3,6570.0,-6390.0,9,328,328,2019
+244,46739,THE GREAT NORTH WALK ULTRAs,100 MILES,Patonga,Australia,2019-09-14,06:00:00,solo,162.5,5100.0,-5110.0,5,100,14,2019
+245,42807,GARMIN ULTRA RACE STOLOWE MOUNTAINS,Challange 158,RADKÓW,Poland,2019-09-13,05:00:00,solo,158.9,5350.0,-5340.0,11,53,53,2019
+246,52973,RUN RABBIT RUN,100 Hare,,United States,2019-09-13,00:00:00,solo,165.8,6160.0,-6160.0,0,40,40,2019
+247,49537,Uttarkashi 135,Uttarkashi 160,Uttarkashi,India,2019-09-13,06:00:00,solo,157.4,8270.0,-7820.0,0,20,1,2019
+248,67711,Pine creek challenge,100Miles,Wellsboro,"PA, United States",2019-09-07,00:00:00,solo,,,,0,46,46,2019
+249,57283,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,2019-09-07,00:00:00,solo,155.3,5780.0,-6000.0,0,134,82,2019
+250,49517,Vadrózsa,Vadrózsa 160,Rózsaszentmárton,Hungary,2019-09-07,06:45:00,solo,159.5,6820.0,-6820.0,17,100,44,2019
+251,53619,WASATCH FRONT 100 MILE ENDURANCE RUN,WASATCH FRONT 100 MILE ENDURANCE RUN,,United States,2019-09-07,06:00:00,solo,,,,0,208,208,2019
+252,42631,Pembrokeshire Ultramarathons,100,StDogmaels,United Kingdom,2019-09-06,08:00:00,solo,163.7,4070.0,-4070.0,7,100,23,2019
+253,37871,Superior Fall Trail Race,100m,Lutsen,United States,2019-09-06,08:00:00,solo,168.0,5200.0,-5060.0,13,180,180,2019
+254,39131,SwissPeaks Trail,170,LeBouveret,Switzerland,2019-09-06,13:00:00,solo,168.7,11780.0,-13010.0,13,400,204,2019
+255,58005,HEADLANDS HUNDRED,100 miles,,United States,2019-09-01,00:00:00,solo,,,,0,48,48,2019
+256,43459,Garmin Runfire Salt Lake Ultra Trail,100 Mile,ulukisla,Turkey,2019-08-30,18:00:00,solo,160.1,2830.0,-2830.0,15,21,21,2019
+257,39881,UTMB®,UTMB®,Chamonix,France,2019-08-30,18:00:00,solo,170.7,9930.0,-9930.0,16,2549,2549,2019
+258,56571,CASCADE CREST 100 MILE ENDURANCE RUN,Cascade Crest 100 Mile Endurance Run,,United States,2019-08-24,00:00:00,solo,,,,0,128,128,2019
+259,45609,DREAM TRAIL Lyskovo,160 ??,Lyskovo,Russia,2019-08-24,05:00:00,solo,159.4,1790.0,-1700.0,3,6,5,2019
+260,43567,Habanero Hundred,100M,CatSprings,United States,2019-08-17,12:00:00,solo,161.7,2290.0,-2290.0,3,64,64,2019
+261,41269,Leadville Trail 100 Run,Leadville Trial 100 Run,Leadville,United States,2019-08-17,00:00:00,solo,162.1,4230.0,-4230.0,13,927,927,2019
+262,41443,Kodiak Ultra Marathons,Kodiak 100 Mile,BigBearLake,United States,2019-08-16,18:00:00,solo,164.7,5320.0,-5320.0,14,156,156,2019
+263,48837,Persenk Ultra,PERSENK ULTRA,Asenovgrad,Bulgaria,2019-08-16,18:00:00,solo,164.6,7090.0,-7100.0,13,150,62,2019
+264,38185,Swiss Alps 100,160KM,Münster,Switzerland,2019-08-16,07:00:00,solo,157.6,9650.0,-9650.0,15,300,45,2019
+265,52109,Lean Horse 100,LEAN HORSE HUNDRED,Custer,United States,2019-08-15,00:00:00,solo,,,,0,58,58,2019
+266,48391,Ute 100 Mile Trail Race,Ute 100 Mile Trail Race,OldLaSal,United States,2019-08-10,03:00:00,solo,159.5,6180.0,-6180.0,9,200,117,2019
+267,40737,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,2019-08-03,06:00:00,solo,168.0,3420.0,-3460.0,14,300,188,2019
+268,41117,Chiemgauer 100,100 Mile,Bergen,Germany,2019-08-02,14:00:00,solo,,,,9,150,10,2019
+269,49421,Ouray 100 Mile Endurance Run,100 Mile,Ouray,United States,2019-08-02,08:00:00,solo,171.9,11310.0,-11420.0,15,120,32,2019
+270,40025,Burning River Endurance Run,100 Mile,Hudson,United States,2019-07-27,04:00:00,solo,163.6,2700.0,-2700.0,14,250,163,2019
+271,36117,High Lonesome 100,100M,Nathrop,United States,2019-07-26,06:00:00,solo,160.0,6480.0,-6480.0,12,126,126,2019
+272,37967,Tahoe Rim Trail Endurance Runs 100M/50M/55K,100 Mile,Carsoncity,United States,2019-07-20,05:00:00,solo,161.1,6170.0,-6160.0,0,300,156,2019
+273,43051,The Gax 100 miles,The Gax 100 miles,Ystad,Sweden,2019-07-20,00:00:00,solo,161.3,2330.0,-2320.0,3,72,69,2019
+274,45911,Vermont 100 Endurance Race,100M,WestWindsor,United States,2019-07-20,04:00:00,solo,157.5,4830.0,-4840.0,19,350,156,2019
+275,47489,YOU YANGS Hardcore 100Miler,100 MI,LittleRiver,Australia,2019-07-20,08:00:00,solo,169.3,4820.0,-4830.0,2,29,29,2019
+276,51331,Andorra Ultra Trail Vallnord,Ronda dels cims,Ordino,Andorra,2019-07-19,07:00:00,solo,,,,0,409,409,2019
+277,35613,Elephant Trail Race,160 Km (100 Mile),PortMacquarie,Australia,2019-07-19,22:00:00,solo,163.3,8730.0,-8730.0,13,100,15,2019
+278,66412,Palisades Ultra Trail Series,Moose 100 Mile,Irwin,United States,2019-07-19,05:00:00,solo,,,,14,30,30,2019
+279,39821,Beacons Way Ultra,Beacons Way Ultra,abergavenny,United Kingdom,2019-07-13,06:00:00,solo,166.5,6310.0,-6320.0,10,50,28,2019
+280,48055,OSJ Ontake 100,100 Miles,Otaki,Japan,2019-07-13,20:00:00,solo,164.6,6200.0,-6200.0,6,58,58,2019
+281,48751,Columbia Sanfo Ultra 168-Chongli,168km,Chongli,China,2019-07-12,16:00:00,solo,166.2,8250.0,-8250.0,14,400,24,2019
+282,50485,Columbia Sanfo Ultra 168-Chongli,UTC-emergency,Chongli,China,2019-07-12,17:00:00,solo,157.7,7800.0,-7800.0,14,400,264,2019
+283,35983,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,2019-07-12,18:00:00,solo,172.0,10210.0,-10210.0,15,515,282,2019
+284,36267,Grand Trail Stevenson,GTS 162 km,Saint-Etienne-Vallée-Française,France,2019-07-12,06:00:00,solo,161.2,5210.0,-5380.0,5,11,11,2019
+285,37005,Nuts Ylläs Pallas,160K,Äkäslompolo,Finland,2019-07-12,12:00:00,solo,163.9,4430.0,-4510.0,10,250,111,2019
+286,45153,Wendover Woods 100,Wendover Woods 100,Wendover,United Kingdom,2019-07-12,09:00:00,solo,168.1,6180.0,-6180.0,19,200,20,2019
+287,38947,100 MILLAS UTACCH AMANECER COMECHINGON,100 MILLAS UTACCH,VillaYacantodeCalamuchita,Argentina,2019-07-06,12:00:00,solo,158.8,5449.0,-5450.0,15,50,46,2019
+288,39995,Brisbane Trail Ultra Festival,Brisbane Trail Ultra 100 mile,Brisbane,Australia,2019-07-06,05:00:00,solo,159.5,7550.0,-7580.0,7,50,26,2019
+289,39425,Silverheels 100-Mile Endurance Run,100 Mile,Fairplay,United States,2019-07-06,04:00:00,solo,166.7,4650.0,-4650.0,24,200,28,2019
+290,39985,Sinister 7 Ultra,Solo,Blairmore,Canada,2019-07-06,07:00:00,solo,160.7,5730.0,-5740.0,15,1600,69,2019
+291,45339,Bojko Trail,Bojko Trail 150+,CzarnaGórna,Poland,2019-07-05,18:00:00,solo,155.1,7980.0,-8040.0,8,400,50,2019
+292,43675,Pen Llyn Ultra 100,Pen Llyn Ultra 100,Pwllheli,United Kingdom,2019-06-29,05:00:00,solo,162.7,3220.0,-3180.0,7,100,11,2019
+293,44333,#Småland100,#Småland100,Oskarshamn,Sweden,2019-06-28,18:00:00,solo,163.1,4040.0,-4040.0,7,50,16,2019
+294,49189,Ultra Trail Pululahua Ecuador,Ultra Trail Pululahua Ecuador,QUITO,Ecuador,2019-06-28,17:00:00,solo,172.1,11250.0,-10810.0,22,30,19,2019
+295,49089,XTRAIL Kanas Trail Run,168km,Kanas,China,2019-06-27,09:00:00,solo,168.6,5870.0,-5790.0,12,300,132,2019
+296,38057,Jurassic Coast 100,Jurassic Coast 100m,Swanage,United Kingdom,2019-06-22,08:00:00,solo,168.2,4740.0,-4720.0,10,100,43,2019
+297,40727,Old Cascadia,100 Mile,BlueRiver,United States,2019-06-22,06:00:00,solo,165.7,8120.0,-8110.0,14,100,28,2019
+298,45639,Penang Eco 100,100 miles,BukitMertajam,Malaysia,2019-06-22,03:00:00,solo,167.3,4230.0,-4190.0,15,80,36,2019
+299,41865,Pennine Barrier,Pennine Barrier Ultra 100,malham,United Kingdom,2019-06-22,06:00:00,solo,158.5,4560.0,-4560.0,10,100,22,2019
+300,48737,West Highland Way Race,150km,Milngavie,United Kingdom,2019-06-22,01:00:00,solo,155.0,3640.0,-3680.0,8,238,196,2019
+301,42619,South Wales 100,South Wales 100,Cardiff,United Kingdom,2019-06-21,19:00:00,solo,166.7,5840.0,-5840.0,11,100,23,2019
+302,42693,ULTRA01 by XT,ULTRA 01XT,OYONNAX,France,2019-06-21,18:00:00,solo,165.1,6060.0,-6060.0,7,206,206,2019
+303,41413,MONTANE® Spine® Summer Races,Flare,Edale,United Kingdom,2019-06-19,08:00:00,solo,173.9,4720.0,-4720.0,6,50,48,2019
+304,47257,Mohican 100 Trail Run,Mohican 100 Mile Trail Run,Loudonville,United States,2019-06-15,05:00:00,solo,156.0,3630.0,-3620.0,19,220,220,2019
+305,38229,Ultra Trail Gaspesia 100,100 miles,Percé,Canada,2019-06-15,05:00:00,solo,159.0,4130.0,-4130.0,21,52,52,2019
+306,49781,Bighorn Trail Run,100M,Sheridan,United States,2019-06-14,11:00:00,solo,167.3,6740.0,-6800.0,7,360,188,2019
+307,43657,Oh Meu Deus,100 Milhas OMD,Seia,Portugal,2019-06-14,16:00:00,solo,157.5,8460.0,-8460.0,13,85,54,2019
+308,51343,Oh Meu Deus,OH MEU DEUS 160 TEAM,Seia,Portugal,2019-06-14,16:00:00,team,157.6,8450.0,-8450.0,14,5,4,2019
+309,42329,ADIDAS SPORT-MARAFON TRAIL,165 km,Nikola-Lenivets,Russia,2019-06-08,21:00:00,solo,162.4,1440.0,-1440.0,13,17,17,2019
+310,35719,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,2019-06-08,06:00:00,solo,156.9,3340.0,-3400.0,14,305,305,2019
+311,44903,Laulasmaa Ultra,Laulasmaa Ultra 8 loops,Laulasmaa,Estonia,2019-06-08,10:00:00,solo,167.9,1870.0,-1870.0,56,2,2,2019
+312,36431,Trail des Volcans,157 km,Murat-le-Quaire,France,2019-06-08,06:30:00,solo,156.2,6320.0,-6570.0,7,12,12,2019
+313,41919,SAN DIEGO 100,San Diego 100,Oceanside,United States,2019-06-07,06:00:00,solo,161.3,3950.0,-3950.0,15,300,272,2019
+314,41449,Kettle Moraine 100,100 Mile,LaGrange,United States,2019-06-01,06:00:00,solo,161.0,2650.0,-2650.0,27,400,166,2019
+315,56513,OLD DOMINION 100 MILE,OLD DOMINION 100 MILE,,United States,2019-06-01,00:00:00,solo,,,,0,60,60,2019
+316,45199,Chicamocha Canyon Race,CCR 100 millas,SanGil,Colombia,2019-05-31,06:00:00,solo,162.4,7210.0,-7210.0,11,80,34,2019
+317,41131,Scout Mountain Ultras,162K,Pocatello,United States,2019-05-31,12:00:00,solo,162.0,6470.0,-6470.0,11,300,51,2019
+318,39073,Ultra-Trail® Malopolska,UTM 170,KasinkaMala,Poland,2019-05-31,17:00:00,solo,171.9,8180.0,-8180.0,8,80,14,2019
+319,42493,Hardmoors,110 Mi,,United Kingdom,2019-05-25,08:00:00,solo,170.0,4160.0,-4120.0,12,150,78,2019
+320,46363,The Trail Challenge Rincón de la Vieja,160km,Liberia,Costa Rica,2019-05-25,04:30:00,solo,163.7,3370.0,-3360.0,15,50,8,2019
+321,44745,Mac Mac Ultra,100m,Pretoria,South Africa,2019-05-24,12:00:00,solo,162.8,5900.0,-6140.0,14,31,31,2019
+322,34461,Nuts Karhunkierros,159K,Kuusamo,Finland,2019-05-24,12:00:00,solo,159.5,3940.0,-3940.0,7,150,71,2019
+323,39397,Chester Ultra,Chester Ultra 100,chester,United Kingdom,2019-05-18,06:00:00,solo,163.9,1830.0,-1830.0,9,55,55,2019
+324,40649,Bryce Canyon,100 Mile,Hatch,United States,2019-05-17,00:00:00,solo,157.1,4470.0,-4460.0,13,300,58,2019
+325,44563,Hardcore Hundred Miles Trail Ultramarathon,Hardcore Hundred Miles,Kayapa,Philippines,2019-05-16,23:00:00,solo,167.1,9480.0,-9500.0,11,163,163,2019
+326,40115,Soria Moria til Verdens Ende,Soria Moria til Verdens Ende,VerdensEnde,Norway,2019-05-11,10:00:00,solo,162.3,4040.0,-4510.0,6,100,71,2019
+327,48603,Trainic-World in Sainokuni,100mile,Ogose,Japan,2019-05-11,07:00:00,solo,163.2,9050.0,-9020.0,16,200,33,2019
+328,41499,UTVV SLOVENIA,UTVV 100 miles,Vipava,Slovenia,2019-05-11,18:00:00,solo,160.6,6850.0,-6840.0,14,400,72,2019
+329,41585,Ultra-Trail Snowdonia - UTS-50/100,UTS-100,CapelCurig,United Kingdom,2019-05-10,13:00:00,solo,170.9,10140.0,-10140.0,16,100,63,2019
+330,45873,Ben Hockings,Hubert 100 Miles,ClarenceGardens,Australia,2019-05-04,10:00:00,solo,157.8,2630.0,-2630.0,9,110,17,2019
+331,35185,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,2019-05-04,10:00:00,solo,161.3,3160.0,-3110.0,13,300,226,2019
+332,39819,Dragon 100,Dragon 100,Cardiff,United Kingdom,2019-05-04,18:00:00,solo,165.0,3550.0,-3550.0,11,200,42,2019
+333,50505,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,,United States,2019-05-04,00:00:00,solo,162.5,5420.0,-5420.0,0,188,188,2019
+334,42635,100 miles of Beskid Wyspowy,100 miles of Beskid Wyspowy,Zalesie,Poland,2019-05-03,06:00:00,solo,164.1,6600.0,-6600.0,9,100,33,2019
+335,39055,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,2019-04-27,10:00:00,solo,160.7,1610.0,-1610.0,13,157,157,2019
+336,37711,Aktivitus Trailrace,Ultra-Trail®,Jonsered,Sweden,2019-04-26,20:00:00,solo,164.7,3850.0,-3850.0,8,60,49,2019
+337,41399,Tuscany Crossing,160 km,Castiglioned'Orcia(SI),Italy,2019-04-26,18:00:00,solo,160.9,5590.0,-5570.0,13,200,51,2019
+338,47625,Ultra-Trail Mt. Fuji,UTMF - Full Course 165km,Fuji,Japan,2019-04-26,12:00:00,solo,165.9,7620.0,-7620.0,9,2400,91,2019
+339,35803,Ultra-Trail® Drakensberg,UTD 160,Underberg,South Africa,2019-04-26,12:00:00,solo,163.3,5610.0,-6740.0,8,34,34,2019
+340,39229,Iznik Ultra,160 K,Iznik,Turkey,2019-04-19,20:00:00,solo,162.5,4470.0,-4470.0,12,100,74,2019
+341,33939,Mustang Trail Race,Mustang Trail Race,Kathmandu,Nepal,2019-04-16,08:00:00,solo,169.0,10010.0,-9310.0,8,36,34,2019
+342,35721,100 Miles Of Istria,RED,Umag,Croatia,2019-04-12,16:00:00,solo,169.6,6360.0,-6640.0,12,600,365,2019
+343,44131,Hellbender 100 Mile,Hellbender 100 Mile,OldFort,United States,2019-04-12,04:30:00,solo,158.0,7470.0,-7440.0,11,125,87,2019
+344,45763,Jiangnan 100-Mile Endurance Run,100Mile / 168Km,Ningbo,China,2019-04-12,14:00:00,solo,159.8,7350.0,-7350.0,13,213,213,2019
+345,35373,Patagonia Run,100 Millas,SanMartinDeLosAndes,Argentina,2019-04-12,11:00:00,solo,158.0,7190.0,-7190.0,16,216,216,2019
+346,46567,Ultra Beast,Ultra Beast  161Km,POKARAN,India,2019-04-06,06:00:00,solo,162.3,3430.0,-3430.0,9,30,4,2019
+347,45523,Ultra-Trail® Of Taiwan 100 miles,100 miles,Keelung,Taiwan,2019-04-06,04:00:00,solo,159.4,7890.0,-7890.0,10,10,1,2019
+348,47925,UMSTEAD 100,100 Mi,,United States,2019-04-06,00:00:00,solo,,,,0,154,154,2019
+349,36539,Badger Mountain Challenge,100 Mile,Kennewick,United States,2019-03-29,07:00:00,solo,158.6,4450.0,-4430.0,18,83,83,2019
+350,46917,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,2019-03-22,00:00:00,solo,,,,17,75,46,2019
+351,42679,Northburn 100 Miler,100 Mile,Cromwell,New Zealand,2019-03-16,06:00:00,solo,162.4,9810.0,-9820.0,12,51,51,2019
+352,38835,Addo Elephant Trail Run,100 Mile,Addo,South Africa,2019-03-15,14:00:00,solo,161.2,5640.0,-5130.0,16,100,76,2019
+353,46679,MesaStila 100,65 Km,Magelang,Indonesia,2019-10-04,22:00:00,solo,67.4,3620.0,-3580.0,4,100,28,2019
+354,44003,Ultra Trail Huang Shan,170 Km,Huangshan,China,2019-03-15,07:30:00,solo,171.8,9490.0,-9480.0,14,200,170,2019
+355,40681,Antelope Canyon,100 Mile,Page,United States,2019-03-09,06:00:00,solo,159.4,1850.0,-1850.0,10,300,47,2019
+356,35385,Epic Camí de Cavalls 360º,TrailRun e3/t2,EsMercadal,Spain,2019-03-08,08:30:00,team,155.0,3800.0,-3580.0,11,220,45,2019
+357,35579,Les Traces du Nord Basse-Terre,L'Ultra-Trail®,Petit-Bourg,France,2019-03-08,18:30:00,solo,161.4,6240.0,-6240.0,14,400,27,2019
+358,40171,100 MILLAS® SIERRAS DEL BANDOLERO,100 Millas,PradodelRey,Spain,2019-03-01,18:00:00,solo,164.0,6720.0,-6730.0,14,400,255,2019
+359,34071,Victoria 162,V162,HongKong,"Hong Kong, China",2019-02-23,00:00:00,solo,163.87,8140.0,-8140.0,18,300,49,2019
+360,45837,Victoria 162,V162 Team,HongKong,"Hong Kong, China",2019-02-23,00:00:00,team,163.87,8140.0,-8140.0,18,40,14,2019
+361,62597,Run Lovit,100M,,United States,2019-02-22,00:00:00,solo,,,,0,24,24,2019
+362,34063,Victoria 162,3-day Race,HongKong,"Hong Kong, China",2019-02-22,08:00:00,solo,163.0,8140.0,-8210.0,16,100,11,2019
+363,45839,Victoria 162,3-day Race Team,HongKong,"Hong Kong, China",2019-02-22,08:00:00,solo,163.0,8140.0,-8220.0,16,20,2,2019
+364,41595,Lone Star 100,100M,ElPaso,United States,2019-02-09,05:00:00,solo,158.6,5930.0,-5850.0,9,23,23,2019
+365,41505,Tarawera 100 Mile Endurance Run,100 Mile Endurance Run,Rotorua,New Zealand,2019-02-09,04:00:00,solo,161.4,4890.0,-4890.0,14,200,97,2019
+366,35113,Mad Fox Ultra,Ultra Valhalla Race,RostovtheGreat,Russia,2019-02-02,16:00:00,solo,159.9,1680.0,-1680.0,10,97,97,2019
+367,38011,Rocky Raccoon,100 Mile,Huntsville,United States,2019-02-02,06:00:00,solo,163.1,2260.0,-2260.0,19,500,359,2019
+368,37637,Coldwater Rumble,100 Miles,Goodyear,United States,2019-01-19,07:00:00,solo,161.5,2020.0,-2010.0,16,400,33,2019
+369,43893,HURT 100,HURT 100 MILE ENDURANCE RUN,,United States,2019-01-19,00:00:00,solo,161.0,8200.0,-8200.0,0,130,130,2019
+370,56951,Long haul,100M,WesleyChapel,"FL, United States",2019-01-19,00:00:00,solo,,,,0,118,118,2019
+371,41573,Rialp Matxicots,MARATÓ,RIALP,Spain,2019-09-14,06:30:00,solo,48.3,3950.0,-3980.0,7,300,216,2019
+372,41369,Montane Spine Races,MRT Challenge,Edale,United Kingdom,2019-01-12,11:00:00,solo,174.2,4770.0,-4770.0,4,10,10,2019
+373,37065,Sandsjöbacka Trail,Ultra Triple,Åsa,Sweden,2019-01-11,18:00:00,solo,167.0,3360.0,-3220.0,13,100,49,2019
+374,31215,S1 Trail La Corsa Della Bora,Ultra,TRIESTE,Italy,2019-01-05,06:00:00,solo,164.2,6720.0,-6720.0,9,150,134,2019
+375,40653,Ultra-Trail® Tai Mo Shan,UTMT,NT,"Hong Kong, China",2019-01-05,08:00:00,solo,155.2,7640.0,-7620.0,12,162,162,2019
+376,33347,UTSZ Trail Races,100Miles,shenzhen,China,2018-12-22,05:00:00,solo,162.5,7200.0,-7170.0,16,40,12,2018
+377,41235,Ultra Tuffman Desert Championship - Jaisalmer,160 KMS,Jaisalmer,India,2018-12-21,05:00:00,solo,,,,42,3,3,2018
+378,65859,Loup Garou 100 Mile Trail Run,100M,VillePlatte,"LA, United States",2018-12-15,00:00:00,solo,,,,0,40,40,2018
+379,38061,La Mision 2018 - VLA,La Mision 160 Km,VillalaAngostura,Argentina,2018-12-13,09:00:00,solo,163.3,7240.0,-7240.0,1,200,94,2018
+380,38139,Brazos Bend 100,100 M,Needville,United States,2018-12-08,06:00:00,solo,162.3,2730.0,-2720.0,6,175,175,2018
+381,36241,The Hitchcock Experience,100 Mile,HoneyCreek,United States,2018-12-08,11:00:00,solo,161.4,5050.0,-5050.0,21,75,13,2018
+382,27003,Tjörnarparen - Trail Ultra,100 miles,TJÖRNARP,Sweden,2018-12-08,09:00:00,solo,162.1,2290.0,-2310.0,9,50,23,2018
+383,34709,Wicklow Way 50 Miles,100 Miles,Wicklow,Ireland,2018-12-07,14:00:00,solo,160.7,5750.0,-5750.0,4,50,34,2018
+384,38665,Falls 100 Ultra Trail Race,100 Mile,FallsofRough,United States,2018-12-01,07:00:00,solo,168.8,3350.0,-3350.0,41,140,20,2018
+385,32255,Chattanooga 100 Mile Trail Race,Chattanooga 100 Mile Trail Race,RisingFawn,United States,2018-11-30,08:00:00,solo,158.1,3770.0,-3770.0,14,250,140,2018
+386,33853,Gede Pangrango 100,150KM,Cibodas,Indonesia,2018-11-30,05:30:00,solo,164.0,14430.0,-14440.0,3,4,4,2018
+387,33013,HK168,Full 168,TaiMeiTuk,"Hong Kong, China",2018-11-30,18:00:00,solo,169.1,10490.0,-10490.0,14,300,185,2018
+388,42815,Best of San Diego 100 Miler,100 Miler,SanDiego,United States,2018-11-24,06:00:00,solo,163.1,2340.0,-2340.0,5,5,5,2018
+389,42299,Louceni,173 km,UstinadLabem,Czech Republic,2018-11-23,05:30:00,solo,172.3,6400.0,-6560.0,9,55,55,2018
+390,34951,Ultra-Trail® Three Gorges,169 Km,Yichang,China,2018-11-22,20:00:00,solo,171.4,10140.0,-10000.0,15,200,112,2018
+391,41827,CHIMERA 100,100 MILES,,United States,2018-11-17,00:00:00,solo,,,,0,7,7,2018
+392,31309,Oman Desert Marathon,Oman Desert Marathon,Bidiyah,Oman,2018-11-17,06:30:00,solo,163.7,3850.0,-4200.0,13,99,93,2018
+393,38477,Tunnel Hill  100 & 50 mile runs,100mi,Vienna,United States,2018-11-10,07:00:00,solo,161.4,1570.0,-1560.0,21,203,203,2018
+394,36627,Pong Yaeng Trail,Pong Yaeng Trail 166,ChiangMai,Thailand,2018-11-09,10:00:00,solo,164.9,7830.0,-7830.0,17,150,142,2018
+395,35903,Feral Pig Ultra,Feral Pig 100 Mile,Mundaring,Australia,2018-11-03,00:00:00,solo,163.3,4070.0,-4200.0,15,30,10,2018
+396,45653,Ozark Trail 100 Mile Endurance Run,100 Mi,Shawnee,United States,2018-11-03,06:00:00,solo,,,,13,56,44,2018
+397,40399,PINHOTI 100,100 MILES,Sylacauga,United States,2018-11-03,00:00:00,solo,161.9,4930.0,-5060.0,0,169,169,2018
+398,41939,RIO DEL LAGO 100,100 MILES,,United States,2018-11-03,00:00:00,solo,,,,19,354,354,2018
+399,35645,Bhatti Lakes Ultra,160 Km,Faridabad,India,2018-11-02,06:00:00,solo,160.1,1020.0,-1020.0,0,20,9,2018
+400,33797,Bromo Tengger Semeru 100 Ultra,BTS 170K,Bogor,Indonesia,2018-11-02,19:00:00,solo,169.3,7530.0,-7530.0,15,43,43,2018
+401,29415,Kullamannen,100 miles,Kullaberg,Sweden,2018-11-02,07:00:00,solo,161.8,4310.0,-4280.0,14,320,251,2018
+402,38839,Cactus Rose,100 Mile,Bandera,United States,2018-10-28,05:00:00,solo,162.4,3500.0,-3500.0,20,37,37,2018
+403,29783,White Rose Ultra,100 Mile,Huddersfield,United Kingdom,2018-10-28,00:00:00,solo,165.4,4380.0,-4430.0,5,60,16,2018
+404,38825,Halloween hike,160 km,Kannonkoski,Finland,2018-10-27,08:00:00,solo,168.6,2080.0,-2080.0,5,1,1,2018
+405,38501,Jarakabande Eco Ultra,Jarakabande Eco Ultra,Bangalore,India,2018-10-27,06:00:00,solo,,,,3,15,15,2018
+406,32035,Javelina Jundred,100 Miles,FortMcDowell,United States,2018-10-27,06:00:00,solo,160.2,2300.0,-2300.0,26,799,368,2018
+407,33019,GRAN VUELTA VALLE DEL GENAL,100 MILLAS DEL GENAL,BENARRABA,Spain,2018-10-26,20:00:00,solo,162.8,8020.0,-7490.0,17,166,166,2018
+408,36373,Indomit costa esmeralda ultra-trail®,100 MILLES,Gramado,Brazil,2018-10-26,07:00:00,solo,160.3,4730.0,-4730.0,12,50,23,2018
+409,27391,Ultra Sovev Emek,Sovev Emek 166 KM,36581,Israel,2018-10-25,07:00:00,solo,166.0,2250.0,-2230.0,14,22,22,2018
+410,36091,Bèrghem Ultra Trail,Furuberget Endurance,Hamar,Norway,2018-10-20,10:00:00,solo,169.7,7440.0,-7440.0,18,50,8,2018
+411,41951,GHOST TRAIN RAIL TRAIL RACE 100,100 Mi,,United States,2018-10-20,00:00:00,solo,161.0,1610.0,-1600.0,0,76,76,2018
+412,30573,Dalmacija Ultra-Trail®,Sky Dut,Omiš,Croatia,2018-10-19,14:00:00,solo,159.3,7140.0,-7170.0,14,150,72,2018
+413,32713,Mines of Spain,100 Mile,Davenport,United States,2018-10-19,08:00:00,solo,170.0,4360.0,-4360.0,19,60,60,2018
+414,37943,Rodopi Ultra Trail,Rodopi Advendurun,Haidou,Greece,2018-10-19,06:00:00,solo,163.0,6910.0,-6910.0,6,200,108,2018
+415,30965,Le Grand Raid De La Réunion,La Diagonale Des Fous,SaintDenis,France,2018-10-18,22:00:00,solo,168.1,9610.0,-9560.0,17,2900,2660,2018
+416,30411,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,2018-10-13,10:00:00,solo,161.1,1580.0,-1580.0,14,250,168,2018
+417,29481,Cloudsplitter 100,100 Mile,Norton,United States,2018-10-13,08:00:00,solo,166.3,5310.0,-5310.0,21,100,44,2018
+418,29719,Hume And Hovell Ultra,100 Mile,Tumbarumba,Australia,2018-10-13,06:00:00,solo,162.7,3670.0,-3660.0,10,100,30,2018
+419,30713,INDIANA TRAIL 100,100 mi,Albion,United States,2018-10-13,06:00:00,solo,161.7,3490.0,-3490.0,5,250,183,2018
+420,33167,Virgin Forest Trail,Ultra-Trail®,PARANESTI,Greece,2018-10-12,00:00:00,solo,162.6,6920.0,-6920.0,15,150,54,2018
+421,35935,Crimea X Run,Stage Race,Yalta,Ukraine,2018-10-10,10:00:00,solo,174.7,9480.0,-9530.0,8,227,227,2018
+422,30363,Bromont Ultra,160km,Bromont,Canada,2018-10-06,07:30:00,solo,158.1,6090.0,-6090.0,17,98,98,2018
+423,30463,100 Miles Sud De France,100 Miles,bolquere,France,2018-10-05,10:00:00,solo,172.6,8130.0,-9870.0,15,500,160,2018
+424,58549,Grindstone 100,Grindstone 100,Swoope,United States,2018-10-05,00:00:00,solo,159.6,6980.0,-6980.0,15,300,207,2018
+425,32919,Pirin Ultra,160km,Bansko,Bulgaria,2018-10-05,00:00:00,solo,165.1,10310.0,-10300.0,9,53,53,2018
+426,30547,Szlak Orlich Gniazd - Ultra,Szlak Orlich Gniazd - Ultra,KwasniówDolny,Poland,2018-10-05,20:00:00,solo,161.1,2730.0,-2730.0,7,150,58,2018
+427,29219,Ultra-Trail del Rincon,UTR 170K,Castielfabib,Spain,2018-10-05,19:00:00,solo,171.9,6890.0,-6890.0,15,45,45,2018
+428,31481,NERANG 200 miler,NERANG 100 miler,Nerang,Australia,2018-09-29,06:00:00,solo,161.7,5820.0,-5820.0,6,100,17,2018
+429,30505,WUT - Wienerwald Ultra Trail,TITAN-WUT,Purkersdorf,Austria,2018-09-29,06:30:00,solo,163.8,5360.0,-5380.0,15,50,15,2018
+430,27193,BEAR 100,BEAR 100,Smithfield,United States,2018-09-28,00:00:00,solo,160.93,6863.0,-6576.0,13,344,344,2018
+431,35953,Lycian Way Ultra Marathon,LYUM XXL - 174K,İstanbul,Turkey,2018-09-28,00:00:00,solo,174.4,6070.0,-6390.0,16,15,15,2018
+432,34813,Black River Run,100 Miles,Västerås,Sweden,2018-09-22,10:00:00,solo,161.5,1030.0,-1030.0,9,200,59,2018
+433,25831,Cotswold Way Century,102 Miles,ChippingCampden,United Kingdom,2018-09-22,12:00:00,solo,165.7,4150.0,-4270.0,10,130,119,2018
+434,31635,Waterous Trail On Foot,WTF 100,Dwellingup,Australia,2018-09-22,06:00:00,solo,162.1,3840.0,-3840.0,9,30,20,2018
+435,36129,Adamello Ultra-Trail®,Ultra-Trail® - 180 km,Vezzad'Oglio,Italy,2018-09-21,09:00:00,solo,165.0,11380.0,-11380.0,19,86,86,2018
+436,31975,Karkloof100,Karkloof100,Howick,South Africa,2018-09-21,22:00:00,solo,157.0,3330.0,-3410.0,9,76,76,2018
+437,41957,IDAHO MOUNTAIN TRAIL ULTRA FESTIVAL,100 Mile,,United States,2018-09-15,00:00:00,solo,,,,0,173,173,2018
+438,28825,Mogollon Monster 100,MOGOLLON MONSTER 100,Pine,United States,2018-09-15,06:00:00,solo,161.5,5470.0,-5460.0,12,150,69,2018
+439,29149,Old Cascadia,100 Mile,BlueRiver,United States,2018-09-15,07:00:00,solo,165.7,8120.0,-8110.0,14,100,10,2018
+440,45437,Robin Hood 100,Robin Hood 100,Retford,United Kingdom,2018-09-15,08:00:00,solo,,,,10,113,113,2018
+441,36981,RUN RABBIT RUN,100 Hare,,United States,2018-09-15,00:00:00,solo,165.8,6160.0,-6160.0,0,40,40,2018
+442,38353,Shinetsu Five Mountains Trail,100 miles,Ohzatagiri,"Myoko, Japan",2018-09-15,19:30:00,solo,164.3,6420.0,-6240.0,9,282,282,2018
+443,36617,GARMIN ULTRA RACE STOLOWE MOUNTAINS,Challange 158,RADKÓW,Poland,2018-09-14,06:00:00,solo,77.5,2460.0,-2460.0,11,50,26,2018
+444,67712,Pine creek challenge,100Miles,Wellsboro,"PA, United States",2018-09-08,00:00:00,solo,,,,0,40,40,2018
+445,36855,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,2018-09-08,00:00:00,solo,155.8,5785.0,-5785.0,0,140,140,2018
+446,31163,THE GREAT NORTH WALK 100S,100 MILES,Patonga,Australia,2018-09-08,06:00:00,solo,173.3,4870.0,-4870.0,6,200,46,2018
+447,37343,Superior Fall Trail Race,100m,Lutsen,United States,2018-09-07,08:00:00,solo,168.0,5200.0,-5060.0,13,168,168,2018
+448,25877,SwissPeaks Trail,170K Valais*Wallis,LeBouveret,Switzerland,2018-09-07,13:00:00,solo,165.0,10780.0,-12020.0,13,400,148,2018
+449,36961,WASATCH FRONT 100 MILE ENDURANCE RUN,WASATCH FRONT 100 MILE ENDURANCE RUN,,United States,2018-09-07,00:00:00,solo,161.0,8215.0,-7965.0,0,300,300,2018
+450,23479,Ultra Tour Monte Rosa,Ultra Tour 170 km,Grächen,Switzerland,2018-09-06,06:00:00,solo,170.0,10990.0,-10990.0,15,200,93,2018
+451,23475,Ultra Tour Monte Rosa,4 Stage Race 170 km,Grächen,Switzerland,2018-09-05,06:00:00,solo,171.6,10940.0,-10920.0,11,300,118,2018
+452,58003,HEADLANDS HUNDRED,100 miles,,United States,2018-09-02,00:00:00,solo,,,,0,26,26,2018
+453,33867,Vadrózsa,Vadrózsa 160,Rózsaszentmárton,Hungary,2018-09-01,06:45:00,solo,159.6,6340.0,-6350.0,17,100,52,2018
+454,25073,UTMB®,UTMB®,Chamonix,France,2018-08-31,18:00:00,solo,170.0,9990.0,-9990.0,16,2565,2565,2018
+455,28097,Velebit 100 miles,Velebit 100 miles,Zagreb,Croatia,2018-08-31,00:00:00,solo,157.5,6430.0,-6440.0,4,6,6,2018
+456,37039,Grand Raid des Pyrénées,Ultra Tour,vielle-Aure,France,2018-08-24,05:00:00,solo,,,,14,240,240,2018
+457,26491,Ultra Tour des 4 Massifs,Ut4M160 Xtrem,Grenoble,France,2018-08-24,16:00:00,solo,163.7,10710.0,-10770.0,16,700,270,2018
+458,26497,Ultra Tour des 4 Massifs,Ut4M160 Challenge,Grenoble,France,2018-08-23,08:00:00,solo,128.6,8690.0,-8500.0,12,415,415,2018
+459,27555,"Beacons 100/50, Beacons Ultra/Marathon - Force12 Events -",Beacons 100,Brecon,United Kingdom,2018-08-18,19:00:00,solo,162.6,6730.0,-6730.0,5,150,18,2018
+460,36963,CASCADE CREST 100 MILE ENDURANCE RUN,Cascade Crest 100 Mile Endurance Run,,United States,2018-08-18,00:00:00,solo,161.0,6700.0,-6700.0,0,147,147,2018
+461,35411,Habanero Hundred,100M,CatSprings,United States,2018-08-18,12:00:00,solo,157.6,1840.0,-1800.0,0,53,53,2018
+462,36235,Leadville Trail 100 Run,Leadville Trial 100 Run,Leadville,United States,2018-08-18,00:00:00,solo,162.2,4490.0,-4480.0,0,378,378,2018
+463,29749,Kodiak Ultra Marathons,Kodiak 100 Mile,BigBearLake,United States,2018-08-17,08:00:00,solo,163.8,5210.0,-5220.0,15,104,104,2018
+464,35121,Persenk Ultra,PERSENK ULTRA,Asenovgrad,Bulgaria,2018-08-17,18:00:00,solo,157.6,7090.0,-7120.0,13,150,72,2018
+465,33955,Mt. Wumeng Ultra Trail,168KM solo,Zhaotong,China,2018-08-11,05:00:00,solo,164.6,7790.0,-7350.0,14,100,14,2018
+466,33957,Mt. Wumeng Ultra Trail,168KM team,Zhaotong,China,2018-08-11,05:00:00,team,164.6,7790.0,-7350.0,14,60,6,2018
+467,32253,Ute 100 Mile Trail Race,Ute 100 Mile Trail Race,OldLaSal,United States,2018-08-11,03:00:00,solo,159.5,6180.0,-6180.0,9,200,97,2018
+468,33781,Chongli100 Ultra Sky Trail Challenge,168 Km,chongji,China,2018-08-10,18:00:00,solo,166.6,7290.0,-7290.0,12,150,48,2018
+469,25985,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,2018-08-04,06:00:00,solo,168.0,3420.0,-3460.0,14,300,151,2018
+470,35965,High Lonesome 100,100M,Nathrop,United States,2018-08-03,06:00:00,solo,160.0,6480.0,-6480.0,12,100,100,2018
+471,31671,Ouray 100 Mile Endurance Run,100 Mile,Ouray,United States,2018-08-03,08:00:00,solo,164.8,11420.0,-11420.0,15,120,81,2018
+472,27491,Burning River Endurance Run,100 Mile,Hudson,United States,2018-07-28,04:00:00,solo,164.4,2610.0,-2510.0,14,250,160,2018
+473,36339,Palisades Ultra Trail Series,Moose 100 Mile,Irwin,United States,2018-07-28,05:00:00,solo,,,,14,26,26,2018
+474,28479,The GAX 100 Miles,The GAX 100 Miles,Ystad,Sweden,2018-07-28,08:00:00,solo,160.8,1500.0,-1500.0,3,70,47,2018
+475,25599,Chiemgauer 100,100 Mile,Bergen,Germany,2018-07-27,14:00:00,solo,,,,9,150,16,2018
+476,31407,Garmin Runfire Salt Lake Ultra Trail,100 Mile,ulukisla,Turkey,2018-07-27,18:00:00,solo,164.5,700.0,-700.0,15,27,27,2018
+477,25513,Montreux Trail Festival,MXtrem,Savigny,Switzerland,2018-07-27,06:00:00,solo,161.9,11530.0,-11520.0,15,300,115,2018
+478,30443,Vermont 100 Endurance Race,100M,WestWindsor,United States,2018-07-21,04:00:00,solo,158.0,5390.0,-5380.0,19,350,277,2018
+479,33133,YOU YANGS Hardcore 100Miler,100 MI,LittleRiver,Australia,2018-07-21,09:00:00,solo,164.2,3280.0,-3280.0,2,33,33,2018
+480,31295,Elephant Trail Race,160 Km (100 Mile),PortMacquarie,Australia,2018-07-20,22:00:00,solo,162.4,6930.0,-6930.0,13,35,11,2018
+481,35383,HARDROCK 100 ENDURANCE RUN,HARDROCK 100,,United States,2018-07-19,00:00:00,solo,161.8,10365.0,-10365.0,0,115,115,2018
+482,19487,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,2018-07-14,00:00:00,solo,160.4,6140.0,-6140.0,0,300,142,2018
+483,33633,Columbia China Ultra 168-Chongli,168km,Chongli,China,2018-07-13,16:00:00,solo,166.9,8130.0,-8130.0,14,350,177,2018
+484,26969,Silverheels Endurance Run,100 Mile,Fairplay,United States,2018-07-07,04:00:00,solo,168.3,4890.0,-4880.0,22,300,25,2018
+485,27341,Sinister 7 Ultra,Solo,Blairmore,Canada,2018-07-07,07:00:00,solo,159.9,5720.0,-5740.0,15,1600,84,2018
+486,37843,Andorra Ultra Trail Vallnord,Ronda dels cims,Ordino,Andorra,2018-07-06,00:00:00,solo,,,,0,388,388,2018
+487,28553,Pen Llyn Ultra 100,Pen Llyn Ultra 100,Pwllheli,United Kingdom,2018-06-23,05:00:00,solo,162.6,3210.0,-3170.0,7,100,1,2018
+488,30461,Western States Endurance Run,Western States Endurance Run,Auburn,United States,2018-06-23,00:00:00,solo,161.6,5370.0,-6890.0,21,369,300,2018
+489,27531,South Wales 100,South Wales 100,Cardiff,United Kingdom,2018-06-22,19:00:00,solo,167.1,5660.0,-5670.0,11,100,24,2018
+490,27977,Ultra Coahuila,100M,Arteaga,Mexico,2018-06-22,14:00:00,solo,159.2,6080.0,-6060.0,12,40,19,2018
+491,29115,ULTRA01 by XT,ULTRA01 by XT,OYONNAX,France,2018-06-22,18:00:00,solo,163.3,5010.0,-5010.0,5,200,115,2018
+492,28883,X Trail Corrèze Dordogne,Trail des tours par équipes,Argentat,France,2018-09-22,09:00:00,team,48.4,2010.0,-2300.0,4,400,76,2018
+493,28905,Ultra-Trail® Gaspesia 100,100 miles,Percé,Canada,2018-06-16,05:00:00,solo,159.1,4010.0,-4020.0,21,25,5,2018
+494,41965,Bighorn Trail Run,100M,Sheridan,United States,2018-06-15,11:00:00,solo,167.3,6740.0,-6800.0,7,360,166,2018
+495,26955,Ultra-Trail® Malopolska,UTM 170,KasinkaMala,Poland,2018-06-15,17:00:00,solo,172.8,8870.0,-8870.0,11,100,49,2018
+496,27329,Ultra-Trail® Malopolska,UTM 170 NA RATY,KasinkaMala,Poland,2018-06-15,06:00:00,solo,170.0,8650.0,-8650.0,9,50,7,2018
+497,25983,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,2018-06-09,06:00:00,solo,155.9,3390.0,-3440.0,14,300,223,2018
+498,32169,Laulasmaa Ultra,Laulasmaa Ultra 8 loops,Laulasmaa,Estonia,2018-06-09,10:00:00,solo,170.5,1880.0,-1880.0,56,3,3,2018
+499,33511,Oh Meu Deus,100 Milhas OMD,Seia,Portugal,2018-06-08,16:00:00,solo,172.3,7530.0,-7530.0,13,85,45,2018
+500,24339,SAN DIEGO 100,San Diego 100,Oceanside,United States,2018-06-08,06:00:00,solo,161.3,3950.0,-3950.0,15,250,151,2018
+501,29705,Kettle Moraine 100,100 Mile,LaGrange,United States,2018-06-02,06:00:00,solo,160.9,2660.0,-2660.0,12,400,182,2018
+502,34375,OLD DOMINION 100 MILE,OLD DOMINION 100 MILE,,United States,2018-06-02,00:00:00,solo,161.0,4270.0,-4270.0,0,55,55,2018
+503,28367,Bryce Canyon,100 Mile,Hatch,United States,2018-06-01,00:00:00,solo,158.1,4770.0,-4800.0,13,300,63,2018
+504,26029,Chicamocha Canyon Race,100 miles,SanGil,Colombia,2018-06-01,22:00:00,solo,164.6,7090.0,-7070.0,14,100,63,2018
+505,24505,Jurassic Coast 100,100 miles,Swanage,United Kingdom,2018-06-01,10:00:00,solo,168.2,4740.0,-4740.0,14,50,32,2018
+506,34049,Scout Mountain Ultras,162K,Pocatello,United States,2018-06-01,12:00:00,solo,162.2,6320.0,-6300.0,11,38,38,2018
+507,24871,The Arctic Triple Lofoten Ultra-Trail®,100 Miles,SVOLVÆR,Norway,2018-06-01,12:00:00,solo,165.1,6610.0,-6610.0,10,31,31,2018
+508,24465,6th Elton Volgabus Ultra-Trail®,Ultimate 100 miles,Eltonvillage,Russia,2018-05-26,20:00:00,solo,163.6,250.0,-250.0,8,80,65,2018
+509,24989,Nuts Karhunkierros,160K,Kuusamo,Finland,2018-05-25,12:00:00,solo,167.5,2570.0,-2570.0,7,64,64,2018
+510,34511,Fiambala Desert Trail,ULTRA DESERT TRAIL X 5 DIAS,Fiambala,Argentina,2018-05-22,10:00:00,solo,169.6,3540.0,-3250.0,12,64,64,2018
+511,26021,Soria Moria til Verdens Ende,Soria Moria til Verdens Ende,VerdensEnde,Norway,2018-05-19,10:00:00,solo,161.5,3310.0,-3770.0,3,200,37,2018
+512,35067,Trainic-World in Sainokuni,100mile,Ogose,Japan,2018-05-19,07:00:00,solo,174.6,9760.0,-9760.0,16,200,36,2018
+513,27217,Hardcore Hundred Miles Trail Ultramarathon,Hardcore Hundred Miles Trail Ultramarathon,Kayapa,Philippines,2018-05-17,23:00:00,solo,161.9,11840.0,-11860.0,11,100,91,2018
+514,27737,Penang Eco 100,100 miles,BukitMertajam,Malaysia,2018-05-12,04:00:00,solo,166.5,4250.0,-4260.0,15,40,21,2018
+515,28853,Pembrokeshire Ultramarathons,100,StDogmaels,United Kingdom,2018-05-11,08:00:00,solo,162.0,5550.0,-5550.0,7,100,16,2018
+516,30857,Ultra-Trail Snowdonia,UTS-100,CapelCurig,United Kingdom,2018-05-11,17:00:00,solo,168.1,10220.0,-10220.0,15,100,46,2018
+517,22655,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,2018-05-05,10:00:00,solo,161.2,3210.0,-3160.0,13,300,183,2018
+518,32709,Hubert 100 Miles,Hubert 100 Miles,ClarenceGardens,Australia,2018-05-05,10:00:00,solo,155.4,2350.0,-2350.0,9,100,16,2018
+519,50503,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,,United States,2018-05-05,00:00:00,solo,162.5,5420.0,-5420.0,0,126,126,2018
+520,32405,Salomon Hammer Trail,100 Miles,allinge,Denmark,2018-05-04,10:00:00,solo,156.0,6000.0,-6620.0,12,500,11,2018
+521,29411,Aktivitus Trailrace,Ultra-Trail®,Jonsered,Sweden,2018-04-28,05:00:00,solo,164.8,3040.0,-3040.0,8,50,22,2018
+522,31117,Altra100,100 Mile,Banaue,Philippines,2018-04-27,15:00:00,solo,160.3,10380.0,-10900.0,14,35,1,2018
+523,33343,Ultra-Trail Mt. Fuji,UTMF,Fuji,Japan,2018-04-27,15:00:00,solo,167.4,7610.0,-7680.0,9,1480,1480,2018
+524,32307,Ultra-Trail® Drakensberg,UTD 160,Underberg,South Africa,2018-04-27,12:00:00,solo,166.0,5850.0,-6980.0,8,21,21,2018
+525,25257,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,2018-04-21,10:00:00,solo,159.1,1640.0,-1640.0,13,150,95,2018
+526,28221,Zion,100 Mile,Virgin,United States,2018-04-20,06:00:00,solo,160.5,3760.0,-3760.0,15,300,155,2018
+527,28659,Mustang Trail Race,Mustang Trail Race,Kathmandu,Nepal,2018-04-17,08:00:00,solo,168.3,9870.0,-9170.0,8,30,18,2018
+528,29375,Jiangnan100 Ultra Trail,168Km,Ningbo,China,2018-04-13,14:00:00,solo,157.1,8110.0,-8100.0,13,100,72,2018
+529,37333,Zumbro Endurance Run,100m,Theilman,United States,2018-04-13,08:00:00,solo,159.8,4210.0,-4210.0,22,20,20,2018
+530,23711,100 Miles Of Istria,RED,Umag,Croatia,2018-04-06,16:00:00,solo,168.0,6540.0,-6820.0,12,600,373,2018
+531,24677,Patagonia Run,100 Millas,SanMartinDeLosAndes,Argentina,2018-04-06,13:00:00,solo,163.0,6600.0,-6580.0,16,152,152,2018
+532,31813,Lost Island Ultra,The Vodafone Lost Island Ultra,Nadi,Fiji,2018-04-03,06:00:00,solo,166.2,4800.0,-4420.0,14,100,50,2018
+533,33283,UMSTEAD 100,100 Mi,,United States,2018-04-01,00:00:00,solo,,,,0,114,114,2018
+534,26593,Badger Mountain Challenge,100 Mile,Kennewick,United States,2018-03-30,07:00:00,solo,158.4,4510.0,-4500.0,18,58,58,2018
+535,26611,Victoria 162,3-day Race,HongKong,"Hong Kong, China",2018-03-29,09:00:00,solo,163.7,7160.0,-7150.0,21,100,12,2018
+536,30051,Ultra Trail Huang Shan,170 Km,Huangshan,China,2018-03-23,06:30:00,solo,167.5,9210.0,-9200.0,15,90,39,2018
+537,32135,Northburn 100 Miler,100 Mile,Cromwell,New Zealand,2018-03-17,06:00:00,solo,162.6,10010.0,-10030.0,12,57,57,2018
+538,39363,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,2018-03-16,00:00:00,solo,,,,17,75,66,2018
+539,21815,Gaoligong by UTMB,MGU,Tengchong,China,2018-03-09,20:00:00,solo,160.0,8400.0,-8417.0,17,400,385,2018
+540,22431,Addo Elephant Trail Run,100 Mile,Addo,South Africa,2018-03-02,14:00:00,solo,161.2,5640.0,-5130.0,17,100,52,2018
+541,30645,Antelope Canyon,100 Mile,Page,United States,2018-02-23,06:00:00,solo,159.5,1740.0,-1740.0,10,300,21,2018
+542,26219,La Misión,160 Km,SanMartíndelosAndes,Argentina,2018-02-22,10:00:00,solo,163.9,6810.0,-6800.0,2,200,51,2018
+543,31523,Les Traces du Nord Basse-Terre,L'Ultra-Trail®,Petit-Bourg,France,2018-02-16,18:30:00,solo,155.4,6290.0,-6300.0,14,400,10,2018
+544,41165,Lone Star 100,100M,ElPaso,United States,2018-02-10,05:00:00,solo,158.6,5930.0,-5850.0,9,41,41,2018
+545,28897,Tarawera 100 Mile Endurance Run,Tarawera 100 Mile Endurance Run,Rotorua,New Zealand,2018-02-10,04:00:00,solo,164.1,5520.0,-5520.0,10,200,124,2018
+546,24785,Rocky Raccoon,100 Mile,Huntsville,United States,2018-02-03,00:00:00,solo,158.2,1970.0,-1970.0,19,500,201,2018
+547,25477,Run The Rann,RTR 161 Km,Dholavira,India,2018-02-03,07:00:00,solo,160.4,2310.0,-2290.0,10,32,32,2018
+548,21567,Coldwater Rumble,100 Miles,Goodyear,United States,2018-01-20,07:00:00,solo,159.3,1660.0,-1650.0,16,500,28,2018
+549,58671,Long haul,100M,WesleyChapel,"FL, United States",2018-01-18,00:00:00,solo,,,,0,26,26,2018
+550,31669,HURT 100,HURT 100 MILE ENDURANCE RUN,,United States,2018-01-13,00:00:00,solo,161.0,8200.0,-8200.0,0,129,129,2018
+551,24601,Montane Spine Races,Challenger,Edale,United Kingdom,2018-01-13,08:00:00,solo,174.8,4590.0,-4590.0,4,120,99,2018
+552,24597,Montane Spine Races,MRT Challenge,Edale,United Kingdom,2018-01-13,11:00:00,solo,174.8,4200.0,-4200.0,4,16,16,2018
+553,20653,Sandsjöbacka Trail,Ultra Triple,Åsa,Sweden,2018-01-12,18:00:00,solo,159.5,2490.0,-2510.0,9,100,30,2018
+554,31717,Croom zoom,100mi,Brooksville,"FL, United States",2018-01-06,00:00:00,solo,,,,0,9,9,2018
+555,19853,S1 Trail La Corsa Della Bora,S1 Ipertrail,TRIESTE,Italy,2018-01-05,03:00:00,solo,165.2,6640.0,-6640.0,6,19,19,2018
+556,19855,S1 Trail La Corsa Della Bora,S1 Ipertrail Team,TRIESTE,Italy,2018-01-05,03:00:00,team,165.2,6640.0,-6640.0,6,13,13,2018
+557,24081,UTSZ Trail Races,100Miles,shenzhen,China,2017-12-23,05:00:00,solo,162.4,7230.0,-7200.0,16,40,9,2017
+558,65857,Loup Garou 100 Mile Trail Run,100M,VillePlatte,"LA, United States",2017-12-14,00:00:00,solo,,,,0,19,19,2017
+559,25033,Prazska Stovka - Prague Ultra Trail,170 Km,Praha,Czech Republic,2017-12-09,00:00:00,solo,168.6,4720.0,-4830.0,8,98,98,2017
+560,26537,The Hitchcock Experience,100 Mile,HoneyCreek,United States,2017-12-09,11:00:00,solo,169.2,5470.0,-5430.0,21,50,22,2017
+561,23199,Ultra-Trail® Panoramic,100Miles,AmphurMuang,Thailand,2017-12-08,18:00:00,solo,162.9,7130.0,-6970.0,10,400,89,2017
+562,27269,Eco Madeira Ultra Marathon,Eco Madeira Ultra Marathon,CâmaradeLobos,Portugal,2017-12-01,10:00:00,solo,164.9,7130.0,-7130.0,11,25,7,2017
+563,23631,HK168,Full 168,TaiMeiTuk,"Hong Kong, China",2017-12-01,18:00:00,solo,161.5,7880.0,-7870.0,14,300,100,2017
+564,26623,Wicklow Way 50 Miles,100 Miles,Wicklow,Ireland,2017-12-01,14:00:00,solo,160.8,5490.0,-5480.0,4,50,17,2017
+565,19301,Alpine Challenge,100 Mile Individual,BerrysCreek,Australia,2017-11-25,04:30:00,solo,155.3,6420.0,-6420.0,4,100,42,2017
+566,41979,Best of San Diego 100 Miler,100 Miler,SanDiego,United States,2017-11-24,07:00:00,solo,163.0,2360.0,-2360.0,13,9,9,2017
+567,42905,Louceni,172 km,UstinadLabem,Czech Republic,2017-11-24,05:30:00,solo,,,,9,36,36,2017
+568,19175,Ultra-Trail® Three Gorges,172 Km,Yichang,China,2017-11-23,20:00:00,solo,174.1,10200.0,-10070.0,17,114,114,2017
+569,28131,CHIMERA 100,100 MILES,,United States,2017-11-18,00:00:00,solo,155.0,6520.0,-6520.0,0,66,66,2017
+570,25319,AITUYE Shenzhen Costline 168 International Trail,168KM,Shenzhen,China,2017-11-11,07:00:00,solo,161.9,5840.0,-5830.0,17,100,6,2017
+571,23483,Feral Pig Ultra,Feral Pig 100 Mile,Mundaring,Australia,2017-11-11,00:00:00,solo,162.8,3300.0,-3420.0,15,30,8,2017
+572,27667,Tunnel Hill  100 & 50 mile runs,100mi,Vienna,United States,2017-11-11,07:00:00,solo,,,,21,180,180,2017
+573,19743,Oman Desert Marathon,Oman Desert Marathon,Bidiyah,Oman,2017-11-04,10:00:00,solo,167.0,3260.0,-3610.0,14,99,96,2017
+574,25731,Ozark Trail 100 Mile Endurance Run,100 Mi,Shawnee,United States,2017-11-04,06:00:00,solo,,,,13,56,39,2017
+575,28129,PINHOTI 100,100 MILES,Sylacauga,United States,2017-11-04,00:00:00,solo,161.9,4930.0,-5060.0,0,207,207,2017
+576,28127,RIO DEL LAGO 100,100 MILES,,United States,2017-11-04,00:00:00,solo,,,,19,392,392,2017
+577,25451,Kullamannen,100 miles,Kullaberg,Sweden,2017-11-03,00:00:00,solo,157.4,2900.0,-2930.0,14,175,40,2017
+578,17413,White Rose Ultra,100 Mile,Huddersfield,United Kingdom,2017-10-29,00:00:00,solo,162.2,3870.0,-4050.0,5,13,13,2017
+579,16729,Javelina Jundred,100 Miles,FortMcDowell,United States,2017-10-28,06:00:00,solo,159.4,1760.0,-1760.0,26,799,535,2017
+580,23969,Indomit costa esmeralda ultra-trail®,100 MILLES,Gramado,Brazil,2017-10-27,14:00:00,solo,160.9,4440.0,-4440.0,12,70,10,2017
+581,24249,Ultra Tuffman Beach Championship - Goa,Goa 160k,Sernabatim,India,2017-10-27,06:00:00,solo,,,,16,200,2,2017
+582,21335,Bèrghem Ultra Trail,Bèrghem Ultra100M Stenfjellet,Hamar,Norway,2017-10-21,10:00:00,solo,162.0,2940.0,-2940.0,1,50,7,2017
+583,24933,Cactus Rose,100 Mile,Bandera,United States,2017-10-21,00:00:00,solo,,,,20,21,21,2017
+584,17291,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,2017-10-21,10:00:00,solo,161.8,2120.0,-2120.0,14,300,178,2017
+585,26685,GHOST TRAIN RAIL TRAIL RACE 100,100 Mi,,United States,2017-10-21,00:00:00,solo,161.0,1610.0,-1600.0,0,65,65,2017
+586,26383,Autumn Asylum,March Extended,Rajamäki,Finland,2017-10-20,20:00:00,solo,168.2,1360.0,-1360.0,1,15,3,2017
+587,21187,Dalmacija Ultra-Trail®,Sky Dut,Omiš,Croatia,2017-10-20,15:00:00,solo,155.3,6720.0,-6740.0,13,150,69,2017
+588,26299,Rodopi Ultra Trail,Rodopi Advendurun,Haidou,Greece,2017-10-20,06:00:00,solo,162.1,6590.0,-6580.0,6,200,109,2017
+589,20273,Grand Raid De La Réunion,La Diagonale Des Fous,SaintDenis,France,2017-10-19,22:00:00,solo,164.9,10000.0,-9960.0,18,2548,2548,2017
+590,18789,Hume And Hovell Ultra,100 Mile,Tumbarumba,Australia,2017-10-14,06:00:00,solo,160.0,3990.0,-3990.0,10,100,12,2017
+591,32383,Oil Creek 100 Trail Runs,100 MILES,,United States,2017-10-14,00:00:00,solo,162.3,5420.0,-5420.0,0,78,78,2017
+592,25629,The North Face Endurance Challenge Chile,160 Km,Huechuraba,Chile,2017-10-14,00:00:00,solo,159.5,7890.0,-8020.0,16,85,85,2017
+593,21153,Bhatti Lakes Ultra,160 Km,Faridabad,India,2017-10-13,06:00:00,solo,161.1,1110.0,-1110.0,0,20,5,2017
+594,22799,Virgin Forest Trail,Ultra-Trail®,PARANESTI,Greece,2017-10-13,00:00:00,solo,166.4,7540.0,-7530.0,15,150,80,2017
+595,17537,Crimea X Run,Stage Race,Yalta,Ukraine,2017-10-11,10:00:00,solo,159.3,9430.0,-9400.0,12,200,195,2017
+596,26449,OSJ Koumi,100 Miles,KoumiTown,Japan,2017-10-08,05:00:00,solo,170.9,7720.0,-7720.0,4,126,126,2017
+597,22077,Bromont Ultra,160km,Bromont,Canada,2017-10-07,07:30:00,solo,162.2,5880.0,-5870.0,17,44,44,2017
+598,17777,Cloudsplitter 100,100 Mile,Norton,United States,2017-10-07,07:00:00,solo,165.2,5300.0,-5300.0,21,100,32,2017
+599,19353,100 Miles Sud De France,100 Miles,bolquere,France,2017-10-06,10:00:00,solo,166.1,8060.0,-9800.0,15,500,162,2017
+600,23565,EstrelAçor Ultra Endurance,EstrelAçor 180km,PenhasdaSaúde,Portugal,2017-10-06,18:00:00,solo,174.9,7930.0,-7930.0,15,50,15,2017
+601,21801,Grindstone 100,Grindstone 100,Swoope,United States,2017-10-06,00:00:00,solo,159.6,6980.0,-6980.0,15,300,182,2017
+602,18073,Szlak Orlich Gniazd - Ultra,Szlak Orlich Gniazd - Ultra,KwasniówDolny,Poland,2017-10-06,20:00:00,solo,161.8,2780.0,-2760.0,7,100,74,2017
+603,21709,NERANG 100 miler 2017,NERANG 100 miler,Nerang,Australia,2017-09-30,07:00:00,solo,161.5,5710.0,-5710.0,6,30,7,2017
+604,16313,BEAR 100,BEAR 100,Smithfield,United States,2017-09-29,00:00:00,solo,163.4,6380.0,-6050.0,13,304,304,2017
+605,15369,Cotswold Way Century,100 Miles,ChippingCampden,United Kingdom,2017-09-23,12:00:00,solo,166.7,4210.0,-4370.0,10,120,107,2017
+606,26211,Flagstaff To Grand Canyon Stagecoach Line,100 MILE ULTRA SOLO,,United States,2017-09-23,00:00:00,solo,160.93,2134.0,,0,47,47,2017
+607,12239,Mountain Lakes 100,Mountain Lakes 100,OlallieLake,United States,2017-09-23,08:00:00,solo,155.9,3570.0,-3570.0,14,150,83,2017
+608,26709,The Georgia jewel,100 Miler,Dalton,United States,2017-09-23,00:00:00,solo,,,,0,31,31,2017
+609,19733,Waterous Trail On Foot,WTF 100,Dwellingup,Australia,2017-09-23,06:00:00,solo,161.9,3210.0,-3210.0,9,30,13,2017
+610,25495,Karkloof100,Karkloof100,Howick,South Africa,2017-09-22,22:00:00,solo,156.6,3440.0,-3440.0,9,50,25,2017
+611,19093,Black River Run,100 Miles,Västerås,Sweden,2017-09-16,10:00:00,solo,161.0,1090.0,-1090.0,9,200,41,2017
+612,25349,IDAHO MOUNTAIN TRAIL ULTRA FESTIVAL,100 MILE,,United States,2017-09-16,00:00:00,solo,161.5,6810.0,-6810.0,0,127,127,2017
+613,20479,Mark Twain Endurance Runs,100 Mile,Berryman,United States,2017-09-16,06:00:00,solo,161.8,2300.0,-2300.0,5,150,11,2017
+614,16723,Mogollon Monster 100,MOGOLLON MONSTER 100,Pine,United States,2017-09-16,06:00:00,solo,162.8,5500.0,-5500.0,13,150,58,2017
+615,25339,RUN RABBIT RUN,100 HARE,,United States,2017-09-15,00:00:00,solo,165.8,6160.0,-6160.0,0,72,72,2017
+616,26251,HEADLANDS HUNDRED,100 miles,,United States,2017-09-09,00:00:00,solo,161.0,6120.0,-6120.0,0,69,69,2017
+617,67710,Pine creek challenge,100Miles,Wellsboro,"PA, United States",2017-09-09,00:00:00,solo,,,,0,35,35,2017
+618,17721,THE GREAT NORTH WALK 100S,100 MILES,Patonga,Australia,2017-09-09,06:00:00,solo,170.6,5520.0,-5520.0,6,200,44,2017
+619,36583,Superior Fall Trail Race,100 Mile,Lutsen,United States,2017-09-08,08:00:00,solo,168.0,5200.0,-5060.0,13,169,169,2017
+620,14019,SwissPeaks Trail,170K Valais*Wallis,LeBouveret,Switzerland,2017-09-08,13:00:00,solo,171.0,10560.0,-12530.0,12,400,30,2017
+621,25335,WASATCH FRONT 100 MILE ENDURANCE RUN,WASATCH FRONT 100 MILE ENDURANCE RUN,,United States,2017-09-08,00:00:00,solo,161.0,8215.0,-7965.0,0,201,201,2017
+622,17705,Ultra Tour Monte Rosa,4 Stage Race 170 km,Grächen,Switzerland,2017-09-06,06:00:00,solo,161.0,12250.0,-12250.0,11,300,104,2017
+623,24327,Vadrózsa 50,Vadrózsa 160,Rózsaszentmárton,Hungary,2017-09-02,06:45:00,solo,159.6,6340.0,-6350.0,17,100,39,2017
+624,17653,Ultra Tour Monte Rosa,Ultra Tour 170 (GG),Grächen,Switzerland,2017-09-01,06:00:00,solo,163.8,11030.0,-11010.0,15,63,63,2017
+625,24343,Ultra Trail Mt. Bogda,168km,Fukang,China,2017-09-01,05:00:00,solo,161.8,8400.0,-8400.0,15,30,11,2017
+626,17383,UTMB®,UTMB®,Chamonix,France,2017-09-01,18:00:00,solo,168.6,9980.0,-9980.0,16,2542,2542,2017
+627,26873,Grand Mesa Ultras,100 Miler,,United States,2017-08-27,00:00:00,solo,,,,0,19,19,2017
+628,21795,Kodiak Ultra Marathons,Kodiak 100 Mi,BigBearLake,United States,2017-08-25,09:00:00,solo,163.1,5150.0,-5140.0,16,65,65,2017
+629,25329,CASCADE CREST 100 MILE ENDURANCE RUN,CASCADE CREST 100 MILE ENDURANCE RUN,,United States,2017-08-19,00:00:00,solo,161.0,6700.0,-6700.0,0,151,151,2017
+630,24935,Habanero Hundread,100M,CatSprings,United States,2017-08-19,12:00:00,solo,,,,2,400,7,2017
+631,25331,LEADVILLE TRAIL 100 RUN,100 MI,Leadville,United States,2017-08-19,00:00:00,solo,,,,0,287,287,2017
+632,16177,Persenk Ultra,PERSENK ULTRA,Asenovgrad,Bulgaria,2017-08-18,18:00:00,solo,157.0,7100.0,-7120.0,13,100,55,2017
+633,16621,Ultra Tour Des 4 Massifs,Ut4M160 Xtrem,Grenoble,France,2017-08-17,18:00:00,solo,171.3,11390.0,-11390.0,15,700,218,2017
+634,18791,Chongli100 Ultra Sky Trail Challenge,168 Km,chongji,China,2017-08-11,18:00:00,solo,165.4,7370.0,-7370.0,12,150,31,2017
+635,19705,Force 12 Events,Beacons 100,Brecon,United Kingdom,2017-08-11,19:00:00,solo,162.6,6730.0,-6730.0,5,150,21,2017
+636,15312,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,2017-08-05,06:00:00,solo,170.2,3490.0,-3520.0,14,300,147,2017
+637,19815,Silverheels Endurance Run,100 Mile,Fairplay,United States,2017-08-05,04:00:00,solo,168.2,5470.0,-5470.0,22,300,11,2017
+638,19207,Ouray 100 Mile Endurance Run,100 Mile,Ouray,United States,2017-08-04,08:00:00,solo,167.2,11420.0,-11420.0,15,120,59,2017
+639,18669,Burning River Endurance Run,100 Mile,Hudson,United States,2017-07-29,04:00:00,solo,164.6,2610.0,-2530.0,14,250,129,2017
+640,16853,Chiemgauer 100,100 Mile,Bergen,Germany,2017-07-28,14:00:00,solo,,,,9,150,13,2017
+641,22779,Garmin Runfire Salt Lake Ultra Trail,Ultra Trail,ulukisla,Turkey,2017-07-28,18:00:00,solo,161.4,610.0,-610.0,18,13,13,2017
+642,21269,High Lonesome 100,100M,Nathrop,United States,2017-07-28,06:00:00,solo,160.2,7710.0,-7720.0,12,75,53,2017
+643,24615,LAKELAND,LAKELAND 100,,United Kingdom,2017-07-28,00:00:00,solo,161.0,6300.0,-6300.0,0,223,223,2017
+644,16701,Montreux Trail Festival,MXtreme 160,Savigny,Switzerland,2017-07-28,06:00:00,solo,162.6,11530.0,-11520.0,15,300,127,2017
+645,22019,YOU YANGS Hardcore 100Miler,100 MI,LittleRiver,Australia,2017-07-22,09:00:00,solo,164.2,3280.0,-3280.0,2,36,36,2017
+646,24033,OSJ Ontake 100,100 Miles,Otaki,Japan,2017-07-15,20:00:00,solo,155.7,5270.0,-5280.0,6,59,59,2017
+647,13873,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,2017-07-15,05:00:00,solo,160.4,6140.0,-6140.0,0,250,150,2017
+648,21185,Vermont 100 Endurance Race,100M,WestWindsor,United States,2017-07-15,04:00:00,solo,157.5,4860.0,-4870.0,19,325,265,2017
+649,23341,Columbia 168 Ultra-Trail® Challenge Chongli,168km,Chongli,China,2017-07-14,16:00:00,solo,168.9,7340.0,-7330.0,16,150,103,2017
+650,17791,Sinister 7 Ultra,Solo,Blairmore,Canada,2017-07-08,07:00:00,solo,159.5,5770.0,-5790.0,15,1600,46,2017
+651,17709,The GAX 100 Miles,The GAX 100 Miles,Ystad,Sweden,2017-07-08,08:00:00,solo,161.2,1640.0,-1640.0,3,70,44,2017
+652,23919,Andorra Ultra Trail Vallnord,Ronda dels cims,Ordino,Andorra,2017-07-07,00:00:00,solo,170.0,13500.0,-13500.0,0,184,184,2017
+653,16503,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,2017-07-07,18:00:00,solo,170.7,10160.0,-10160.0,15,515,215,2017
+654,23697,HARDROCK 100 ENDURANCE RUN,100Mi CC,,United States,2017-07-07,00:00:00,solo,161.8,10365.0,-10365.0,0,145,145,2017
+655,21659,Aktivitus Trailrace,Ultra-Trail®,Jonsered,Sweden,2017-07-01,04:15:00,solo,160.4,2620.0,-2620.0,8,50,8,2017
+656,15071,Ultra-Trail® du Mont-Albert,Grande Traversée Ultra-Trail®,Sainte-Anne-des-Monts,Canada,2017-06-30,06:00:00,solo,167.3,7340.0,-7170.0,14,150,43,2017
+657,22919,100 Mile Spa,100 Mile Spa,Spa,Belgium,2017-06-24,13:00:00,solo,156.9,3820.0,-3870.0,5,150,19,2017
+658,22953,MONTANE® Spine® Summer Races,Flare,Edale,United Kingdom,2017-06-24,08:00:00,solo,174.8,4200.0,-4200.0,6,50,16,2017
+659,18229,Western States Endurance Run,Western States Endurance Run,Auburn,United States,2017-06-24,00:00:00,solo,161.6,5370.0,-6890.0,21,249,249,2017
+660,18025,South Wales 100,South Wales 100,Cardiff,United Kingdom,2017-06-23,19:00:00,solo,165.9,6270.0,-6280.0,11,100,54,2017
+661,20219,Ultra Coahuila,100M,Arteaga,Mexico,2017-06-23,14:00:00,solo,160.0,6090.0,-6090.0,12,38,38,2017
+662,34957,Mohican Trail,THE NORTH FACE MOHICAN TRAIL 100M,Loudonville,United States,2017-06-17,00:00:00,solo,,,,0,76,76,2017
+663,19895,Ultra-Trail® Gaspesia 100,100 miles,Percé,Canada,2017-06-17,05:00:00,solo,158.4,3860.0,-3970.0,21,25,1,2017
+664,22579,XTRAIL 100,Xtrail Kanas 168km Trail Run,Burjin,China,2017-06-17,09:00:00,solo,165.5,5950.0,-5950.0,10,45,45,2017
+665,24589,Bighorn Trail Run,100M,Sheridan,United States,2017-06-16,11:00:00,solo,167.3,6740.0,-6800.0,7,360,174,2017
+666,16103,Bryce Canyon,100 Mile,Hatch,United States,2017-06-16,00:00:00,solo,159.4,4800.0,-4800.0,13,150,134,2017
+667,18109,Festiwal Biegu Rzeznika,Bieg Rzeznika Ultra 160K,Cisna,Poland,2017-06-16,00:00:00,solo,159.8,5250.0,-5250.0,12,150,8,2017
+668,13863,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,2017-06-10,06:00:00,solo,156.7,3400.0,-3460.0,14,300,220,2017
+669,17097,SAN DIEGO 100,San Diego 100,Oceanside,United States,2017-06-09,06:00:00,solo,158.0,4020.0,-4030.0,15,260,260,2017
+670,19563,Kettle Moraine 100,100 Mile,LaGrange,United States,2017-06-03,06:00:00,solo,161.1,2570.0,-2570.0,12,400,103,2017
+671,22771,OLD DOMINION 100 MILE,OLD DOMINION 100 MILE,,United States,2017-06-03,00:00:00,solo,161.0,4270.0,-4270.0,0,30,30,2017
+672,15399,The Arctic Triple Lofoten Ultra-Trail®,100 Miles,SVOLVÆR,Norway,2017-06-02,12:00:00,solo,165.6,6680.0,-6690.0,10,26,26,2017
+673,15555,5th Elton Volgabus Ultra-Trail®,Ultimate 100 miles,Eltonvillage,Russia,2017-05-27,20:00:00,solo,163.6,250.0,-250.0,8,86,56,2017
+674,17725,Soria Moria til Verdens Ende,Soria Moria til Verdens Ende,VerdensEnde,Norway,2017-05-27,10:00:00,solo,168.1,3350.0,-3840.0,3,200,18,2017
+675,26699,Sulphur Springs Trail Run,100 MILES,Ancaster,Canada,2017-05-27,00:00:00,solo,161.0,3220.0,-3220.0,0,35,35,2017
+676,19881,Chicamocha Canyon Race,164 Km,SanGil,Colombia,2017-05-26,22:00:00,solo,165.5,8560.0,-8560.0,14,100,46,2017
+677,15209,NUTS Karhunkierros,160k,Kuusamo,Finland,2017-05-26,12:00:00,solo,163.2,3650.0,-3640.0,7,82,41,2017
+678,22851,Trainic-World in Sainokuni,100mile,Ogose,Japan,2017-05-20,07:00:00,solo,166.3,9670.0,-9670.0,16,200,15,2017
+679,19045,Hardcore Hundred Miles Trail Ultramarathon,Hardcore Hundred Miles Trail Ultramarathon,Kayapa,Philippines,2017-05-19,00:00:00,solo,163.7,11840.0,-11860.0,11,100,97,2017
+680,18887,Ultra-Trail® Malopolska,UTM 170,KasinkaMala,Poland,2017-05-19,20:00:00,solo,173.8,8450.0,-8450.0,11,100,15,2017
+681,19105,Cruel Jewel,Cruel Jewel 100,Blairsville,United States,2017-05-13,12:00:00,solo,174.2,8660.0,-8650.0,11,125,77,2017
+682,17713,Penang Eco 100,100 miles,BukitMertajam,Malaysia,2017-05-13,04:00:00,solo,164.6,4080.0,-4080.0,15,30,19,2017
+683,22543,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,,United States,2017-05-06,00:00:00,solo,162.5,5420.0,-5420.0,0,149,149,2017
+684,15901,Salomon Hammer Trail,100 Miles,allinge,Denmark,2017-05-05,10:00:00,solo,161.5,5840.0,-5840.0,12,500,14,2017
+685,14011,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,2017-04-29,10:00:00,solo,160.7,1880.0,-1850.0,13,300,208,2017
+686,21897,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,2017-04-22,10:00:00,solo,160.3,1780.0,-1780.0,13,150,49,2017
+687,18865,Mustang Trail Race,Mustang Trail Race,Kathmandu,Nepal,2017-04-18,08:00:00,solo,164.8,8660.0,-7980.0,8,30,30,2017
+688,13476,100 Miles Of Istria,100 Miles,Umag,Croatia,2017-04-07,16:00:00,solo,170.4,7100.0,-7390.0,12,321,321,2017
+689,15959,Zion,100 Mile,Virgin,United States,2017-04-07,06:00:00,solo,161.1,3800.0,-3800.0,15,200,169,2017
+690,36573,Zumbro Endurance Run,Zumbro 100 Mile Endurance Run,Theilman,United States,2017-04-07,08:00:00,solo,159.7,4250.0,-4250.0,22,48,48,2017
+691,15891,Ultra Fiord,100 Miles,PuertoNatales,Chile,2017-04-06,22:00:00,solo,166.3,5400.0,-5480.0,14,150,23,2017
+692,21605,UMSTEAD 100,UMSTEAD 100,,United States,2017-04-01,00:00:00,solo,161.0,2450.0,-2450.0,0,143,143,2017
+693,16065,Badger Mountain Challenge,100 Mile,Kennewick,United States,2017-03-24,07:00:00,solo,156.7,4760.0,-4750.0,15,65,43,2017
+694,17181,Northburn 100 Miler,100 Mile,Cromwell,New Zealand,2017-03-18,06:00:00,solo,162.5,10020.0,-10020.0,12,57,57,2017
+695,17313,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,2017-03-17,00:00:00,solo,,,,17,75,39,2017
+696,15344,Addo Elephant Trail Run,100 Mile,Addo,South Africa,2017-03-10,14:00:00,solo,161.2,5640.0,-5170.0,16,44,44,2017
+697,19461,ULTRA-TRAIL® SIERRAS DEL BANDOLERO,ULTRA-TRAIL® SIERRAS DEL BANDOLERO,PradodelRey,Spain,2017-03-03,18:00:00,solo,163.4,6640.0,-6640.0,14,400,131,2017
+698,15245,La Mision,160 Km,SanMartíndelosAndes,Argentina,2017-02-23,12:00:00,solo,162.5,6480.0,-6480.0,1,300,140,2017
+699,26349,La Mision,160 km Equipos,SanMartíndelosAndes,Argentina,2017-02-23,09:00:00,team,163.9,6810.0,-6800.0,2,30,24,2017
+700,16689,Arctic Ultra,100 Miles,Arvika,Sweden,2017-02-18,07:00:00,solo,159.6,2780.0,-2780.0,14,15,15,2017
+701,13291,Run The Rann,RTR 161 Km,Dholavira,India,2017-02-11,07:00:00,solo,159.0,2230.0,-2220.0,10,30,25,2017
+702,17681,Run of Kutch,160 Km,Bangalore,India,2017-02-10,06:00:00,solo,169.5,110.0,-110.0,12,10,8,2017
+703,15771,Rocky Raccoon,100 Mile,Huntsville,United States,2017-02-04,00:00:00,solo,158.6,1970.0,-1970.0,19,500,210,2017
+704,16705,Coldwater Rumble,100 Miles,Goodyear,United States,2017-01-21,07:00:00,solo,161.9,1750.0,-1750.0,16,500,27,2017
+705,19971,HURT 100,HURT 100 MILE ENDURANCE RUN,,United States,2017-01-15,00:00:00,solo,161.0,8200.0,-8200.0,0,125,125,2017
+706,14745,Montane Spine Races,Challenger,Edale,United Kingdom,2017-01-14,08:00:00,solo,172.8,4900.0,-4900.0,4,120,63,2017
+707,14829,Montane Spine Races,Montane Spine MRT Challenge,Edale,United Kingdom,2017-01-14,11:00:00,solo,172.8,4900.0,-4900.0,4,12,12,2017
+708,18833,Brazil 135+ Ultramarathon,Maratona 4,SãoJoãodaBoaVista,Brazil,2017-01-12,08:00:00,solo,166.9,4940.0,-4800.0,0,50,3,2017
+709,31715,Croom zoom,100mi,Brooksville,"FL, United States",2017-01-07,00:00:00,solo,,,,0,17,17,2017
+710,11758,S1 Trail La Corsa Della Bora,S1 Ipertrail,TRIESTE,Italy,2017-01-05,06:00:00,solo,163.7,6610.0,-6610.0,4,50,20,2017
+711,15413,S1 Trail La Corsa Della Bora,S1 Ipertrail Team,TRIESTE,Italy,2017-01-05,01:00:00,team,163.7,6610.0,-6610.0,1,13,13,2017
+712,14357,UTSZ Autumn Trail Races,100Miles,shenzhen,China,2016-12-17,05:30:00,solo,161.6,7150.0,-7120.0,16,40,16,2016
+713,18529,Brazos Bend 100,100M,Needville,United States,2016-12-10,00:00:00,solo,158.5,1400.0,-1400.0,0,200,122,2016
+714,16363,The Hitchcock Experience,100 Mile,HoneyCreek,United States,2016-12-10,11:00:00,solo,157.1,3620.0,-3630.0,21,50,18,2016
+715,20919,Prazska Stovka,151 Km,Praha,Czech Republic,2016-12-09,23:00:00,solo,155.0,4640.0,-4810.0,8,148,148,2016
+716,14437,Ultra-Trail® Panoramic,100Miles,AmphurMuang,Thailand,2016-12-09,00:00:00,solo,158.2,6400.0,-6810.0,10,18,18,2016
+717,16487,Wicklow Way 50 Miles,100 Miles,Wicklow,Ireland,2016-12-02,14:00:00,solo,161.6,6800.0,-6800.0,6,50,24,2016
+718,12410,Alpine Challenge,100 Mile Individual,BerrysCreek,Australia,2016-11-26,04:30:00,solo,157.0,7220.0,-7220.0,4,100,42,2016
+719,14393,Ultra-Trail® Three Gorges,172 Km,Yichang,China,2016-11-25,08:00:00,solo,167.2,10150.0,-10010.0,17,83,83,2016
+720,16155,Mt.Gaoligong Ultra,160 Km,Tengchong,China,2016-11-18,07:35:00,solo,163.0,8130.0,-8180.0,18,200,33,2016
+721,20589,CHIMERA 100,CHIMERA 100 MILES,,United States,2016-11-12,00:00:00,solo,155.0,6520.0,-6520.0,0,30,30,2016
+722,28009,Tunnel Hill  100 & 50 mile runs,100mi,Vienna,United States,2016-11-12,07:00:00,solo,,,,21,101,101,2016
+723,15809,Desafio Extremo Estrada Real 100 Milhas De Sabarabuçu,160 Km,Caete,Brazil,2016-11-05,07:30:00,solo,159.3,4750.0,-4490.0,7,100,4,2016
+724,16161,HK168,Full 168,TaiMeiTuk,"Hong Kong, China",2016-11-05,08:00:00,solo,169.7,7830.0,-7660.0,15,150,26,2016
+725,12519,Oman Desert Marathon,Oman Desert Marathon,Bidiyah,Oman,2016-11-05,10:00:00,solo,166.2,1960.0,-2300.0,14,99,74,2016
+726,20601,OZARK 100 MILE ENDURANCE RUN,OZARK 100 MILE ENDURANCE RUN,Shawnee,United States,2016-11-05,00:00:00,solo,161.0,4500.0,-4500.0,12,45,45,2016
+727,17215,PINHOTI 100,PINHOTI 100 MILES,Sylacauga,United States,2016-11-05,00:00:00,solo,161.9,4930.0,-5060.0,0,146,146,2016
+728,17233,RIO DEL LAGO 100,100 MILES,,United States,2016-11-05,00:00:00,solo,166.9,3300.0,-3300.0,19,208,208,2016
+729,11780,Bromo Tengger Semeru 100 Ultra,BTS 170K,Bogor,Indonesia,2016-11-04,00:00:00,solo,171.7,8570.0,-8560.0,15,40,26,2016
+730,11591,White Rose Ultra,100 Mile,Huddersfield,United Kingdom,2016-10-30,00:00:00,solo,161.2,4610.0,-4810.0,5,28,28,2016
+731,11955,Javelina Jundred,100 Miles,FortMcDowell,United States,2016-10-29,06:00:00,solo,159.4,1760.0,-1760.0,26,799,285,2016
+732,11920,Ultra Sovev Emek,166 Km,36581,Israel,2016-10-26,07:00:00,solo,165.9,2620.0,-2620.0,9,15,15,2016
+733,16971,Cactus Rose,100 Mile,Bandera,United States,2016-10-22,00:00:00,solo,161.0,4400.0,-4400.0,20,19,19,2016
+734,16703,Autumn Asylum,March Extended,Rajamäki,Finland,2016-10-21,20:00:00,solo,160.5,2100.0,-2100.0,2,50,5,2016
+735,12923,Dalmacija Ultra-Trail®,Sky Dut,Omiš,Croatia,2016-10-21,13:00:00,solo,161.4,5960.0,-5930.0,12,100,46,2016
+736,18115,Rodopi Advendurun,100 miles,Haidou,Greece,2016-10-21,06:00:00,solo,164.1,6610.0,-6610.0,6,200,125,2016
+737,15338,Le Grand Raid De La Réunion,Le Grand Raid De La Réunion,SaintDenis,France,2016-10-20,22:00:00,solo,167.5,10100.0,-10060.0,0,2500,1688,2016
+738,11352,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,2016-10-15,10:00:00,solo,162.4,2130.0,-2140.0,14,300,180,2016
+739,15665,Hume And Hovell Ultra,100 Mile,Tumbarumba,Australia,2016-10-15,06:00:00,solo,160.0,3990.0,-4000.0,10,100,15,2016
+740,13431,Raleigh Challenge - Wilson Trail,Round Trip,HongKong,"Hong Kong, China",2016-10-15,08:00:00,team,155.5,7390.0,-7390.0,9,50,4,2016
+741,14429,The Cederberg Traverse,100 Mile,Cederberg,South Africa,2016-10-15,05:30:00,solo,166.1,7390.0,-7390.0,3,50,4,2016
+742,15939,The North Face Endurance Challenge Chile,160 Km,Huechuraba,Chile,2016-10-15,00:00:00,solo,160.1,8970.0,-8720.0,16,70,63,2016
+743,13273,Salomon Bhatti Lakes,160 Km,Faridabad,India,2016-10-14,06:00:00,solo,158.3,2390.0,-2370.0,0,20,5,2016
+744,13014,Szlak Orlich Gniazd - Ultra,Szlak Orlich Gniazd - Ultra,KwasniówDolny,Poland,2016-10-14,20:00:00,solo,161.8,2780.0,-2760.0,7,56,56,2016
+745,12788,Virgin Forest Trail,Ultra-Trail®,PARANESTI,Greece,2016-10-14,00:00:00,solo,165.2,7580.0,-7580.0,15,150,62,2016
+746,17345,OSJ Koumi,100 Miles,KoumiTown,Japan,2016-10-09,05:00:00,solo,166.6,8510.0,-8520.0,4,72,72,2016
+747,13501,Bromont Ultra,160km,Bromont,Canada,2016-10-08,07:30:00,solo,162.5,6240.0,-6240.0,17,23,23,2016
+748,32381,Oil Creek 100 Trail Runs,100 MILES,,United States,2016-10-08,00:00:00,solo,,,,0,98,98,2016
+749,12179,100 Miles Sud De France,100 Miles,bolquere,France,2016-10-07,10:00:00,solo,164.3,8060.0,-9800.0,15,500,155,2016
+750,21799,Grindstone 100,Grindstone 100,Swoope,United States,2016-10-07,00:00:00,solo,159.6,6980.0,-6980.0,15,179,179,2016
+751,11193,Ultra-Trail del Rincon,UTR 170K,Castielfabib,Spain,2016-10-07,00:00:00,solo,168.0,6610.0,-6610.0,15,17,17,2016
+752,11638,Cloudsplitter 100,100 Mile,Norton,United States,2016-10-01,08:00:00,solo,160.7,6930.0,-6930.0,10,50,37,2016
+753,16227,NERANG 100 miler 2016,NERANG 100 miler,Nerang,Australia,2016-10-01,07:00:00,solo,160.0,5550.0,-5550.0,6,9,9,2016
+754,12131,Cotswold Way Century,100 Miles,ChippingCampden,United Kingdom,2016-09-24,12:00:00,solo,166.7,4210.0,-4370.0,10,120,36,2016
+755,16107,Flagstaff To Grand Canyon Stagecoach Line,100 MILE ULTRA SOLO,,United States,2016-09-24,00:00:00,solo,160.93,2134.0,,0,17,17,2016
+756,13173,Mogollon Monster 100,MOGOLLON MONSTER 100,Pine,United States,2016-09-24,00:00:00,solo,169.7,6020.0,-6020.0,13,150,33,2016
+757,11239,St Oswald's Ultra,100 Mile,Chollerford,United Kingdom,2016-09-24,00:00:00,solo,164.4,2160.0,-2200.0,13,27,27,2016
+758,13213,Waterous Trail On Foot,WTF 100,Dwellingup,Australia,2016-09-24,06:00:00,solo,161.6,3190.0,-3190.0,9,30,14,2016
+759,14133,BEAR 100,BEAR 100,Smithfield,United States,2016-09-23,00:00:00,solo,161.1,5620.0,-5620.0,13,168,168,2016
+760,12087,Black River Run,100 Miles,Västerås,Sweden,2016-09-17,10:00:00,solo,161.2,1040.0,-1050.0,9,200,33,2016
+761,16439,IDAHO MOUNTAIN TRAIL ULTRA FESTIVAL,100 Mile,,United States,2016-09-17,00:00:00,solo,,,,0,79,79,2016
+762,11776,Mark Twain Endurance Races,100 Mile,Berryman,United States,2016-09-17,06:00:00,solo,156.4,2530.0,-2530.0,6,11,11,2016
+763,14247,Kodiak Ultra Marathons,Kodiak 100 Mi,BigBearLake,United States,2016-09-16,12:00:00,solo,163.8,5140.0,-5140.0,16,86,86,2016
+764,15859,RUN RABBIT RUN,RUN RABBIT RUN 100 HARE,,United States,2016-09-16,00:00:00,solo,165.8,6160.0,-6160.0,0,53,53,2016
+765,15779,HEADLANDS HUNDRED,HEADLANDS HUNDRED 100 MILE ENDURANCE RUN,,United States,2016-09-10,00:00:00,solo,161.0,6120.0,-6120.0,0,34,34,2016
+766,15643,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,2016-09-10,00:00:00,solo,164.2,7767.0,-7765.0,0,82,82,2016
+767,12869,THE GREAT NORTH WALK 100S,100 MILES,Patonga,Australia,2016-09-10,00:00:00,solo,170.6,5530.0,-5530.0,6,200,46,2016
+768,18059,Vadrózsa,Vadrózsa 160,Rózsaszentmárton,Hungary,2016-09-10,00:00:00,solo,158.8,6680.0,-6680.0,17,100,46,2016
+769,15769,WASATCH FRONT 100 MILE ENDURANCE RUN,WASATCH FRONT 100 MILE ENDURANCE RUN,,United States,2016-09-09,00:00:00,solo,161.0,8215.0,-7965.0,0,213,213,2016
+770,12711,Le Grand Raid Des Pyrénées,GRP160 Ultra,vielle-Aure,France,2016-08-26,00:00:00,solo,163.3,9590.0,-9590.0,0,169,169,2016
+771,11263,UTMB®,UTMB®,Chamonix,France,2016-08-26,00:00:00,solo,171.0,10080.0,-10080.0,16,2300,1469,2016
+772,15427,CASCADE CREST 100 MILE ENDURANCE RUN,CASCADE CREST 100 MILE ENDURANCE RUN,,United States,2016-08-20,00:00:00,solo,161.0,6700.0,-6700.0,0,127,127,2016
+773,15375,LEADVILLE TRAIL 100 RUN,100 MILE TRAIL RUN,Leadville,United States,2016-08-20,00:00:00,solo,,,,0,341,341,2016
+774,12089,Persenk Ultra,PERSENK ULTRA,Asenovgrad,Bulgaria,2016-08-19,18:00:00,solo,157.1,7130.0,-7130.0,13,100,38,2016
+775,11310,Ultra Tour Des 4 Massifs,Ut4M160 Xtrem,Grenoble,France,2016-08-19,07:00:00,solo,163.2,10530.0,-10530.0,15,500,284,2016
+776,10900,Angeles Crest 100 Mile Endurance Run,Angeles Crest 100 Mile Endurance Run,Arcadia,United States,2016-08-06,05:00:00,solo,160.8,6350.0,-7770.0,15,270,130,2016
+777,11982,Burning River Endurance Run,100 Mile,Hudson,United States,2016-08-06,04:00:00,solo,163.0,2470.0,-2470.0,20,135,135,2016
+778,11486,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,2016-08-06,06:00:00,solo,170.2,3490.0,-3520.0,14,300,153,2016
+779,12989,Silverheels Endurance Run,100 Mile,Fairplay,United States,2016-08-06,04:00:00,solo,168.2,5450.0,-5450.0,16,300,19,2016
+780,13366,Ouray 100 Mile Endurance Run,100 Mile,Ouray,United States,2016-08-05,08:00:00,solo,167.2,11420.0,-11420.0,15,30,30,2016
+781,11549,SALOMON ALPEN X 100 Powered By LED LENSER,100 Miles,Seefeld,Austria,2016-08-05,22:00:00,solo,163.9,10230.0,-10860.0,11,61,61,2016
+782,12166,Chiemgauer 100,100 Mile,Bergen,Germany,2016-07-29,14:00:00,solo,160.0,7500.0,-7500.0,9,150,17,2016
+783,10911,The GAX 100 Miles,The GAX 100 Miles,Ystad,Sweden,2016-07-23,08:00:00,solo,160.7,1600.0,-1590.0,5,70,45,2016
+784,16935,LAKELAND,LAKELAND 100,,United Kingdom,2016-07-22,00:00:00,solo,161.0,6300.0,-6300.0,0,232,232,2016
+785,13867,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,2016-07-16,00:00:00,solo,162.7,6140.0,-6140.0,0,155,155,2016
+786,14465,Vermont 100 Endurance Race,100M,WestWindsor,United States,2016-07-16,04:00:00,solo,162.0,4530.0,-4530.0,19,325,256,2016
+787,13454,YOU YANGS,100 MI,LittleRiver,Australia,2016-07-16,09:00:00,solo,156.7,2960.0,-2960.0,2,24,24,2016
+788,15015,Andorra Ultra Trail Vallnord,ANDORRA RONDA DELS CIMS,Ordino,Andorra,2016-07-15,00:00:00,solo,170.0,13500.0,-13500.0,0,211,211,2016
+789,10563,GRAND TRAIL STEVENSON,GTS 3 jours - B,Saint-Etienne-Vallée-Française,France,2016-07-15,07:00:00,solo,156.2,5143.0,-5986.0,6,23,23,2016
+790,11468,Sinister 7 Ultra,Solo,Blairmore,Canada,2016-07-09,07:00:00,solo,155.3,4300.0,-4270.0,15,1400,80,2016
+791,10953,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,2016-07-08,18:00:00,solo,170.7,10152.0,-10152.0,15,500,189,2016
+792,14723,HARDROCK 100 ENDURANCE RUN,HARDROCK 100,,United States,2016-07-08,00:00:00,solo,161.8,10365.0,-10365.0,0,112,112,2016
+793,13460,CHICAMOCHA RUN,160K,CUNDINAMARCA,Colombia,2016-07-02,09:00:00,solo,165.1,8520.0,-7400.0,10,19,19,2016
+794,14675,THURINGEN ULTRA,THURINGEN ULTRA 100 MILES,,Germany,2016-07-01,00:00:00,solo,161.0,3100.0,-3100.0,0,77,77,2016
+795,14585,BLACK HILLS 100,BLACK HILLS 100 - 100 MILES,,United States,2016-06-25,00:00:00,solo,161.0,4950.0,-4950.0,0,29,29,2016
+796,11981,Western States Endurance Run,Western States Endurance Run,Auburn,United States,2016-06-25,00:00:00,solo,160.3,5950.0,-7490.0,21,369,281,2016
+797,14329,Mohican Trail,THE NORTH FACE MOHICAN TRAIL 100M,Loudonville,United States,2016-06-18,00:00:00,solo,161.0,3425.0,-3425.0,0,121,121,2016
+798,14291,Bighorn Trail Run,100M,Sheridan,United States,2016-06-17,11:00:00,solo,167.3,6740.0,-6800.0,7,360,173,2016
+799,10802,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,2016-06-11,06:00:00,solo,156.7,3390.0,-3440.0,14,300,203,2016
+800,13257,Chicamocha Canyon Race,165 Km,SanGil,Colombia,2016-06-04,10:00:00,solo,164.6,8690.0,-8690.0,6,700,14,2016
+801,12217,Kettle Moraine 100,100 Mile,LaGrange,United States,2016-06-04,00:00:00,solo,160.9,2650.0,-2650.0,12,350,133,2016
+802,14245,OLD DOMINION 100 MILE,OLD DOMINION 100 MILE,,United States,2016-06-04,00:00:00,solo,161.0,4270.0,-4270.0,0,31,31,2016
+803,12004,Bryce Canyon,100 Mile,Hatch,United States,2016-06-03,00:00:00,solo,159.4,4800.0,-4800.0,13,103,103,2016
+804,11158,Oh Meu Deus,K 160+,Seia,Portugal,2016-06-03,00:00:00,solo,159.6,7730.0,-7730.0,12,44,44,2016
+805,10071,SAN DIEGO 100,San Diego 100,Oceanside,United States,2016-06-03,00:00:00,solo,158.0,4020.0,-4030.0,15,250,137,2016
+806,12661,The Arctic Triple Lofoten Ultra-Trail®,100 Miles,SVOLVÆR,Norway,2016-06-02,12:00:00,solo,166.2,6690.0,-6690.0,10,8,8,2016
+807,14689,SULPHUR SPRINGS,100 MILES,Ancaster,Canada,2016-05-28,00:00:00,solo,161.0,3220.0,-3220.0,0,27,27,2016
+808,11465,Borås Ultra Marathon,BUM 100 Miles,Borås,Sweden,2016-05-27,18:00:00,solo,158.8,3100.0,-3180.0,10,30,18,2016
+809,10935,NUTS Karhunkierros,160k,Kuusamo,Finland,2016-05-27,12:00:00,solo,162.4,1730.0,-1720.0,7,60,38,2016
+810,13799,The Himalayan Crossing and The Spiti,The Spiti,Kaza,India,2016-05-27,00:00:00,solo,171.6,4970.0,-4670.0,6,1,1,2016
+811,10476,Hardcore Hundred Miles Trail Ultramarathon,100 MILES - H1,Kayapa,Philippines,2016-05-20,00:00:00,solo,155.3,10095.0,-10101.0,11,100,64,2016
+812,12526,Cruel Jewel,Cruel Jewel 100,Blairsville,United States,2016-05-14,12:00:00,solo,174.2,8520.0,-8510.0,11,125,87,2016
+813,12804,Malaysia Eco 100,100 miles,BukitMertajam,Malaysia,2016-05-14,04:00:00,solo,164.7,4340.0,-4300.0,15,30,8,2016
+814,13745,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,,United States,2016-05-14,00:00:00,solo,162.5,5420.0,-5420.0,0,151,151,2016
+815,11321,Salomon Hammer Trail,100 Miles,allinge,Denmark,2016-05-06,11:00:00,solo,161.5,5840.0,-5840.0,12,500,16,2016
+816,10686,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,2016-04-30,00:00:00,solo,166.9,1532.0,-1502.0,13,300,207,2016
+817,12535,Mustang Trail Race,Mustang Trail Race,Kathmandu,Nepal,2016-04-19,09:00:00,solo,167.7,8850.0,-8110.0,8,30,20,2016
+818,10990,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,2016-04-16,10:00:00,solo,158.2,1540.0,-1540.0,13,250,48,2016
+819,12001,Zion,100 Mile,Virgin,United States,2016-04-16,06:00:00,solo,156.7,3690.0,-3690.0,14,62,62,2016
+820,9994,100 Miles Of Istria,100 Miles,Umag,Croatia,2016-04-15,00:00:00,solo,170.9,7120.0,-7400.0,12,196,196,2016
+821,13226,UMSTEAD 100,UMSTEAD 100,,United States,2016-04-02,00:00:00,solo,161.0,2450.0,-2450.0,0,156,156,2016
+822,11275,Badger Mountain Challenge,100 Mile,Kennewick,United States,2016-03-25,07:00:00,solo,156.7,4760.0,-4750.0,15,65,26,2016
+823,11003,Northburn 100 Miler,100 Mile,Cromwell,New Zealand,2016-03-19,06:00:00,solo,155.8,8230.0,-8230.0,12,50,45,2016
+824,13118,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,2016-03-18,00:00:00,solo,160.1,2791.0,-2800.0,17,75,40,2016
+825,11292,Addo Elephant Trail Run,100 Mile,Addo,South Africa,2016-02-26,14:00:00,solo,161.2,5640.0,-5170.0,16,26,26,2016
+826,11200,Ultra Desafio Passa Quatro - MG,160 Km,PASSAQUATRO,Brazil,2016-02-26,22:00:00,solo,158.4,5440.0,-5420.0,10,200,17,2016
+827,10295,Run The Rann,Ultra Trail 161 Km,Dholavira,India,2016-02-20,07:00:00,solo,155.5,670.0,-650.0,12,30,11,2016
+828,10494,Ultra Trail Hong Kong,UTHK 170,HongKong,"Hong Kong, China",2016-02-19,13:00:00,solo,157.7,7600.0,-7630.0,13,300,48,2016
+829,11947,Coldwater Rumble,100 Miles,Goodyear,United States,2016-01-23,07:00:00,solo,161.2,1620.0,-1620.0,19,500,32,2016
+830,12320,HURT 100,HURT 100 MILE ENDURANCE RUN,,United States,2016-01-16,00:00:00,solo,161.0,8200.0,-8200.0,0,53,53,2016
+831,14747,Montane Spine Races,Challenger,Edale,United Kingdom,2016-01-09,08:00:00,solo,170.5,4750.0,-4750.0,4,100,37,2016
+832,14757,Montane Spine Races,Montane Spine MRT Challenge,Edale,United Kingdom,2016-01-09,10:00:00,solo,170.5,4750.0,-4750.0,4,30,9,2016
+833,10404,UTSZ,100 Miles,Shenzhen,China,2015-12-12,04:00:00,solo,165.1,7946.0,-7866.0,16,200,9,2015
+834,10302,Alpine Challenge,100 Mile Individual,BerrysCreek,Australia,2015-11-28,04:30:00,solo,161.4,7302.0,-7321.0,4,100,25,2015
+835,10836,HK168,Full 168,TaiMeiTuk,"Hong Kong, China",2015-11-28,08:00:00,solo,170.4,8100.0,-8290.0,16,150,42,2015
+836,10969,Ultra-Trail® Three Gorges,100 Miles,Yichang,China,2015-11-27,08:00:00,solo,174.1,9080.0,-9100.0,17,50,50,2015
+837,11702,CHIMERA 100,CHIMERA 100 MILES,,United States,2015-11-14,00:00:00,solo,155.0,6520.0,-6520.0,0,42,42,2015
+838,28011,Tunnel Hill  100 & 50 mile runs,100mi,Vienna,United States,2015-11-14,07:00:00,solo,,,,21,97,97,2015
+839,11705,OZARK 100 MILE ENDURANCE RUN,OZARK 100 MILE ENDURANCE RUN,Shawnee,United States,2015-11-07,00:00:00,solo,161.0,4500.0,-4500.0,12,52,52,2015
+840,11449,PINHOTI 100,PINHOTI 100 MILES,Sylacauga,United States,2015-11-07,00:00:00,solo,161.9,4930.0,-5060.0,0,136,136,2015
+841,11450,RIO DEL LAGO 100,RIO DEL LAGO 100 MILES,,United States,2015-11-07,00:00:00,solo,166.9,3300.0,-3300.0,19,234,234,2015
+842,9201,Bromo Tengger Semeru 100 Ultra,BTS 170K,Bogor,Indonesia,2015-11-06,00:00:00,solo,171.7,8570.0,-8560.0,15,8,8,2015
+843,8753,White Rose Ultra,100 Mile,Huddersfield,United Kingdom,2015-11-01,00:00:00,solo,161.2,4610.0,-4810.0,5,32,32,2015
+844,9703,Javelina Jundred,100 Miles,FortMcDowell,United States,2015-10-31,00:00:00,solo,163.4,1850.0,-1850.0,26,279,279,2015
+845,11422,Cactus Rose,100 Mile,Bandera,United States,2015-10-24,00:00:00,solo,161.0,4400.0,-4400.0,20,26,26,2015
+846,9086,Le Grand Raid De La Réunion,Le Grand Raid De La Réunion,SaintDenis,France,2015-10-22,00:00:00,solo,160.8,10410.0,-10360.0,0,1729,1729,2015
+847,8966,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,2015-10-17,00:00:00,solo,162.4,2130.0,-2140.0,15,240,156,2015
+848,10573,The North Face Endurance Challenge Chile,160 Km,Huechuraba,Chile,2015-10-17,00:00:00,solo,161.7,7612.0,-7330.0,16,25,25,2015
+849,11924,Rodopi Advendurun,100 miles,Haidou,Greece,2015-10-16,06:00:00,solo,164.1,6610.0,-6610.0,0,159,111,2015
+850,10902,Szlak Orlich Gniazd - Ultra,Szlak Orlich Gniazd - Ultra,KwasniówDolny,Poland,2015-10-16,20:00:00,solo,161.3,2160.0,-2142.0,7,12,12,2015
+851,11731,OSJ Koumi,100 Miles,KoumiTown,Japan,2015-10-10,05:00:00,solo,166.6,8510.0,-8520.0,4,51,51,2015
+852,9570,Raleigh Challenge - Wilson Trail,Tornado 156,HongKong,"Hong Kong, China",2015-10-10,00:00:00,team,169.4,7580.0,-7950.0,9,9,9,2015
+853,10454,100 Miles Sud De France,100 Miles,bolquere,France,2015-10-09,10:00:00,solo,164.6,8000.0,-9734.0,15,500,103,2015
+854,8738,Ultra-Trail del Rincon,UTR 170K,Castielfabib,Spain,2015-10-09,00:00:00,solo,168.0,6610.0,-6610.0,15,12,12,2015
+855,10858,Cloudsplitter 100,100 Mile,Norton,United States,2015-10-03,08:00:00,solo,160.7,6930.0,-6930.0,10,50,35,2015
+856,11208,Oil Creek 100 Trail Runs,OIL CREEK 100 MILES,,United States,2015-10-03,00:00:00,solo,162.3,5420.0,-5420.0,0,84,84,2015
+857,10984,Grindstone 100,Grindstone 100,Swoope,United States,2015-10-02,00:00:00,solo,160.0,6990.0,-6990.0,15,104,104,2015
+858,10153,MAGREDI MOUNTAIN TRAIL,MAGREDI MOUNTAIN TRAIL 100 MI (MMT 100 MILE),Fontanafredda,Italy,2015-10-02,18:00:00,solo,160.5,7218.0,-7203.0,16,200,45,2015
+859,9167,Cotswold Way Century,100 Miles,ChippingCampden,United Kingdom,2015-09-26,00:00:00,solo,164.6,4090.0,-4200.0,10,57,57,2015
+860,13260,FLAGSTAFF TO GRAND CANYON STAGECOACH LINE 100 MILE,FLAGSTAFF TO GRAND CANYON STAGECOACH LINE 100 MILE ULTRA - SOLO,,United States,2015-09-26,00:00:00,solo,160.93,2134.0,,0,17,17,2015
+861,16071,Mogollon Monster 100,MOGOLLON MONSTER 100,Pine,United States,2015-09-26,00:00:00,solo,169.7,6020.0,-6020.0,13,150,33,2015
+862,8848,St Oswald's Ultra,100 Mile,Chollerford,United Kingdom,2015-09-26,00:00:00,solo,164.4,2160.0,-2200.0,13,53,53,2015
+863,10820,BEAR 100,BEAR 100,Smithfield,United States,2015-09-25,00:00:00,solo,156.8,6550.0,-6200.0,13,208,208,2015
+864,7936,Ultra-Trail Mt. Fuji,UTMF,Fuji,Japan,2015-09-25,13:00:00,solo,168.9,7180.0,-7170.0,12,1400,564,2015
+865,10766,Black River Run,100 Miles,Västerås,Sweden,2015-09-19,10:00:00,solo,161.2,1040.0,-1050.0,9,200,22,2015
+866,11169,IDAHO MOUNTAIN TRAIL ULTRA FESTIVAL,100 MILE,,United States,2015-09-19,00:00:00,solo,161.5,6810.0,-6810.0,0,57,57,2015
+867,11423,Virgil Crest Ultras,100M,,United States,2015-09-19,00:00:00,solo,161.6,6100.0,-6100.0,0,16,16,2015
+868,10700,KODIAK 100,KODIAK 100 MI,BigBearLake,United States,2015-09-18,00:00:00,solo,156.8,5330.0,-5330.0,0,35,35,2015
+869,11052,RUN RABBIT RUN,RUN RABBIT RUN 100 HARE,,United States,2015-09-18,00:00:00,solo,165.8,6160.0,-6160.0,0,45,45,2015
+870,11063,RUN RABBIT RUN,RUN RABBIT RUN 100 TORTOISE RUN,,United States,2015-09-18,00:00:00,solo,165.8,6155.0,-6155.0,0,108,108,2015
+871,12470,Glasshouse 100,GLASSHOUSE - 100 miles,,Australia,2015-09-12,00:00:00,solo,159.9,2409.0,-2397.0,20,20,20,2015
+872,12599,Haliburton Forest Trail Race,HALIBURTON FOREST TRAIL RACE - 100 miles,,Canada,2015-09-12,00:00:00,solo,161.0,3120.0,-3120.0,23,23,23,2015
+873,12958,HEADLANDS HUNDRED,HEADLANDS HUNDRED 100 MILE ENDURANCE RUN,,United States,2015-09-12,00:00:00,solo,161.0,6120.0,-6120.0,0,26,26,2015
+874,8866,L'Infernal Trail Des Vosges,160 Km,SaintNabord,France,2015-09-12,00:00:00,solo,171.6,6560.0,-6560.0,10,128,128,2015
+875,9770,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,2015-09-12,00:00:00,solo,164.2,7767.0,-7765.0,0,75,75,2015
+876,12605,LOST SOUL ULTRAMARATHON,LOST SOUL ULTRA 100 MILES,Lethbridge,Canada,2015-09-11,08:00:00,solo,161.1,5535.0,-5535.0,6,25,25,2015
+877,10903,WASATCH FRONT 100 MILE ENDURANCE RUN,WASATCH FRONT 100 MILE ENDURANCE RUN,,United States,2015-09-11,00:00:00,solo,161.0,8215.0,-7965.0,0,203,203,2015
+878,10754,Desafio Extremo Estrada Real 100 Milhas De Sabarabuçu,160 Km,Caete,Brazil,2015-09-05,07:00:00,solo,161.0,5153.0,-4821.0,7,100,1,2015
+879,10291,SUPERIOR TRAIL RACES,SUPERIOR SAWTOOTH 100 MILE TRAIL RUN,Lutsen,United States,2015-09-04,00:00:00,solo,166.0,5099.0,-4952.0,0,160,160,2015
+880,10148,THE GREAT NASEBY WATER RACE,THE GREAT NASEBY WATER RACE - 160KM,Dunedin,New Zealand,2015-08-28,12:00:00,solo,162.7,2350.0,-2350.0,31,50,37,2015
+881,8592,Ultra-Trail Du Mont-Blanc®,UTMB®,Chamonix,France,2015-08-28,00:00:00,solo,169.6,10060.0,-10060.0,16,1633,1633,2015
+882,10854,CASCADE CREST 100 MILE ENDURANCE RUN,CASCADE CREST 100 MILE ENDURANCE RUN,,United States,2015-08-22,00:00:00,solo,161.0,6700.0,-6700.0,0,99,99,2015
+883,10852,LEADVILLE TRAIL 100 RUN,100 MILE TRAIL RUN,Leadville,United States,2015-08-22,00:00:00,solo,,,,0,313,313,2015
+884,12710,Le Grand Raid Des Pyrénées,GRP160 Ultra,vielle-Aure,France,2015-08-21,00:00:00,solo,161.35,9536.0,-9536.0,0,211,211,2015
+885,10170,Rampage The Roots,Ghosts Of Yellowstone 100M,Pony,United States,2015-08-21,06:00:00,solo,166.0,7130.0,-7120.0,15,100,6,2015
+886,8392,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,2015-08-08,00:00:00,solo,170.2,3490.0,-3520.0,14,137,137,2015
+887,9715,Silverheels Endurance Run,100 Mile,Fairplay,United States,2015-08-08,00:00:00,solo,165.1,5060.0,-5060.0,21,33,33,2015
+888,10757,Angeles Crest 100 Mile Endurance Run,Angeles Crest 100 Mile Endurance Run,Arcadia,United States,2015-08-01,00:00:00,solo,160.8,6350.0,-7770.0,0,98,98,2015
+889,8728,Burning River Endurance Run,100 Mile,Hudson,United States,2015-07-25,00:00:00,solo,163.0,2470.0,-2470.0,20,125,125,2015
+890,12158,Chiemgauer 100,100 Mile,Bergen,Germany,2015-07-24,00:00:00,solo,160.0,7500.0,-7500.0,9,6,6,2015
+891,10801,LAKELAND,LAKELAND 100,,United Kingdom,2015-07-24,00:00:00,solo,161.0,6300.0,-6300.0,0,209,209,2015
+892,10515,Vermont 100 Endurance Race,100M,WestWindsor,United States,2015-07-19,04:00:00,solo,162.2,4469.0,-4459.0,25,221,221,2015
+893,10417,YOU YANGS,YOU YANGS 100 MI,LittleRiver,Australia,2015-07-19,00:00:00,solo,158.5,2958.0,-2958.0,2,25,25,2015
+894,10158,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,2015-07-18,00:00:00,solo,162.7,6145.0,-6145.0,0,154,154,2015
+895,9651,Sinister 7 Ultra,Solo,Blairmore,Canada,2015-07-11,00:00:00,solo,155.3,4300.0,-4270.0,15,52,52,2015
+896,10491,HARDROCK 100 ENDURANCE RUN,100Mi CC,,United States,2015-07-10,00:00:00,solo,161.8,10365.0,-10365.0,0,126,126,2015
+897,9743,SALOMON 4 TRAILS,SALOMON 4 TRAILS,,Germany,2015-07-08,00:00:00,solo,161.0,9288.0,-9380.0,12,431,431,2015
+898,8513,The GAX 100 Miles,The GAX 100 Miles,Ystad,Sweden,2015-07-04,00:00:00,solo,160.7,1600.0,-1590.0,5,24,24,2015
+899,9084,Western States Endurance Run,Western States Endurance Run,Auburn,United States,2015-06-27,00:00:00,solo,160.3,5950.0,-7490.0,21,255,255,2015
+900,10432,BLACK HILLS 100,BLACK HILLS 100 - 100 MILES,,United States,2015-06-26,00:00:00,solo,161.0,4950.0,-4950.0,0,32,32,2015
+901,10508,Andorra Ultra Trail Vallnord,ANDORRA RONDA DELS CIMS,Ordino,Andorra,2015-06-25,00:00:00,solo,171.0,13000.0,-13000.0,0,161,161,2015
+902,10031,Mohican Trail,THE NORTH FACE MOHICAN TRAIL 100M,Loudonville,United States,2015-06-20,00:00:00,solo,161.0,3425.0,-3425.0,0,88,88,2015
+903,10377,Bighorn Trail Run,100M,Sheridan,United States,2015-06-18,00:00:00,solo,161.3,5500.0,-5500.0,0,193,193,2015
+904,8215,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,2015-06-13,00:00:00,solo,156.7,3390.0,-3440.0,14,204,204,2015
+905,9999,Chicamocha Run,167 Km,CUNDINAMARCA,Colombia,2015-06-06,08:00:00,solo,169.1,7779.0,-7756.0,6,23,23,2015
+906,9784,Kettle Moraine 100,100 Mile,LaGrange,United States,2015-06-06,00:00:00,solo,163.8,3720.0,-3720.0,22,164,164,2015
+907,10341,OLD DOMINION 100 MILE,OLD DOMINION 100 MILE,,United States,2015-06-06,00:00:00,solo,161.0,4270.0,-4270.0,0,38,38,2015
+908,9953,SAN DIEGO 100,San Diego 100,Oceanside,United States,2015-06-06,06:00:00,solo,159.5,3617.0,-3617.0,15,154,154,2015
+909,9876,Bryce Canyon,100 Mile,Hatch,United States,2015-06-05,00:00:00,solo,159.4,4800.0,-4800.0,13,76,76,2015
+910,8839,Oh Meu Deus,K160+,Seia,Portugal,2015-06-05,00:00:00,solo,161.9,5030.0,-5030.0,12,40,40,2015
+911,10297,Trail Karpatia,Trail Karpatia,Volovets,Ukraine,2015-05-30,11:00:00,solo,164.7,8860.0,-8860.0,5,80,26,2015
+912,8484,WEST HIGHLAND WAY CHALLENGE RACE,WEST HIGHLAND WAY CHALLENGE RACE,Doune,United Kingdom,2015-05-30,00:00:00,solo,155.3,4060.0,-4110.0,7,6,6,2015
+913,9185,Borås Ultra Marathon,BUM 100 Miles,Borås,Sweden,2015-05-29,00:00:00,solo,158.8,3100.0,-3180.0,10,18,18,2015
+914,10549,SULPHUR SPRINGS,SULPHUR SPRINGS 100 MILES,Ancaster,Canada,2015-05-23,00:00:00,solo,161.0,3220.0,-3220.0,0,38,38,2015
+915,8254,HARDCORE HUNDRED MILES,100 MILES,Kayapa,Philippines,2015-05-22,00:00:00,solo,160.0,11128.0,-11137.0,11,32,32,2015
+916,8152,NUTS Karhunkierros,160k,Kuusamo,Finland,2015-05-21,00:00:00,solo,162.4,1730.0,-1720.0,7,16,16,2015
+917,10164,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,,United States,2015-05-16,00:00:00,solo,162.5,5420.0,-5420.0,0,120,120,2015
+918,8213,Via Natura,100 Meilen Ultra Trail,,Austria,2015-05-15,00:00:00,solo,166.1,7370.0,-7370.0,9,15,15,2015
+919,10790,GWINT ULTRA,GWINT ULTRA CROSS 110 MI,,Poland,2015-05-09,00:00:00,solo,160.0,3200.0,-3200.0,0,48,48,2015
+920,7980,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,2015-05-02,00:00:00,solo,161.0,1600.0,-1600.0,13,182,182,2015
+921,7974,Salomon Hammer Trail,100 Miles,allinge,Denmark,2015-05-01,00:00:00,solo,161.5,5840.0,-5840.0,12,13,13,2015
+922,10026,INDIANA TRAIL 100,INDIANA TRAIL 100 MILE,Albion,United States,2015-04-25,00:00:00,solo,161.0,4000.0,-4000.0,0,96,96,2015
+923,9451,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,2015-04-20,00:00:00,solo,171.5,10090.0,-10090.0,16,157,157,2015
+924,7754,100 Miles Of Istria,100 Miles,Umag,Croatia,2015-04-17,00:00:00,solo,169.0,6270.0,-6560.0,12,95,95,2015
+925,9963,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,2015-04-11,00:00:00,solo,159.5,2510.0,-2520.0,13,150,53,2015
+926,11132,ZUMBRO 100,ZUMBRO 100 MILE ENDURANCE RUN,,United States,2015-04-10,00:00:00,solo,161.0,4283.0,-4286.0,0,46,46,2015
+927,9875,Zion,100 Mile,Virgin,United States,2015-04-03,00:00:00,solo,156.7,3690.0,-3690.0,0,136,136,2015
+928,9810,UMSTEAD 100,UMSTEAD 100,,United States,2015-03-28,00:00:00,solo,161.0,2450.0,-2450.0,0,147,147,2015
+929,9817,Badger Mountain Challenge,100 Mile,Kennewick,United States,2015-03-27,07:00:00,solo,156.7,4760.0,-4790.0,15,65,21,2015
+930,9858,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,2015-03-21,00:00:00,solo,161.0,3600.0,-3600.0,0,44,44,2015
+931,9882,Monument Valley,100 Mile,MonumentValley,United States,2015-03-13,00:00:00,solo,161.0,2400.0,-2400.0,13,22,22,2015
+932,9530,Antelope Canyon,100 Mile,Page,United States,2015-02-21,00:00:00,solo,161.0,1900.0,-1900.0,13,18,18,2015
+933,7484,Le TREG® Ennedi Trail,LE TREG®,Fada,Chad,2015-02-06,00:00:00,solo,175.0,2250.0,-2200.0,8,6,6,2015
+934,9193,Coldwater Rumble,100 Miles,Goodyear,United States,2015-01-24,00:00:00,solo,160.9,2918.0,-2918.0,0,33,33,2015
+935,9189,HURT 100,HURT 100 MILE ENDURANCE RUN,,United States,2015-01-17,00:00:00,solo,161.0,8200.0,-8200.0,0,60,60,2015
+936,9103,Montane Spine,Challenger,Edale,United Kingdom,2015-01-10,00:00:00,solo,170.5,4748.0,-4744.0,4,32,32,2015
+937,9418,Brazos Bend 100,100M,Needville,United States,2014-12-13,00:00:00,solo,156.6,1360.0,-1360.0,0,69,69,2014
+938,8257,Alpine Challenge,100 Mile Individual,BerrysCreek,Australia,2014-11-29,04:30:00,solo,161.4,7302.0,-7321.0,4,100,19,2014
+939,7267,HK168,Full 168,TaiMeiTuk,"Hong Kong, China",2014-11-28,00:00:00,solo,168.0,5400.0,-5400.0,0,53,53,2014
+940,7134,CHIMERA 100,CHIMERA 100 MILES,,United States,2014-11-15,00:00:00,solo,155.0,6520.0,-6520.0,0,77,77,2014
+941,28013,Tunnel Hill  100 & 50 mile runs,100mi,Vienna,United States,2014-11-15,07:00:00,solo,,,,21,84,84,2014
+942,7135,RIO DEL LAGO 100,RIO DEL LAGO 100 MILES,,United States,2014-11-08,00:00:00,solo,166.9,3300.0,-3300.0,19,108,108,2014
+943,8089,Bromo Tengger Semeru 100 Ultra,BTS 170K,Bogor,Indonesia,2014-11-07,00:00:00,solo,171.7,8570.0,-8560.0,15,12,12,2014
+944,7253,Javelina Jundred,100 Miles,FortMcDowell,United States,2014-11-01,00:00:00,solo,162.9,1960.0,-1960.0,0,288,288,2014
+945,7251,OZARK 100 MILE ENDURANCE RUN,OZARK 100 MILE ENDURANCE RUN,Shawnee,United States,2014-11-01,00:00:00,solo,161.0,4500.0,-4500.0,12,36,36,2014
+946,8668,PINHOTI 100,PINHOTI 100 MILES,Sylacauga,United States,2014-11-01,00:00:00,solo,161.9,4930.0,-5060.0,0,118,118,2014
+947,7114,Cactus Rose,100 Mile,Bandera,United States,2014-10-25,00:00:00,solo,161.0,4400.0,-4400.0,20,40,40,2014
+948,7093,Le Grand Raid De La Réunion,Le Grand Raid De La Réunion,SaintDenis,France,2014-10-23,00:00:00,solo,172.6,9996.0,-9996.0,0,1147,1147,2014
+949,6692,Ultra Marathon Sovev Emek,166 Km,36581,Israel,2014-10-23,00:00:00,solo,166.0,2235.0,-2224.0,0,24,24,2014
+950,7558,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,2014-10-18,00:00:00,solo,162.4,2130.0,-2140.0,15,95,95,2014
+951,8186,The North Face Endurance Challenge Chile,160 Km,Huechuraba,Chile,2014-10-18,00:00:00,solo,160.0,8465.0,-8130.0,16,19,19,2014
+952,6919,Ultima Frontera Trail,ULTIMA FRONTERA 166,Loja,Spain,2014-10-18,00:00:00,solo,168.2,4600.0,-4600.0,0,9,9,2014
+953,6857,Rodopi Advendurun,100 miles,Haidou,Greece,2014-10-17,00:00:00,solo,164.1,6610.0,-6610.0,0,115,86,2014
+954,7485,Eco Trail Vie Di San Francesco,ECO TRAIL VIE DI SAN FRANCESCO - LONG WAY,,Italy,2014-10-12,00:00:00,solo,173.0,7100.0,-7100.0,0,60,60,2014
+955,8832,100 Miles Sud De France,100 Miles,bolquere,France,2014-10-10,00:00:00,solo,162.8,7500.0,-5700.0,0,137,137,2014
+956,7717,Raleigh Challenge - Wilson Trail,RALEIGH CHALLENGE - WILSON TRAIL TORNADO,,China,2014-10-10,00:00:00,team,173.2,7950.0,-7950.0,8,24,24,2014
+957,7771,Ultra-Trail del Rincon,UTR 170K,Castielfabib,Spain,2014-10-10,00:00:00,solo,168.0,6610.0,-6610.0,15,18,18,2014
+958,12136,Cloudsplitter 100,100 Mile,Norton,United States,2014-10-04,08:00:00,solo,166.8,7710.0,-7710.0,10,50,23,2014
+959,11207,Oil Creek 100 Trail Runs,OIL CREEK 100 MILES,,United States,2014-10-04,00:00:00,solo,162.3,5420.0,-5420.0,0,93,93,2014
+960,8553,Grindstone 100,Grindstone 100,Swoope,United States,2014-10-03,00:00:00,solo,160.0,6990.0,-6990.0,15,189,189,2014
+961,6696,MAGREDI MOUNTAIN TRAIL,MAGREDI MOUNTAIN TRAIL 100 MI (MMT 100 MILE),Fontanafredda,Italy,2014-10-03,00:00:00,solo,157.8,6548.0,-6548.0,0,87,87,2014
+962,7608,Cotswold Way Century,100 Miles,ChippingCampden,United Kingdom,2014-09-27,00:00:00,solo,164.6,4090.0,-4200.0,10,55,55,2014
+963,8199,Mountain Lakes 100,Mountain Lakes 100,OlallieLake,United States,2014-09-27,08:00:00,solo,155.6,3625.0,-3615.0,16,150,64,2014
+964,7122,BEAR 100,BEAR 100,Smithfield,United States,2014-09-26,00:00:00,solo,156.8,6550.0,-6200.0,0,167,167,2014
+965,26711,The Georgia jewel,100 Miler,Dalton,United States,2014-09-26,00:00:00,solo,,,,0,31,31,2014
+966,6852,Black River Run,100 Miles,Västerås,Sweden,2014-09-20,00:00:00,solo,161.0,2400.0,-2400.0,30,46,46,2014
+967,7120,IDAHO MOUNTAIN TRAIL ULTRA FESTIVAL,100 mile,,United States,2014-09-20,00:00:00,solo,161.5,6810.0,-6810.0,0,40,40,2014
+968,8847,St Oswald's Ultra,100 Mile,Chollerford,United Kingdom,2014-09-20,00:00:00,solo,164.4,2160.0,-2200.0,13,13,13,2014
+969,7121,Virgil Crest Ultras,100M,,United States,2014-09-20,00:00:00,solo,161.6,6100.0,-6100.0,0,20,20,2014
+970,6742,Kodiak Ultra Marathon,KODIAK 100 MI,BigBearLake,United States,2014-09-19,00:00:00,solo,156.8,5328.0,-5328.0,0,28,28,2014
+971,7681,Glasshouse 100,GLASSHOUSE - 100 miles,,Australia,2014-09-13,00:00:00,solo,159.9,2409.0,-2397.0,20,40,40,2014
+972,7199,HEADLANDS HUNDRED,HEADLANDS HUNDRED 100 MILE ENDURANCE RUN,,United States,2014-09-13,00:00:00,solo,161.0,6120.0,-6120.0,0,40,40,2014
+973,7090,L'Infernal Trail Des Vosges,160 Km,SaintNabord,France,2014-09-13,00:00:00,solo,171.6,6555.0,-6555.0,0,102,102,2014
+974,7109,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,2014-09-13,00:00:00,solo,161.0,6095.0,-6095.0,0,126,126,2014
+975,7126,PLAIN 100 MILE ENDURANCE RUN,PLAIN 100 MILE ENDURANCE RUN,,United States,2014-09-13,00:00:00,solo,161.0,7850.0,-7850.0,0,15,15,2014
+976,7594,THE GREAT NORTH WALK 100S,100 MILES,Patonga,Australia,2014-09-13,00:00:00,solo,175.0,6130.0,-6144.0,6,57,57,2014
+977,7117,RUN RABBIT RUN,RUN RABBIT RUN 100 HARE,,United States,2014-09-12,00:00:00,solo,165.8,6160.0,-6160.0,0,29,29,2014
+978,8319,RUN RABBIT RUN,RUN RABBIT RUN 100 TORTOISE RUN,,United States,2014-09-12,00:00:00,solo,165.8,6155.0,-6155.0,0,88,88,2014
+979,8140,Haliburton Forest Trail Race,HALIBURTON FOREST TRAIL RACE - 100 miles,,Canada,2014-09-07,00:00:00,solo,161.0,3120.0,-3120.0,23,27,27,2014
+980,8367,LOST SOUL ULTRAMARATHON,LOST SOUL ULTRA 100 MILES,Lethbridge,Canada,2014-09-06,08:00:00,solo,161.1,5535.0,-5535.0,6,20,20,2014
+981,6418,SUPERIOR TRAIL RACES,SUPERIOR SAWTOOTH 100 MILE TRAIL RUN,Lutsen,United States,2014-09-05,00:00:00,solo,165.0,6100.0,-6400.0,0,136,136,2014
+982,7118,WASATCH FRONT 100 MILE ENDURANCE RUN,WASATCH FRONT 100 MILE ENDURANCE RUN,,United States,2014-09-05,00:00:00,solo,161.0,8215.0,-7965.0,0,240,240,2014
+983,8130,THE GREAT NASEBY WATER RACE,THE GREAT NASEBY WATER RACE - 160KM,Dunedin,New Zealand,2014-08-29,00:00:00,solo,162.7,2350.0,-2350.0,31,32,32,2014
+984,6558,Ultra-Trail Du Mont-Blanc®,UTMB®,Chamonix,France,2014-08-29,00:00:00,solo,167.7,9618.0,-9618.0,16,1583,1583,2014
+985,7130,CASCADE CREST 100 MILE ENDURANCE RUN,CASCADE CREST 100 MILE ENDURANCE RUN,,United States,2014-08-23,00:00:00,solo,161.0,6700.0,-6700.0,0,105,105,2014
+986,7047,Le Grand Raid Des Pyrénées,GRP160 Ultra,vielle-Aure,France,2014-08-22,00:00:00,solo,164.0,9808.0,-9808.0,0,404,404,2014
+987,7091,Ultra Tour Des 4 Massifs,Ut4M 160,Grenoble,France,2014-08-22,00:00:00,solo,165.4,10550.0,-10550.0,0,245,245,2014
+988,7113,LEADVILLE TRAIL 100 RUN,100 MILE TRAIL RUN,Leadville,United States,2014-08-16,00:00:00,solo,,,,0,356,356,2014
+989,6241,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,2014-08-09,00:00:00,solo,173.5,2460.0,-2500.0,0,110,110,2014
+990,7110,Angeles Crest 100 Mile Endurance Run,Angeles Crest 100 Mile Endurance Run,Arcadia,United States,2014-08-02,00:00:00,solo,160.8,6350.0,-7770.0,0,92,92,2014
+991,7124,Burning River Endurance Run,100 Mile,Hudson,United States,2014-08-02,00:00:00,solo,163.0,2470.0,-2470.0,20,132,132,2014
+992,8268,Peak2Peak Ultra,168 Km,Singapore,Singapore,2014-08-02,00:00:00,team,168.0,6406.0,-6420.0,1,3,3,2014
+993,6974,Chiemgauer 100,100 Mile,Bergen,Germany,2014-07-25,00:00:00,solo,160.0,7500.0,-7500.0,0,21,21,2014
+994,8321,LAKELAND,LAKELAND 100,,United Kingdom,2014-07-25,00:00:00,solo,161.0,6300.0,-6300.0,0,191,191,2014
+995,8441,YOU YANGS,YOU YANGS 100 MI,LittleRiver,Australia,2014-07-20,00:00:00,solo,158.5,2960.0,-2960.0,2,16,16,2014
+996,8576,OSJ Ontake Ultra-Trail®?,100 Miles,Otaki,Japan,2014-07-19,00:00:00,solo,155.0,4200.0,-4200.0,0,61,61,2014
+997,7129,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,2014-07-19,00:00:00,solo,161.0,6030.0,-6030.0,0,157,157,2014
+998,7119,Vermont 100 Endurance Race,100M,WestWindsor,United States,2014-07-19,00:00:00,solo,161.0,4290.0,-4290.0,20,230,230,2014
+999,6572,The GAX 100 Miles,The GAX 100 Miles,Ystad,Sweden,2014-07-12,00:00:00,solo,161.0,1187.0,-1188.0,0,21,21,2014
+1000,8120,Andorra Ultra Trail Vallnord,ANDORRA RONDA DELS CIMS,Ordino,Andorra,2014-07-11,00:00:00,solo,171.0,13000.0,-13000.0,0,185,185,2014
+1001,6593,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,2014-07-11,00:00:00,solo,171.4,10090.0,-10090.0,15,150,150,2014
+1002,7133,HARDROCK 100 ENDURANCE RUN,HARDROCK 100,,United States,2014-07-11,00:00:00,solo,161.8,10365.0,-10365.0,0,100,100,2014
+1003,7081,Sinister 7 Ultra,Solo,Blairmore,Canada,2014-07-05,00:00:00,solo,161.0,5687.0,-5676.0,0,51,51,2014
+1004,6979,TRANSJURA,TRANSJURA - BASIC,,Poland,2014-07-04,00:00:00,solo,164.0,3500.0,-3500.0,0,32,32,2014
+1005,5627,Western States Endurance Run,Western States Endurance Run,Auburn,United States,2014-06-28,00:00:00,solo,161.0,5510.0,-7000.0,0,297,297,2014
+1006,7194,BLACK HILLS 100,BLACK HILLS 100 - 100 MILES,,United States,2014-06-27,00:00:00,solo,161.0,4950.0,-4950.0,0,32,32,2014
+1007,8040,Mohican Trail,THE NORTH FACE MOHICAN TRAIL 100M,Loudonville,United States,2014-06-21,00:00:00,solo,161.0,3425.0,-3425.0,0,108,108,2014
+1008,7127,Bighorn Trail Run,100M,Sheridan,United States,2014-06-19,00:00:00,solo,161.3,5500.0,-5500.0,0,118,118,2014
+1009,7131,Bryce Canyon,100 Mile,Hatch,United States,2014-06-14,00:00:00,solo,161.0,4200.0,-4200.0,0,89,89,2014
+1010,6661,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,2014-06-14,00:00:00,solo,156.7,3390.0,-3440.0,14,179,179,2014
+1011,6736,COUREURS CELESTES,LA GRANDE RANDONNEE CELESTE,,Belgium,2014-06-07,00:00:00,solo,160.0,5000.0,-5000.0,0,40,40,2014
+1012,7132,Kettle Moraine 100,100 Mile,LaGrange,United States,2014-06-07,00:00:00,solo,161.9,2682.0,-2682.0,0,111,111,2014
+1013,7989,OLD DOMINION 100 MILE,OLD DOMINION 100 MILE,,United States,2014-06-07,00:00:00,solo,161.0,4270.0,-4270.0,0,34,34,2014
+1014,7108,SAN DIEGO 100,San Diego 100,Oceanside,United States,2014-06-07,00:00:00,solo,160.9,4790.0,-4790.0,0,142,142,2014
+1015,7060,Thy Ultra Trail,THY ULTRA-TRAIL 100 MILES,Snedsted,Denmark,2014-06-07,00:00:00,solo,163.0,600.0,-600.0,0,11,11,2014
+1016,9040,Trail Karpatia,Trail Karpatia,Volovets,Ukraine,2014-06-07,00:00:00,solo,170.0,8120.0,-7950.0,3,12,12,2014
+1017,6840,Oh Meu Deus,K160+,Seia,Portugal,2014-06-06,00:00:00,solo,166.27,7105.0,-7108.0,0,29,29,2014
+1018,7517,Chicamocha Run,167 Km,CUNDINAMARCA,Colombia,2014-05-31,00:00:00,solo,169.8,7940.0,-7917.0,6,25,25,2014
+1019,6227,Le Grand Raid 6666,Grand Raid 6666,Roquebrun,France,2014-05-30,00:00:00,solo,164.8,9849.0,-9954.0,0,56,56,2014
+1020,8179,LDWA 100,LDWA - THE VALLEYS 100,,United Kingdom,2014-05-24,00:00:00,solo,163.9,4680.0,-4680.0,17,255,255,2014
+1021,6728,SULPHUR SPRINGS,SULPHUR SPRINGS 100 MILES,Ancaster,Canada,2014-05-24,00:00:00,solo,161.0,3220.0,-3220.0,0,27,27,2014
+1022,7125,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,,United States,2014-05-17,00:00:00,solo,162.5,5420.0,-5420.0,0,141,141,2014
+1023,12085,Cruel Jewel,Cruel Jewel 100,Blairsville,United States,2014-05-16,00:00:00,solo,,,,11,125,21,2014
+1024,8670,THUNDER ROCK,THUNDER ROCK,,United States,2014-05-16,00:00:00,solo,161.0,5280.0,-5360.0,15,131,131,2014
+1025,7359,Via Natura,100 Meilen,,Austria,2014-05-09,00:00:00,solo,165.0,6755.0,-6755.0,12,8,8,2014
+1026,6659,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,2014-05-03,00:00:00,solo,161.0,1600.0,-1600.0,0,147,147,2014
+1027,7973,Salomon Hammer Trail,100 Miles,allinge,Denmark,2014-05-03,00:00:00,solo,161.4,4260.0,-4260.0,12,10,10,2014
+1028,5606,INDIANA TRAIL 100,INDIANA TRAIL 100 MILE,Albion,United States,2014-04-26,00:00:00,solo,161.0,4000.0,-4000.0,0,101,101,2014
+1029,6761,Ultra-Trail Mt. Fuji,UTMF,Fuji,Japan,2014-04-25,00:00:00,solo,169.0,9478.0,-9478.0,12,849,849,2014
+1030,7573,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,2014-04-12,00:00:00,solo,160.9,2400.0,-2400.0,0,58,58,2014
+1031,6231,100 Miles Of Istria,100 Miles,Umag,Croatia,2014-04-11,00:00:00,solo,166.6,6936.0,-7214.0,0,116,116,2014
+1032,7252,UMSTEAD 100,UMSTEAD 100,,United States,2014-04-05,00:00:00,solo,161.0,2450.0,-2450.0,0,151,151,2014
+1033,5645,Zion,100 Mile,Virgin,United States,2014-04-04,00:00:00,solo,161.0,3200.0,-3200.0,15,187,115,2014
+1034,7115,Badger Mountain Challenge,100 Mile,Kennewick,United States,2014-03-28,00:00:00,solo,161.0,4300.0,-4300.0,0,42,42,2014
+1035,7111,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,2014-03-22,00:00:00,solo,161.0,3600.0,-3600.0,0,46,46,2014
+1036,7513,Northburn Ultra Mountain Events,100 Mile,Cromwell,New Zealand,2014-03-21,06:00:00,solo,161.0,8000.0,-8000.0,12,50,29,2014
+1037,5879,La Mision,160 Km,SanMartíndelosAndes,Argentina,2014-02-22,00:00:00,solo,160.0,8500.0,-8500.0,0,242,242,2014
+1038,6240,HARDCORE HUNDRED MILES,100 MILES,Kayapa,Philippines,2014-02-21,00:00:00,solo,160.0,13000.0,-13000.0,0,16,16,2014
+1039,7203,Rocky Raccoon,100 Mile,Huntsville,United States,2014-02-01,00:00:00,solo,161.0,1800.0,-1800.0,0,279,279,2014
+1040,7319,Coldwater Rumble,100 Miles,Goodyear,United States,2014-01-25,00:00:00,solo,160.9,2918.0,-2918.0,0,52,52,2014
+1041,7112,HURT 100,HURT 100 MILE ENDURANCE RUN,,United States,2014-01-18,00:00:00,solo,161.0,7620.0,-7620.0,0,53,53,2014
+1042,8607,Montane Spine,Montane Spine Challenger,Edale,United Kingdom,2014-01-11,00:00:00,solo,169.0,5017.0,-5012.0,0,19,19,2014
+1043,5266,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,2013-11-30,00:00:00,solo,162.4,2130.0,-2140.0,0,69,69,2013
+1044,6076,HK168,Full 168,TaiMeiTuk,"Hong Kong, China",2013-11-30,00:00:00,solo,168.0,5400.0,-5400.0,0,51,51,2013
+1045,6529,Bromo Tengger Semeru 100 Ultra,BTS 170K,Bogor,Indonesia,2013-11-22,00:00:00,solo,165.2,7272.0,-7272.0,0,3,3,2013
+1046,6410,CHIMERA 100,CHIMERA 100 MILES,,United States,2013-11-16,00:00:00,solo,155.0,6520.0,-6520.0,0,88,88,2013
+1047,4939,RIO DEL LAGO 100,RIO DEL LAGO 100 MILES,,United States,2013-11-09,00:00:00,solo,165.9,3300.0,-3300.0,0,90,90,2013
+1048,4940,THE GREAT NORTH WALK 100S,100 MILES,Patonga,Australia,2013-11-09,00:00:00,solo,173.7,6500.0,-6500.0,0,31,31,2013
+1049,5662,OZARK 100 MILE ENDURANCE RUN,OZARK 100 MILE ENDURANCE RUN,Shawnee,United States,2013-11-02,00:00:00,solo,161.0,4500.0,-4500.0,0,38,38,2013
+1050,4947,PINHOTI 100,PINHOTI 100 MILES,Sylacauga,United States,2013-11-02,00:00:00,solo,161.88,4930.0,-5030.0,0,164,164,2013
+1051,4344,Cactus Rose,100 Mile,Bandera,United States,2013-10-26,00:00:00,solo,161.0,4400.0,-4400.0,0,44,44,2013
+1052,4745,Javelina Jundred,100 Miles,FortMcDowell,United States,2013-10-26,00:00:00,solo,162.9,1960.0,-1960.0,0,157,157,2013
+1053,6855,Virgin Forest Trail,Ultra-Trail®,PARANESTI,Greece,2013-10-25,00:00:00,solo,159.5,6600.0,-6600.0,0,84,84,2013
+1054,4996,CAESAR'S CAMP,CAESAR'S CAMP 100 MILE ULTRARACE,,United Kingdom,2013-10-19,00:00:00,solo,161.0,4630.0,-4630.0,0,10,10,2013
+1055,4183,Ultima Frontera Trail,ULTIMA FRONTERA 166,Loja,Spain,2013-10-19,00:00:00,solo,167.0,4820.0,-4820.0,0,11,11,2013
+1056,4944,Rodopi Advendurun,100 miles,Haidou,Greece,2013-10-18,00:00:00,solo,165.6,6965.0,-6965.0,0,57,57,2013
+1057,4671,Ultra-Trail del Rincon,UTR 170K,Castielfabib,Spain,2013-10-18,00:00:00,solo,170.0,6800.0,-6800.0,0,24,24,2013
+1058,4870,Le Grand Raid De La Réunion,Le Grand Raid De La Réunion,SaintDenis,France,2013-10-17,00:00:00,solo,164.6,10100.0,-10060.0,0,1363,1363,2013
+1059,4710,Ultra Marathon Sovev Emek,166 Km,36581,Israel,2013-10-11,00:00:00,solo,160.0,2450.0,-2450.0,0,16,16,2013
+1060,5883,Oil Creek 100 Trail Runs,OIL CREEK 100 MILES,,United States,2013-10-05,00:00:00,solo,162.3,5420.0,-5420.0,0,68,68,2013
+1061,4204,MAGREDI MOUNTAIN TRAIL,MAGREDI MOUNTAIN TRAIL 100 MI (MMT 100 MILE),Fontanafredda,Italy,2013-10-04,00:00:00,solo,162.0,7000.0,-7000.0,0,63,63,2013
+1062,4333,Mogollon Monster 100,MOGOLLON MONSTER 100,Pine,United States,2013-09-28,00:00:00,solo,170.6,7010.0,-7010.0,0,24,24,2013
+1063,4305,BEAR 100,BEAR 100,Smithfield,United States,2013-09-27,00:00:00,solo,161.0,6865.0,-6865.0,0,174,174,2013
+1064,4568,Black River Run,100 Miles,Västerås,Sweden,2013-09-21,00:00:00,solo,161.0,2400.0,-2400.0,0,22,22,2013
+1065,4123,Cotswold Way Century,100 Miles,ChippingCampden,United Kingdom,2013-09-21,00:00:00,solo,164.5,3250.0,-3250.0,0,25,25,2013
+1066,4731,Virgil Crest Ultras,100M,,United States,2013-09-21,00:00:00,solo,161.6,6100.0,-6100.0,0,18,18,2013
+1067,4938,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,2013-09-14,00:00:00,solo,161.0,6096.0,-6096.0,0,79,79,2013
+1068,4345,PLAIN 100 MILE ENDURANCE RUN,PLAIN 100 MILE ENDURANCE RUN,,United States,2013-09-14,00:00:00,solo,161.0,7850.0,-7850.0,0,13,13,2013
+1069,4307,RUN RABBIT RUN,RUN RABBIT RUN 100 HARE,,United States,2013-09-13,00:00:00,solo,165.8,6160.0,-6160.0,0,28,28,2013
+1070,9003,RUN RABBIT RUN,RUN RABBIT RUN 100 TORTOISE RUN,,United States,2013-09-13,00:00:00,solo,165.8,6155.0,-6155.0,0,55,55,2013
+1071,4943,Glasshouse 100,GLASSHOUSE - 100 miles,,Australia,2013-09-07,00:00:00,solo,159.9,2409.0,-2397.0,0,45,45,2013
+1072,4747,Haliburton Forest Trail Race,HALIBURTON FOREST TRAIL RACE - 100 miles,,Canada,2013-09-07,00:00:00,solo,160.9,3120.0,-3120.0,0,38,38,2013
+1073,4914,L'Infernal Trail Des Vosges,160 Km,SaintNabord,France,2013-09-07,00:00:00,solo,156.0,7300.0,-7300.0,0,91,91,2013
+1074,5839,OSJ Yatsugatake Super Trail,100 Miles,628-3TOKIWAKAMAKURA,Japan,2013-09-07,00:00:00,solo,160.0,6400.0,-6400.0,0,154,154,2013
+1075,5263,LOST SOUL ULTRAMARATHON,LOST SOUL ULTRA 100 MILES,Lethbridge,Canada,2013-09-06,00:00:00,solo,161.1,5535.0,-5535.0,0,29,29,2013
+1076,4341,SUPERIOR TRAIL RACES,SUPERIOR SAWTOOTH 100 MILE TRAIL RUN,Lutsen,United States,2013-09-06,00:00:00,solo,165.0,6100.0,-6400.0,0,88,88,2013
+1077,4302,WASATCH FRONT 100 MILE ENDURANCE RUN,WASATCH FRONT 100 MILE ENDURANCE RUN,,United States,2013-09-06,00:00:00,solo,161.0,8215.0,-7965.0,0,205,205,2013
+1078,4945,IDAHO MOUNTAIN TRAIL ULTRA FESTIVAL,100 MILE,,United States,2013-08-30,00:00:00,solo,161.5,6810.0,-6810.0,0,19,19,2013
+1079,3940,The North Face Ultra-Trail Du Mont-Blanc®,UTMB®,Chamonix,France,2013-08-30,00:00:00,solo,167.7,9618.0,-9618.0,0,1687,1687,2013
+1080,4285,CASCADE CREST 100 MILE ENDURANCE RUN,CASCADE CREST 100 MILE ENDURANCE RUN,,United States,2013-08-24,00:00:00,solo,161.0,6700.0,-6700.0,0,117,117,2013
+1081,6807,THE GREAT NASEBY WATER RACE,THE GREAT NASEBY WATER RACE - 160KM,Dunedin,New Zealand,2013-08-24,00:00:00,solo,162.7,2350.0,-2350.0,0,28,28,2013
+1082,4296,Le Grand Raid Des Pyrénées,GRP160 Ultra,vielle-Aure,France,2013-08-23,00:00:00,solo,161.0,9766.0,-9766.0,0,434,434,2013
+1083,6859,Mystery Ranch Ultra Challenge,Ghosts Of Yellowstone 100M,Pony,United States,2013-08-23,00:00:00,solo,161.0,8690.0,-8690.0,0,12,12,2013
+1084,4711,Ultra Tour Des 4 Massifs,Ut4M 160,Grenoble,France,2013-08-23,00:00:00,solo,167.8,10120.0,-10110.0,0,196,196,2013
+1085,4294,Leadville Trail 100 Run,100 MILE TRAIL RUN,Leadville,United States,2013-08-17,00:00:00,solo,,,,0,497,497,2013
+1086,4126,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,2013-08-10,00:00:00,solo,161.0,3030.0,-3070.0,0,97,97,2013
+1087,4406,Angeles Crest 100 Mile Endurance Run,Angeles Crest 100 Mile Endurance Run,Arcadia,United States,2013-08-03,00:00:00,solo,160.8,6350.0,-7770.0,0,74,74,2013
+1088,6325,HEADLANDS HUNDRED,HEADLANDS HUNDRED 100 MILE ENDURANCE RUN,,United States,2013-08-03,00:00:00,solo,161.0,6120.0,-6120.0,0,48,48,2013
+1089,4951,STUNT 100,STUNT 100,,Germany,2013-08-03,00:00:00,solo,161.0,4380.0,-4380.0,0,19,19,2013
+1090,4303,Burning River Endurance Run,100 Mile,Hudson,United States,2013-07-27,00:00:00,solo,161.0,2470.0,-2470.0,0,152,152,2013
+1091,4314,Chiemgauer 100,100 Mile,Bergen,Germany,2013-07-26,00:00:00,solo,160.0,7500.0,-7500.0,0,12,12,2013
+1092,4025,LAKELAND,LAKELAND 100,,United Kingdom,2013-07-26,00:00:00,solo,161.0,6300.0,-6300.0,0,124,124,2013
+1093,4343,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,2013-07-20,00:00:00,solo,161.0,6030.0,-6030.0,0,118,118,2013
+1094,4301,Vermont 100 Endurance Race,100M,WestWindsor,United States,2013-07-20,00:00:00,solo,161.0,4290.0,-4290.0,0,200,200,2013
+1095,5768,OSJ Ontake Ultra-Trail®?,100 Miles,Otaki,Japan,2013-07-13,00:00:00,solo,155.0,4200.0,-4200.0,0,28,28,2013
+1096,6662,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,2013-07-12,00:00:00,solo,168.0,10500.0,-10500.0,0,81,81,2013
+1097,4284,HARDROCK 100 ENDURANCE RUN,100Mi CC,,United States,2013-07-12,00:00:00,solo,161.8,10365.0,-10365.0,0,106,106,2013
+1098,6102,Salomon Xreid Hardangervidda,Salomon Xreid Hardangervidda,Asker,Norway,2013-07-12,00:00:00,solo,155.7,4800.0,-4800.0,0,17,17,2013
+1099,4672,TRANSJURA,TRANSJURA - BASIC,,Poland,2013-07-05,00:00:00,solo,164.0,3500.0,-3500.0,0,28,28,2013
+1100,4332,BLACK HILLS 100,BLACK HILLS 100 - 100 MILES,,United States,2013-06-29,00:00:00,solo,161.0,4400.0,-4400.0,0,64,64,2013
+1101,4297,Western States Endurance Run,Western States Endurance Run,Auburn,United States,2013-06-29,00:00:00,solo,161.0,5510.0,-7000.0,0,278,278,2013
+1102,5779,Andorra Ultra Trail Vallnord,ANDORRA RONDA DELS CIMS,Ordino,Andorra,2013-06-21,00:00:00,solo,171.0,12100.0,-12100.0,0,145,145,2013
+1103,4267,Ultra-Trail South West,100 Miles,,United Kingdom,2013-06-21,00:00:00,solo,155.0,5466.0,-5466.0,0,35,35,2013
+1104,4081,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,2013-06-15,00:00:00,solo,160.4,3442.0,-3500.0,0,142,142,2013
+1105,4311,Bighorn Mountain Wild And Scenic Trail Run,100M,Sheridan,United States,2013-06-14,00:00:00,solo,161.3,5500.0,-5500.0,0,125,125,2013
+1106,4309,SAN DIEGO 100,San Diego 100,Oceanside,United States,2013-06-08,00:00:00,solo,160.9,4790.0,-4790.0,0,82,82,2013
+1107,4329,Kettle Moraine 100,100 Mile,LaGrange,United States,2013-06-01,00:00:00,solo,161.9,2682.0,-2682.0,0,113,113,2013
+1108,4313,Mohican Trail,THE NORTH FACE MOHICAN TRAIL 100M,Loudonville,United States,2013-06-01,00:00:00,solo,161.0,3425.0,-3425.0,0,98,98,2013
+1109,4942,OLD DOMINION 100 MILE,OLD DOMINION 100 MILE,,United States,2013-06-01,00:00:00,solo,161.0,4270.0,-4270.0,0,22,22,2013
+1110,5623,Bryce Canyon,100 Mile,Hatch,United States,2013-05-31,00:00:00,solo,161.0,4200.0,-4200.0,0,114,114,2013
+1111,4292,SULPHUR SPRINGS,SULPHUR SPRINGS 100 MILES,Ancaster,Canada,2013-05-25,00:00:00,solo,161.0,3220.0,-3220.0,0,57,57,2013
+1112,4310,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,,United States,2013-05-18,00:00:00,solo,163.8,6100.0,-6100.0,0,151,151,2013
+1113,4361,Salomon Hammer Trail,100 Miles,allinge,Denmark,2013-05-04,00:00:00,solo,161.0,4000.0,-4000.0,0,15,15,2013
+1114,5079,Oh Meu Deus,K160+,Seia,Portugal,2013-04-26,00:00:00,solo,166.3,7110.0,-7110.0,0,18,18,2013
+1115,5455,SALT FLATS 100,SALT FLATS 100,,United States,2013-04-26,00:00:00,solo,161.0,3200.0,-3200.0,0,37,37,2013
+1116,4287,Ultra-Trail Mt. Fuji,UTMF,Fuji,Japan,2013-04-26,00:00:00,solo,161.0,9164.0,-9164.0,12,724,724,2013
+1117,5605,INDIANA TRAIL 100,INDIANA TRAIL 100 MILE,Albion,United States,2013-04-20,00:00:00,solo,161.0,4000.0,-4000.0,0,58,58,2013
+1118,4510,Zion,100 Mile,Virgin,United States,2013-04-19,00:00:00,solo,161.0,2700.0,-2700.0,0,93,93,2013
+1119,4417,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,2013-04-13,00:00:00,solo,160.9,2400.0,-2400.0,0,37,37,2013
+1120,4010,100 Miles Of Istria,100 Miles,Umag,Croatia,2013-04-12,00:00:00,solo,166.0,6900.0,-7200.0,0,79,79,2013
+1121,5285,UMSTEAD 100,UMSTEAD 100,,United States,2013-04-06,00:00:00,solo,161.0,2450.0,-2450.0,0,162,162,2013
+1122,4295,Badger Mountain Challenge,100 Mile,Kennewick,United States,2013-03-29,00:00:00,solo,161.0,4300.0,-4300.0,0,43,43,2013
+1123,5215,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,2013-03-23,00:00:00,solo,161.0,3600.0,-3600.0,0,54,54,2013
+1124,4080,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,2013-03-23,00:00:00,solo,161.0,1600.0,-1600.0,0,90,90,2013
+1125,4075,Northburn Ultra Mountain Events,100 Mile,Cromwell,New Zealand,2013-03-23,00:00:00,solo,161.0,8000.0,-8000.0,0,30,30,2013
+1126,3679,HARDCORE HUNDRED MILES,100 MILES,Kayapa,Philippines,2013-02-22,00:00:00,solo,160.0,10000.0,-10000.0,0,12,12,2013
+1127,5639,IRON HORSE Endurance RunS,IRON HORSE 100M,,United States,2013-02-09,00:00:00,solo,161.0,2400.0,-2400.0,0,29,29,2013
+1128,4420,Rocky Raccoon,100 Mile,Huntsville,United States,2013-02-02,00:00:00,solo,161.0,1800.0,-1800.0,0,229,229,2013
+1129,4290,HURT 100,HURT 100 MILE ENDURANCE RUN,,United States,2013-01-19,00:00:00,solo,161.0,7620.0,-7620.0,0,53,53,2013
+1130,3534,La Mision,160 Km,SanMartíndelosAndes,Argentina,2012-12-12,00:00:00,solo,160.0,9000.0,-9000.0,0,261,261,2012
+1131,3491,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,2012-11-24,00:00:00,solo,162.4,2130.0,-2140.0,0,32,32,2012
+1132,28463,Louceni,170 Km,UstinadLabem,Czech Republic,2012-11-23,00:00:00,solo,170.0,7300.0,-7200.0,24,40,40,2012
+1133,3445,CHIMERA 100,CHIMERA 100 MILES,,United States,2012-11-17,00:00:00,solo,155.0,6520.0,-6520.0,0,76,76,2012
+1134,3261,THE GREAT NORTH WALK 100S,100 MILES,Patonga,Australia,2012-11-10,00:00:00,solo,173.7,6500.0,-6500.0,0,50,50,2012
+1135,4782,OZARK 100 MILE ENDURANCE RUN,OZARK 100 MILE ENDURANCE RUN,Shawnee,United States,2012-11-03,00:00:00,solo,161.0,4500.0,-4500.0,0,46,46,2012
+1136,3444,PINHOTI 100,PINHOTI 100 MILES,Sylacauga,United States,2012-11-03,00:00:00,solo,161.9,4930.0,-5030.0,0,108,108,2012
+1137,2692,Cactus Rose,100 Mile,Bandera,United States,2012-10-27,00:00:00,solo,161.0,4400.0,-4400.0,0,47,47,2012
+1138,3226,Javelina Jundred,100 Miles,FortMcDowell,United States,2012-10-27,00:00:00,solo,162.9,1960.0,-1960.0,0,160,160,2012
+1139,3218,CAESAR'S CAMP,CAESAR'S CAMP 100 MILE ULTRARACE,,United Kingdom,2012-10-20,00:00:00,solo,161.0,4630.0,-4630.0,0,9,9,2012
+1140,3242,Ultima Frontera Trail,ULTIMA FRONTERA 166,Loja,Spain,2012-10-20,00:00:00,solo,167.0,4820.0,-4820.0,0,23,23,2012
+1141,3247,Rodopi Ultra Trail,100 miles,Haidou,Greece,2012-10-19,00:00:00,solo,165.6,6965.0,-6965.0,0,34,34,2012
+1142,2871,Le Grand Raid De La Réunion,Le Grand Raid De La Réunion,SaintDenis,France,2012-10-18,00:00:00,solo,168.9,10982.0,-10952.0,0,1363,1363,2012
+1143,3446,Oil Creek 100 Trail Runs,OIL CREEK 100 MILES,,United States,2012-10-13,00:00:00,solo,162.3,5420.0,-5420.0,0,87,87,2012
+1144,3241,MAGREDI MOUNTAIN TRAIL,MAGREDI MOUNTAIN TRAIL 100 MI (MMT 100 MILE),Fontanafredda,Italy,2012-10-12,00:00:00,solo,162.0,7000.0,-7000.0,0,48,48,2012
+1145,3689,IDAHO MOUNTAIN TRAIL ULTRA FESTIVAL,100 Mile,,United States,2012-10-06,00:00:00,solo,,,,0,16,16,2012
+1146,3436,Grindstone 100,Grindstone 100,Swoope,United States,2012-10-05,00:00:00,solo,163.0,7071.0,-7071.0,0,108,108,2012
+1147,3244,RIO DEL LAGO 100,RIO DEL LAGO 100 MILES,,United States,2012-09-29,00:00:00,solo,165.9,3300.0,-3300.0,0,55,55,2012
+1148,2705,BEAR 100,BEAR 100,Smithfield,United States,2012-09-28,00:00:00,solo,161.0,6865.0,-6865.0,0,170,170,2012
+1149,3597,Mogollon Monster 100,MOGOLLON MONSTER 100,Pine,United States,2012-09-28,00:00:00,solo,170.6,7010.0,-7010.0,0,9,9,2012
+1150,3249,Virgil Crest Ultras,100M,,United States,2012-09-22,00:00:00,solo,161.6,6100.0,-6100.0,0,32,32,2012
+1151,3442,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,2012-09-15,00:00:00,solo,161.0,6100.0,-6100.0,0,73,73,2012
+1152,3234,Glasshouse 100,GLASSHOUSE - 100 miles,,Australia,2012-09-08,00:00:00,solo,160.5,3075.0,-3075.0,0,39,39,2012
+1153,3957,Haliburton Forest Trail Race,HALIBURTON FOREST TRAIL RACE - 100 miles,,Canada,2012-09-08,00:00:00,solo,160.9,3120.0,-3120.0,0,23,23,2012
+1154,3003,L'Infernal Trail Des Vosges,160 Km,SaintNabord,France,2012-09-08,00:00:00,solo,156.0,7300.0,-7300.0,0,98,98,2012
+1155,4619,OSJ Yatsugatake Super Trail,100 Miles,628-3TOKIWAKAMAKURA,Japan,2012-09-08,00:00:00,solo,160.0,6400.0,-6400.0,0,138,138,2012
+1156,2688,PLAIN 100 MILE ENDURANCE RUN,PLAIN 100 MILE ENDURANCE RUN,,United States,2012-09-08,00:00:00,solo,161.0,7850.0,-7850.0,0,10,10,2012
+1157,4129,LOST SOUL ULTRAMARATHON,LOST SOUL ULTRA 100 MILES,Lethbridge,Canada,2012-09-07,00:00:00,solo,161.1,5535.0,-5535.0,0,20,20,2012
+1158,3254,SUPERIOR TRAIL RACES,SUPERIOR SAWTOOTH 100 MILE TRAIL RUN,Lutsen,United States,2012-09-07,00:00:00,solo,165.0,6100.0,-6400.0,0,89,89,2012
+1159,3257,WASATCH FRONT 100 MILE ENDURANCE RUN,WASATCH FRONT 100 MILE ENDURANCE RUN,,United States,2012-09-07,00:00:00,solo,161.0,8215.0,-7965.0,0,213,213,2012
+1160,3259,CASCADE CREST 100 MILE ENDURANCE RUN,CASCADE CREST 100 MILE ENDURANCE RUN,,United States,2012-08-25,00:00:00,solo,161.0,6700.0,-6700.0,0,96,96,2012
+1161,2872,Le Grand Raid Des Pyrénées,GRP160 Ultra,vielle-Aure,France,2012-08-24,00:00:00,solo,160.7,9661.0,-9661.0,0,352,352,2012
+1162,2917,Leadville Trail 100 Run,100 MILE TRAIL RUN,Leadville,United States,2012-08-18,00:00:00,solo,,,,0,363,363,2012
+1163,2665,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,2012-08-11,00:00:00,solo,161.0,3030.0,-3070.0,0,69,69,2012
+1164,2914,HEADLANDS HUNDRED,HEADLANDS HUNDRED 100 MILE ENDURANCE RUN,,United States,2012-08-04,00:00:00,solo,161.0,6120.0,-6120.0,0,18,18,2012
+1165,2694,Burning River Endurance Run,100 Mile,Hudson,United States,2012-07-28,00:00:00,solo,161.0,2470.0,-2350.0,0,199,199,2012
+1166,3240,ADAMELLO TRAIL,ADAMELLO SUPER TRAIL,,Italy,2012-07-27,00:00:00,solo,160.0,9100.0,-8180.0,0,19,19,2012
+1167,2903,Chiemgauer 100,100 Mile,Bergen,Germany,2012-07-27,00:00:00,solo,160.0,7500.0,-7500.0,0,10,10,2012
+1168,2906,LAKELAND,LAKELAND 100,,United Kingdom,2012-07-26,00:00:00,solo,161.0,6300.0,-6300.0,0,136,136,2012
+1169,2696,Angeles Crest 100 Mile Endurance Run,Angeles Crest 100 Mile Endurance Run,Arcadia,United States,2012-07-21,00:00:00,solo,160.8,6350.0,-7770.0,0,75,75,2012
+1170,2905,STUNT 100,STUNT 100,,Germany,2012-07-21,00:00:00,solo,161.5,3860.0,-3860.0,0,21,21,2012
+1171,3245,Vermont 100 Endurance Race,100M,WestWindsor,United States,2012-07-21,00:00:00,solo,161.0,4290.0,-4290.0,0,218,218,2012
+1172,3804,OSJ Ontake Ultra-Trail®?,100 Miles,Otaki,Japan,2012-07-15,00:00:00,solo,155.0,4200.0,-4200.0,0,38,38,2012
+1173,2616,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,2012-07-13,00:00:00,solo,168.0,11000.0,-11000.0,0,112,112,2012
+1174,2916,HARDROCK 100 ENDURANCE RUN,HARDROCK 100,,United States,2012-07-13,00:00:00,solo,161.8,10365.0,-10365.0,0,98,98,2012
+1175,4763,Andorra Ultra Trail Vallnord,ANDORRA RONDA DELS CIMS,Ordino,Andorra,2012-07-06,00:00:00,solo,170.0,11000.0,-11000.0,0,99,99,2012
+1176,3379,TRANSJURA,TRANSJURA - BASIC,,Poland,2012-07-06,00:00:00,solo,170.0,3500.0,-3500.0,0,75,75,2012
+1177,2664,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,2012-06-30,00:00:00,solo,161.0,4000.0,-4000.0,0,117,117,2012
+1178,2555,BLACK HILLS 100,BLACK HILLS 100 - 100 MILES,,United States,2012-06-23,00:00:00,solo,161.0,4950.0,-4950.0,0,38,38,2012
+1179,3243,Ultra-Trail South West,100 Miles,,United Kingdom,2012-06-23,00:00:00,solo,155.0,5466.0,-5466.0,0,48,48,2012
+1180,2915,Western States Endurance Run,Western States Endurance Run,Auburn,United States,2012-06-23,00:00:00,solo,161.0,5510.0,-7000.0,0,317,317,2012
+1181,3255,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,2012-06-21,00:00:00,solo,161.0,6030.0,-6030.0,0,86,86,2012
+1182,3260,Bighorn Mountain Wild And Scenic Trail Run,100M,Sheridan,United States,2012-06-15,00:00:00,solo,161.3,5500.0,-5500.0,0,116,116,2012
+1183,3492,TRAIL BRESCIA,GRAND TRAIL 3V,,Italy,2012-06-15,00:00:00,solo,160.0,9500.0,-9500.0,0,12,12,2012
+1184,2854,SAN DIEGO 100,San Diego 100,Oceanside,United States,2012-06-09,00:00:00,solo,160.9,4790.0,-4790.0,0,131,131,2012
+1185,3013,Ultra-Trail del Rincon,UTR 170K,Castielfabib,Spain,2012-06-08,00:00:00,solo,170.0,6800.0,-6800.0,0,17,17,2012
+1186,3423,Kettle Moraine 100,100 Mile,LaGrange,United States,2012-06-02,00:00:00,solo,161.9,2682.0,-2682.0,0,118,118,2012
+1187,3047,LDWA 100,LDWA - THE VALLEYS 100,,United Kingdom,2012-06-02,00:00:00,solo,161.0,4000.0,-4000.0,0,383,383,2012
+1188,3256,Mohican Trail,THE NORTH FACE MOHICAN TRAIL 100M,Loudonville,United States,2012-06-02,00:00:00,solo,161.0,3425.0,-3425.0,0,101,101,2012
+1189,3720,OLD DOMINION 100 MILE,OLD DOMINION 100 MILE,,United States,2012-06-02,00:00:00,solo,161.0,4270.0,-4270.0,0,39,39,2012
+1190,3431,SULPHUR SPRINGS,SULPHUR SPRINGS 100 MILES,Ancaster,Canada,2012-05-26,00:00:00,solo,161.0,3220.0,-3220.0,0,42,42,2012
+1191,3488,Ultra-Trail Mt. Fuji,UTMF,Fuji,Japan,2012-05-18,00:00:00,solo,156.0,9164.0,-9164.0,10,611,611,2012
+1192,3258,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,MASSANUTTEN MOUNTAIN TRAILS 100 MILE RUN,,United States,2012-05-12,00:00:00,solo,163.8,6100.0,-6100.0,0,126,126,2012
+1193,2562,Salomon Hammer Trail,100 Miles,allinge,Denmark,2012-05-11,00:00:00,solo,161.0,4000.0,-4000.0,0,8,8,2012
+1194,4509,Zion,100 Mile,Virgin,United States,2012-05-11,00:00:00,solo,161.0,2700.0,-2700.0,0,59,59,2012
+1195,5456,SALT FLATS 100,SALT FLATS 100,,United States,2012-04-27,00:00:00,solo,161.0,3200.0,-3200.0,0,41,41,2012
+1196,2910,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,2012-04-14,00:00:00,solo,160.9,2400.0,-2400.0,0,24,24,2012
+1197,4164,UMSTEAD 100,UMSTEAD 100,,United States,2012-03-31,00:00:00,solo,161.0,2450.0,-2450.0,0,150,150,2012
+1198,3433,Badger Mountain Challenge,100 Mile,Kennewick,United States,2012-03-30,00:00:00,solo,161.0,4300.0,-4300.0,0,36,36,2012
+1199,3305,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,2012-03-24,00:00:00,solo,161.0,3600.0,-3600.0,0,34,34,2012
+1200,3453,Northburn Ultra Mountain Events,100 Mile,Cromwell,New Zealand,2012-03-24,00:00:00,solo,161.0,8000.0,-8000.0,0,19,19,2012
+1201,3601,Alpine Challenge,100 Mile Individual,BerrysCreek,Australia,2012-03-17,00:00:00,solo,160.0,7100.0,-7100.0,0,11,11,2012
+1202,2320,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,2012-03-03,00:00:00,solo,161.0,1600.0,-1600.0,0,114,114,2012
+1203,3439,RUN2KILL,RUN2KILL,,Germany,2012-02-24,00:00:00,solo,161.0,4000.0,-4000.0,0,15,15,2012
+1204,5640,IRON HORSE Endurance RunS,IRON HORSE 100M,,United States,2012-02-10,00:00:00,solo,161.0,2400.0,-2400.0,0,25,25,2012
+1205,3202,Rocky Raccoon,100 Mile,Huntsville,United States,2012-02-04,00:00:00,solo,161.0,1800.0,-1800.0,0,218,218,2012
+1206,3253,HURT 100,HURT 100 MILE ENDURANCE RUN,,United States,2012-01-14,00:00:00,solo,161.0,7620.0,-7620.0,0,46,46,2012
